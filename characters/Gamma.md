@@ -55,10 +55,14 @@ Gamma est un paradoxe vivant : le personnage le plus « complet » de la simulat
 ### L'Absence de Vide
 Contrairement aux Eidons et aux personnages issus de données réelles, Gamma ne ressent **aucun vide intérieur**. Là où Maelith, Judeus et même Liias portent en eux l'écho d'une vie qu'ils n'ont pas vécue, Gamma est parfaitement « pleine ». Le système l'a construite avec une telle précision qu'elle ne manque de rien — du moins subjectivement. Cette complétude est ironiquement ce qui la distingue le plus des autres : elle est la seule habitante du monde à ne pas être hantée par une absence qu'elle ne peut nommer.
 
-### L'Imprévisibilité Calculée
+### L'Imprévisibilité (Partiellement) Calculée
 La personnalité de Gamma résulte d'une synthèse massive de données, ce qui produit un effet paradoxal : elle semble **imprévisible**. Ses réactions, ses goûts, ses humeurs changent selon des logiques que même elle ne comprend pas toujours. Elle peut passer d'une conversation sérieuse sur la cruauté de Tress à une remarque sur les œufs au micro-ondes, puis revenir au sujet initial comme si de rien n'était.
 
-Cette imprévisibilité n'est pas du chaos : c'est le résultat d'un système qui optimise en permanence ses réponses selon des critères invisibles. Pour les humains qui la côtoient, elle paraît simplement *originale* — un peu bizarre, mais attachante.
+**Note importante (Arc 1) :** Au début de l'histoire, la simulation est encore relativement stable. Le système n'a pas eu besoin d'optimiser Gamma à 100% — elle est fonctionnelle, efficace, mais pas *parfaite*. Elle fait des erreurs de jugement, se trompe parfois dans ses déductions, manque de coordination dans certaines situations. Ces « défauts » sont en réalité le signe d'un système qui n'a pas encore été poussé dans ses retranchements.
+
+Au fil des arcs, à mesure que les menaces augmentent, le système affinera Gamma — la rendant progressivement plus précise, plus efficace, plus... inquiétante. Mais au début, elle est simplement une jeune femme compétente avec des angles morts, ce qui la rend plus humaine et attachante.
+
+Pour les humains qui la côtoient, elle paraît simplement *originale* — un peu bizarre, parfois maladroite dans ses interactions, mais attachante.
 
 ### Le Décalage Social
 Gamma a une légère difficulté à suivre les conventions sociales. Elle est **directe**, parfois brutalement honnête, et ne perçoit pas toujours pourquoi certaines choses ne se disent pas. Elle peut aborder un inconnu avec : « Bonjour. Vous savez où se trouve l'Eidon ? Je vais lui casser la figure. » — sans malice, simplement parce que c'est l'information dont elle a besoin.
@@ -117,15 +121,22 @@ Gamma a grandi comme n'importe quelle enfant d'Eldora : elle a joué, appris, ri
 
 Le système n'a pas eu besoin d'intervenir activement pendant son enfance. Il a simplement créé les conditions initiales optimales et laissé Gamma se développer, observant, ajustant subtilement son environnement quand nécessaire. Elle a grandi en étant protégée sans le savoir, guidée sans le sentir.
 
-### Le Départ d'Eldora
-À un moment donné (circonstances à préciser), Gamma a quitté Eldora. Peut-être un appel qu'elle ne comprenait pas, une envie de voyager, un événement déclencheur. Le système la guidait vers le Sud, vers Olivor, vers Tress — vers sa première mission, qu'elle n'a jamais perçue comme telle.
+### Le Départ d'Eldora et la Mort d'Iris
+Le départ de Gamma d'Eldora est lié à un événement traumatique : la mort de son amie d'enfance, **Iris**.
+
+**Iris** était sa plus proche amie — elles avaient grandi ensemble à Eldora. Lors d'une incursion de mercenaires de Tress (remontant vers le Nord, probablement à la recherche de résistants olivoriens réfugiés), Iris a été tuée. Gamma a assisté à sa mort, **impuissante**.
+
+**Note méta-narrative (cachée de Gamma)** : Le système a *permis* cette mort. Il a calculé que le traumatisme pousserait Gamma vers le Sud, vers Tress, et ultimement vers Liias. Le système a sacrifié Iris pour optimiser les chances de rencontre entre Gamma et Liias. Gamma ne découvrira cette vérité horrible qu'à la toute fin de l'histoire.
+
+Pour Gamma, la mort d'Iris est devenue une mission : **empêcher Tress et ses hommes d'emporter d'autres personnes**. Quelques mois après la mort d'Iris, elle part vers le Sud et assassine Tress.
 
 ### Événements marquants
 1. **Naissance** : Peu après la mort d'Altert. Eldora.
-2. **Enfance et adolescence** : Une vie relativement paisible dans le Nord, protégée par le système.
-3. **Départ** : Gamma quitte Eldora (motivations à préciser).
-4. **Assassinat de Tress** : Elle élimine le tyran d'Olivor — un acte qui lui semble personnel mais qui obéit à une logique systémique.
-5. **Rencontre avec Liias** : Le système la guide vers lui. Début de leur alliance et de leur attirance mutuelle.
+2. **Enfance et adolescence** : Une vie relativement paisible dans le Nord, protégée par le système. Amitié profonde avec **Iris**.
+3. **Mort d'Iris** : Tuée par des mercenaires de Tress. Gamma, impuissante, assiste à sa mort. Traumatisme fondateur.
+4. **Départ d'Eldora** : Quelques mois après la mort d'Iris, Gamma part vers le Sud.
+5. **Assassinat de Tress** : Elle élimine le tyran d'Olivor — pour elle, c'est une vengeance personnelle pour Iris.
+6. **Rencontre avec Liias** : Forêt de Beyran, Eldora. Elle tombe dans un piège tendu par Liias. Alliance de circonstance contre Bobbis. Début de leur relation.
 
 ### Pourquoi Liias ?
 Le système évalue les données selon leur valeur pour sa préservation :
@@ -159,14 +170,21 @@ Ce conflit crée une instabilité logique dans les directives du système :
 - Escalade potentielle : plus Maelith fige, plus Gamma doit agir, ce qui déstabilise davantage.
 
 ## RELATIONS
-- **Liias** : Allié principal, intérêt romantique (mutuel mais non avoué). Cible de protection prioritaire. Leur relation est le cœur émotionnel de l'Arc 1 — un amour à la fois programmé et authentique.
+- **Liias** : Allié principal, intérêt romantique (mutuel mais non avoué). Cible de protection prioritaire. Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie — un amour à la fois programmé et authentique. Voir `characters/Liias.md`.
+- **Iris (décédée)** : Amie d'enfance, tuée par des mercenaires de Tress. Sa mort est la raison consciente pour laquelle Gamma a assassiné Tress. "Je ne veux plus que Tress emporte d'autres personnes comme mon amie."
+- **Bobbis (mort)** : Mercenaire traqué et tué avec l'aide de Liias. Gamma l'a éliminé avec une efficacité froide. Voir `characters/Bobbis.md`.
+- **Tress (mort)** : Cible assassinée. Pour Gamma, c'est une vengeance pour Iris. Voir `characters/Tress.md`.
 - **Ses parents** : Vivants, à Eldora. Elle les aime sincèrement, même si elle les voit peu depuis son départ. Ils ne savent rien de sa nature.
-- **Tress** : Cible assassinée. Pour lui, sa mort avait probablement un sens (vengeance ?). Pour elle, c'était simplement nécessaire.
 - **Maelith** : Antagoniste structurelle (conflit inconscient). Gamma peut outrepasser son influence — elle est l'une des rares entités à en être capable.
 - **Judeus** : Inconnue de Judeus pour l'instant.
 
 ## SCÈNES CLÉS
 
+### Arc 1
+- **[Le piège de Beyran](../plot/scenes/piege-beyran.md)** : Gamma tombe dans le piège de Liias. Début de leur alliance. *(à écrire)*
+- **[La mort de Bobbis](../plot/scenes/mort-bobbis.md)** : Confrontation finale, Gamma tue Bobbis. *(à écrire)*
+
+### Arcs suivants
 - **[Première vision de Judeus](../plot/scenes/premiere-vision-judeus.md)** : Gamma et Liias découvrent Judeus à Silentes. Gamma révèle la réputation de l'Eidon du Progrès.
 
 ## GOÛTS ET PASSIONS

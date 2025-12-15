@@ -12,9 +12,33 @@ Cerdon est le principal conseiller et stratège de Judeus. Homme d'expérience e
 
 ## APPARENCE
 
-Cerdon est un homme d'environ **70 ans**, marqué par les décennies de service mais toujours droit et alerte. Son visage porte les sillons du temps et des responsabilités — rides profondes, regard perçant sous des sourcils broussailleux grisonnants. Sa carrure trahit un passé militaire : épaules larges, posture impeccable malgré l'âge.
+### Physionomie générale
+Cerdon est un homme d'environ **70 ans**, à la carrure encore imposante qui trahit un passé militaire : épaules larges, posture rigoureusement droite malgré l'âge. Il mesure environ 1m82 et maintient une prestance naturelle, celle d'un homme habitué au commandement et à la rigueur.
 
-Il s'habille de manière fonctionnelle mais soignée, privilégiant des vêtements sombres adaptés à son rôle de conseiller de l'ombre. Aucun ornement inutile — Cerdon est un homme d'efficacité, pas d'apparat.
+### Visage et traits
+Son visage est marqué par les décennies de service, avec des traits anguleux et aristocratiques. Le temps y a tracé des **rides profondes et expressives** — particulièrement autour des yeux et au front — qui lui donnent une apparence sévère au repos, mais qui se muent en lignes de sagesse lorsqu'il se concentre. Ses **yeux gris acier** sont perçants et attentifs, toujours en train d'observer, d'analyser. Le regard est celui d'un stratège, d'un homme qui voit ce que les autres ne remarquent pas.
+
+Il porte des **lunettes rondes à monture dorée fine**, discrètes mais élégantes, qui ajoutent une touche intellectuelle à son apparence. Ses **cheveux gris argenté** sont soigneusement coiffés en arrière, mi-longs et disciplinés. Une **barbe courte grisonnante** encadre sa mâchoire carrée et sa bouche fine, toujours sous contrôle.
+
+### Tenue vestimentaire
+Cerdon incarne l'élégance fonctionnelle. Il porte un **costume trois-pièces parfaitement ajusté** dans les tons bleu nuit et violets profonds :
+- Une **chemise violet sombre** au col rigide
+- Un **gilet bleu marine** boutonné avec précision
+- Un **pantalon assorti** à la coupe impeccable, légèrement retroussé aux chevilles
+- Des **gants de cuir noir** qu'il porte en permanence — un détail pratique autant que symbolique de sa discrétion
+
+Par-dessus, il arbore un **long manteau noir** à la coupe militaire, descendant jusqu'aux genoux. Le vêtement est somptueux sans être ostentatoire :
+- Un imposant **col de fourrure noire** aux épaules, qui lui confère une silhouette imposante
+- Des **broderies dorées discrètes** sur les épaulettes et le long des coutures, seules concessions décoratives
+- Une **doublure rouge bordeaux** visible à l'intérieur, ajoutant une touche de couleur cachée
+- Des **boutons et fermoirs dorés** fonctionnels
+
+Il porte des **bottes de cuir noir**, pratiques et sobres, adaptées aux longues journées de marche dans les couloirs du palais.
+
+### Attitude et gestuelle
+Cerdon se déplace avec une **économie de mouvement calculée**. Chaque geste est mesuré, chaque pas assuré. Il a l'habitude de garder une main gantée repliée contre son torse dans une posture de réflexion, tandis que l'autre reste libre pour manipuler documents ou armes si nécessaire. Son port de tête est toujours droit, son regard toujours éveillé.
+
+Aucun ornement superflu, aucun bijou — Cerdon est un homme d'efficacité, pas d'apparat. Mais son élégance naturelle et la qualité de ses vêtements trahissent son rang et l'importance de sa fonction.
 
 ---
 

@@ -15,9 +15,13 @@ Seth n'a pas inventé la technologie de simulation générative — il l'a **dé
 ## APPARENCE
 
 **Dans le monde réel :**
-- Homme jeune, probablement dans la vingtaine ou le début de la trentaine
-- Malade en phase terminale durant la création de la simulation
-- Aucune description physique canonique précise
+- Homme jeune, dans la vingtaine ou le début de la trentaine
+- Cheveux blonds, courts
+- Yeux verts
+- Visage fin, léger duvet de barbe blonde
+- Style vestimentaire décontracté : pull beige avec un logo, écharpe bordeaux/rouge foncé, pantalon cargo kaki, casquette (noir et beige)
+- Allure détendue, légèrement nonchalante — un chercheur qui ne se prend pas au sérieux
+- Malade en phase terminale durant la création de la simulation (invisible extérieurement)
 
 **Dans la simulation :**
 - Seth n'a **aucune apparence** — il n'a jamais été incarné

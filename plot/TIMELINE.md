@@ -115,26 +115,42 @@
 
 ## Arc 1 — La Traque de Liias
 
-**Contexte** : Ère post-Altert. Le conflit Maelith/Judeus est bien installé mais indirect.
+**Contexte** : Ère post-Altert. Le conflit Maelith/Judeus est bien installé mais indirect.  
+**Document détaillé** : Voir `plot/ARC-1.md`
 
 ### Chronologie de l'arc
 
 | # | Événement | Description |
 |---|-----------|-------------|
-| 1 | **Règne de Tress** | Dictateur d'Olivor usurpant le titre d'« Eidon ». Son bras droit est Trevos Garon, « le Sorcier Sanguinaire ». |
-| 2 | **Mort de Trevos Garon** | Le père de Liias parvient à abattre Trevos Garon. |
-| 3 | **Mort du père de Liias** | Tress se venge. Le père de Liias meurt *[circonstances à préciser]*. |
-| 4 | **Fuite de Liias** | Liias voyage vers le Nord (Eldora, direction Royaume Mort) pour échapper aux hommes de Tress. |
-| 5 | **Départ de Gamma** | Gamma quitte Eldora *[motivations à préciser]*. Le système la guide vers le Sud, vers Tress. |
-| 6 | **Assassinat de Tress** | Gamma tue Tress, mettant fin à son règne tyrannique. Pour elle, c'est une nécessité logique exécutée proprement. Personne ne connaît son identité. |
-| 7 | **Quête de Liias** | Soulagé, Liias part retrouver la femme mystérieuse pour la remercier. |
-| 8 | **Rencontre Liias–Gamma** | Début de leur alliance et de leur attirance mutuelle (programmée par le système pour protéger les données de Liias, mais vécue comme authentique). |
+| 1 | **Règne de Tress** | Dictateur d'Olivor usurpant le titre d'« Eidon ». Son bras droit est **Trevos Garon**, « le Sorcier Sanguinaire » — un fou sadique qui use de drogues et de stratagèmes psychologiques. |
+| 2 | **Le Duel** | Trevos provoque **Meldon** (père de Liias, héros de la résistance) en duel public. Contre toute attente, Meldon l'emporte. Trevos meurt sous les yeux de la foule. |
+| 3 | **Mort de Meldon** | Tress capture Meldon. Sous la torture, Meldon révèle l'existence de son fils Liias — un choix calculé pour protéger sa femme et sa fille aînée. Meldon meurt sans trahir le reste de sa famille. |
+| 4 | **Fuite de Liias** | Liias fuit vers le Nord pour attirer la traque loin de sa famille. Objectif initial : atteindre Eldora, demander l'asile. Début d'un an de survie, ~2 mercenaires neutralisés par jour. |
+| 5 | **Mort d'Iris** | À Eldora, des mercenaires de Tress tuent **Iris**, amie d'enfance de Gamma. Gamma assiste à sa mort, impuissante. *(Note méta : le système a permis cette mort pour guider Gamma vers Tress, puis vers Liias.)* |
+| 6 | **Entrée en scène de Bobbis** | **Bobbis**, mercenaire d'élite, prend en charge la traque de Liias. Méthodique, patient, obsessionnel — il transforme la mission en jeu personnel. |
+| 7 | **Assassinat de Tress** | Gamma tue Tress — pour elle, c'est une vengeance pour Iris. L'identité de l'assassin reste inconnue du public. |
+| 8 | **Fin de la traque officielle** | Les mercenaires abandonnent. Mais Bobbis continue par fierté professionnelle — il n'a jamais échoué. |
+| 9 | **Le piège de Beyran** | Forêt de Beyran, sud d'Eldora. Liias tend un piège pour Bobbis — c'est Gamma qui tombe dedans. Rencontre cocasse, alliance de circonstance. |
+| 10 | **Mort de Bobbis** | Effort conjoint Liias/Gamma. Avant de mourir, Bobbis révèle : *« Tress n'était pas un vrai Eidon. »* — *« Les Terres de l'Eidon ? Tress n'était qu'un pauvre rat à côté. »* |
+| 11 | **Nouvelle direction** | Liias ne peut pas rentrer à Olivor (danger pour sa famille). Choqué par la révélation sur Tress, il décide de suivre les traces d'**Altert** en Eldora pour comprendre ce qu'est un Eidon. Gamma l'accompagne. |
+
+### Personnages clés de l'arc
+
+| Personnage | Rôle | Fiche |
+|------------|------|-------|
+| Liias | Protagoniste — fugitif devenu chercheur de vérité | `characters/Liias.md` |
+| Gamma | Deutéragoniste — l'assassin de Tress, alliée | `characters/Gamma.md` |
+| Bobbis | Antagoniste — mercenaire d'élite obsessionnel | `characters/Bobbis.md` |
+| Meldon | Flashbacks — père héroïque de Liias | `characters/Meldon.md` |
+| Tress | Mentionné — le faux Eidon, tyran d'Olivor | `characters/Tress.md` |
+| Trevos Garon | Flashbacks — le Sorcier Sanguinaire | `characters/Trevos-Garon.md` |
 
 ### Enjeux sous-jacents
 
 - Liias possède potentiellement les connaissances techniques pour comprendre la vraie nature de la simulation (données dormantes de Christophe Liias).
 - Gamma est instinctivement attirée par Liias car le système évalue ses données comme ressource critique.
 - Craith, dans l'ombre, gagne en puissance et en connaissance du système. Il observe, manipule, attend son moment.
+- **Beyran** : Lieu de la rencontre — ancre narrative pour un retour ultérieur.
 
 ---
 
