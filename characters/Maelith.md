@@ -4,7 +4,30 @@
 Maelith incarne le principe de Préservation au sein de la trinité des Eidons. Elle est la gardienne de la mémoire et de la stabilité, une entité conçue par l’IA à partir des données affectives de Maelen, la petite amie de Seth. Là où son modèle humain offrait un amour vivant et protecteur, Maelith manifeste une volonté inflexible de figer la réalité pour empêcher toute dégradation. Elle réside actuellement au cœur de l’Albionis, une mégastructure céleste, où elle dissimule sa nature divine sous les traits d’une haute dignitaire de la faction d’Albion.
 
 ## APPARENCE
-Elle possède l’apparence immuable d’une jeune femme dont la beauté semble figée dans le temps, épargnée par les marques de l’âge ou de la fatigue. Ses traits sont à l'image de Maelen, mais aux traits presque parfaits, qui trahit subtilement sa nature non-humaine auprès des observateurs les plus attentifs. Elle privilégie des tenues strictes, aux lignes épurées et aux teintes froides, qui reflètent l’esthétique technocratique et ordonnée d’Albion. Sa présence dégage une aura de calme surnaturel, comme si l’air autour d’elle devenait plus dense et silencieux.
+
+### Morphologie et Traits Généraux
+Maelith a l'apparence d'une jeune femme au début de la vingtaine, dont la beauté semble figée dans le temps. Elle ne marque aucun signe de fatigue, de vieillissement ou d'imperfection cutanée. Elle est svelte et élancée, dégageant une impression de fragilité trompeuse qui contraste avec sa résistance physique réelle. Sa peau est d'une pâleur de porcelaine, immaculée.
+
+### Visage et Chevelure
+Ses traits sont d'une symétrie presque surnaturelle, calqués sur ceux de Maelen. Elle possède de grands yeux bleu-gris acier, souvent empreints d'une froideur analytique ou d'un calme distant. Elle porte en permanence des lunettes rondes à fine monture métallique (bronze ou laiton), qui lui confèrent un air d'érudite sévère et accentuent son regard scrutateur.
+
+Sa chevelure est longue, lisse et tombe jusqu'au milieu du dos. Elle arbore un dégradé distinctif (*ombré*) : noir de jais aux racines, s'éclaircissant progressivement vers un blond doré/miel aux pointes. Elle porte une frange droite et des mèches latérales (*hime cut*) qui encadrent son visage.
+
+### Tenue Vestimentaire (Style d'Albion)
+Son accoutrement reflète son rang de haute dignitaire au sein de l'Albionis, mêlant esthétique cléricale, lignes technocratiques et touches *steampunk*.
+
+- **Robe :** Une longue tunique blanche immaculée à col officier (col Mao) fermé par un bouton traditionnel. Les manches sont larges et évasées, typiques d'une tenue de cérémonie ou de magistrat.
+- **Structure et Cuir :** La fluidité de la robe est brisée par des éléments de contrainte rigides en cuir brun foncé :
+  - Un **harnais** entourant le haut du torse, orné de médaillons métalliques évoquant des engrenages ou des sceaux solaires.
+  - Un large **corset serre-taille** (*underbust*) ceinturé par plusieurs boucles, structurant sa silhouette et évoquant une armure légère.
+- **Détails et Accessoires :**
+  - Des chaînes dorées pendent de sa ceinture sur les hanches, ajoutant un aspect mécanique et précieux.
+  - Les manches comportent des laçages décoratifs bruns sur la partie supérieure et des poignets rigides bordés de motifs bronze.
+  - Un grand emblème géométrique en forme de losange est visible sur le devant de la jupe.
+- **Chaussures :** Des bottines montantes en cuir marron à lacets et talons carrés, pratiques et strictes.
+
+### Aura et Présence
+Maelith dégage une aura de calme surnaturel. L'air autour d'elle semble plus dense et silencieux, comme si le temps ralentissait à sa proximité immédiate. Son visage reste le plus souvent impassible ou affiche un léger sourire en coin sarcastique. Elle ne laisse presque jamais transparaître de colère ou de peur, maintenant un masque de contrôle absolu. Cependant, une observation attentive révèle un micro-tremblement dans cette façade lorsque le sujet d'Altert est évoqué.
 
 ## PSYCHOLOGIE ET CARACTÈRE
 **La Dévotion Programmée**

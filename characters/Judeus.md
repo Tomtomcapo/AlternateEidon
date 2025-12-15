@@ -6,7 +6,31 @@ Judeus incarne le principe de Progression au sein de la trinité des Eidons. Ell
 
 ## APPARENCE
 
-Judeus apparaît sous les traits d'une jeune femme à l'allure vive et assurée. Son visage conserve une expressivité humaine marquée, souvent animée par un sourire ambigu ou un regard provocateur. Ses traits rappellent Judith, mais ils sont accentués par une énergie presque agressive, comme si chaque mouvement trahissait une impatience sous-jacente. Elle privilégie des vêtements fonctionnels, adaptés à la surface et aux environnements instables, mêlant éléments militaires, civils et symboliques selon les cultures qu'elle traverse. Sa présence impose moins le silence que la tension. Là où Maelith calme l'air autour d'elle, Judeus le charge d'électricité latente.
+### Caractéristiques générales
+
+Judeus apparaît sous les traits d'une jeune femme à la peau claire et à la carrure svelte mais athlétique. Elle dégage une aura de confiance, voire d'arrogance, souvent soulignée par sa posture : bras croisés, dos droit ou main tendue vers l'avant dans un geste de commandement. Ses traits rappellent Judith, mais ils sont accentués par une énergie presque agressive, comme si chaque mouvement trahissait une impatience sous-jacente. Sa présence impose moins le silence que la tension. Là où Maelith calme l'air autour d'elle, Judeus le charge d'électricité latente.
+
+### Visage et chevelure
+
+- **Yeux :** Elle possède des yeux en amande d'une couleur **violet améthyste** intense et perçante. Son regard est souligné par un maquillage distinctif : un trait d'eye-liner rouge vif (ou fard à paupières) appliqué aux coins externes des yeux, accentuant son expression féline et sévère.
+- **Cheveux :** Elle arbore une chevelure **châtain** (brun moyen) mi-longue affichant un léger dégradé de couleur, s'arrêtant juste au-dessus des épaules. Sa coiffure se caractérise par une frange droite et effilée couvrant le front, tandis que les pointes de ses cheveux se terminent par de larges boucles en spirale (anglaises) volumineuses et parfaitement définies de chaque côté du visage.
+- **Expression :** Elle affiche fréquemment un sourire en coin (*smirk*) suffisant ou une expression neutre et froide, témoignant d'une personnalité calculatrice.
+
+### Tenue et équipement
+
+Elle porte une tenue de combat complète évoquant une classe de type « Chevalier Noir », « Mage de Guerre » ou « Paladin », dominée par des teintes sombres (violet, noir et gris anthracite) et rehaussée de détails dorés ternes.
+
+**Vêtements**
+- **La Cape :** Élément central de sa silhouette, elle porte une longue cape à capuchon d'un **violet profond**. La cape est ornée de liserés dorés sur les bords. On distingue deux symboles de croix stylisée (ressemblant à une croix pattée ou une croix de fer) : une petite sur l'épaule droite (vue de face) et une très grande brodée au centre du dos.
+- **Le Tabard :** Sous son armure, elle porte une tunique ou un tabard violet assorti à la cape, fendu au milieu, qui descend jusqu'aux chevilles à l'arrière et sur les côtés, offrant une liberté de mouvement.
+
+**Armure**
+- **Plastron :** Elle est protégée par un corset-armure rigide de couleur noire ou gris très foncé, moulant le buste et la taille. L'armure est segmentée et renforcée par des bordures métalliques couleur bronze/or vieilli.
+- **Bras :** Elle porte des gantelets blindés noirs qui remontent jusqu'aux coudes, protégeant les avant-bras.
+- **Jambes :** Ses jambes sont couvertes par des jambières blindées noires, incluant des genouillères pointues. Elle est chaussée de bottes blindées à talons, assurant à la fois protection et stature.
+
+**Armement**
+- Une épée est visible, accrochée à sa hanche gauche (pour une main droite dominante), dissimulée en partie sous sa cape lorsqu'elle est vue de dos.
 
 ## PSYCHOLOGIE ET CARACTÈRE
 

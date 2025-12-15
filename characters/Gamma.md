@@ -17,7 +17,35 @@ Le système a inconsciemment synthétisé une entité optimale pour sa propre pr
 « Gamma » est un nom technique/scientifique, reflétant son origine systémique plutôt qu'humaine. Ce choix inconscient du système traduit sa nature fondamentalement différente des autres Eidons.
 
 ## APPARENCE
-Gamma est une jeune femme d'une vingtaine d'années aux longs cheveux vert foncé — une couleur rare qui attire immédiatement l'attention — et aux yeux ambrés, vifs et scrutateurs. Son visage exprime une curiosité perpétuelle, souvent accompagnée d'un demi-sourire difficile à interpréter. Elle se déplace avec une aisance naturelle, ni gracieuse ni maladroite, simplement *efficace*. Sa tenue varie selon les circonstances, mais elle privilégie les vêtements pratiques qui permettent le mouvement. Rien dans son apparence ne trahit sa nature : elle ressemble à n'importe quelle jeune femme du monde, peut-être un peu plus mémorable que la moyenne.
+
+### Apparence Générale
+Gamma est une jeune femme à la stature élancée et athlétique. Elle dégage une aura sérieuse, calme et déterminée. Sa silhouette est fine, avec des jambes longues mises en valeur par sa tenue. Sa peau est d'une carnation pâle et uniforme.
+
+### Visage et Cheveux
+*   **Visage :** Elle possède un visage aux traits fins, avec un menton légèrement pointu. Son expression est généralement neutre, voire froide.
+*   **Yeux :** Ses yeux sont l'un de ses traits les plus marquants. Ils sont en amande, légèrement bridés (tsurime), avec des iris d'une couleur **or intense** ou ambre brillant, qui contrastent fortement avec ses cheveux et sa tenue sombre. Son regard est perçant.
+*   **Cheveux :** Elle a une longue chevelure lisse et soyeuse de couleur **vert forêt profond** (un vert foncé légèrement désaturé). Ses cheveux lui arrivent jusqu'au bas du dos. La coiffure se compose d'une frange droite effilée qui tombe juste au-dessus des yeux, encadrée par deux mèches plus longues (hime cut) qui descendent jusqu'aux clavicules.
+
+### Tenue Vestimentaire
+Elle porte une tenue pratique, mélangeant un style civil décontracté et un équipement tactique léger.
+
+*   **Haut :**
+    *   Un **col roulé noir** moulant porté près du corps.
+    *   Par-dessus, elle porte un **gilet (cardigan) en maille beige** ou couleur sable. Ce gilet est boutonné sur le devant, possède des bords-côtes aux poignets et au bas, et présente une coupe légèrement ample et confortable.
+    *   Un écusson ou un patch tactique gris foncé avec un symbole blanc est cousu sur la partie supérieure de sa manche gauche.
+*   **Bas :**
+    *   Un **short noir** court, à coupe droite, arrivant à mi-cuisse.
+*   **Chaussures :**
+    *   Elle porte des **bottes de combat noires** en cuir, montantes et lacées, avec des sangles à boucles sur le haut de la cheville. Les semelles sont épaisses et crantées.
+    *   D'épaisses chaussettes blanches côtelées dépassent du haut des bottes.
+
+### Accessoires et Équipement
+*   **Accessoires de tête :** Une barrette dorée métallique en forme de deux losanges entrelacés (géométrique) retient une mèche de cheveux sur le côté gauche de sa tête.
+*   **Bijoux :** Elle porte un collier avec un cordon brun et un pendentif en métal argenté de forme géométrique (ressemblant à un pentagone ou un diamant évidé).
+*   **Équipement tactique :** Elle porte une **ceinture utilitaire en cuir brun** autour de la taille, par-dessus son gilet. Cette ceinture est équipée de plusieurs sacoches en cuir rigide (au moins deux grandes à l'arrière et une plus petite sur le côté), fermées par des boutons-pression argentés, suggérant qu'elle transporte du matériel ou des munitions.
+
+### Note narrative
+Rien dans son apparence ne trahit sa nature systémique : elle ressemble à n'importe quelle jeune femme du monde, peut-être un peu plus mémorable que la moyenne. Elle se déplace avec une aisance naturelle, ni gracieuse ni maladroite, simplement *efficace*.
 
 ## PSYCHOLOGIE ET CARACTÈRE
 

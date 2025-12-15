@@ -6,7 +6,27 @@ Liias est le protagoniste principal de l'Arc 1. Jeune homme solitaire, il est is
 **Enjeu latent** : Liias possède potentiellement dans ses « données » les connaissances techniques pour comprendre la vraie nature de la simulation et de Primary. Cette capacité reste dormante au début de son arc.
 
 ## APPARENCE
-Homme d'apparence jeune. Traits marqués par une année d'errance et de fuite. Tenue de voyageur usée.
+
+### Physique
+- **Âge apparent** : Fin d'adolescence / début vingtaine (17-21 ans)
+- **Silhouette** : Stature moyenne, corps mince mais endurant — façonné par une année de fuite et de survie
+- **Visage** : Traits fins mais déterminés, mâchoire légèrement marquée, expression souvent pensive ou mélancolique
+- **Yeux** : Bleu clair, regard calme mais porteur d'une profondeur silencieuse
+- **Cheveux** : Châtain moyen, mi-longs jusqu'aux épaules, ondulés et légèrement ébouriffés — coiffure naturelle de voyageur qui ne se soucie plus de son apparence
+- **Peau** : Claire, légèrement hâlée par l'exposition au soleil durant ses voyages
+
+### Tenue de voyageur
+- **Veste** : Blouson de style utilitaire couleur beige/kaki, légèrement usé, avec capuche et multiples poches
+- **Haut** : T-shirt blanc simple sous la veste
+- **Bas** : Jean bleu délavé, retroussé aux chevilles
+- **Chaussures** : Bottes de randonnée beige/marron, robustes et pratiques
+- **Accessoires** :
+  - **Gants** : Mitaines tactiques vert olive, doigts coupés — protection pour les mains tout en gardant la dextérité
+  - **Sac à dos** : Grand sac militaire vert olive, volumineux — contient tout ce qu'il possède pour survivre
+  - **Ceinture** : Cuir marron simple
+
+### Impression générale
+Liias dégage une aura de voyageur solitaire et résilient. Son équipement, bien que fonctionnel, montre les signes d'une longue route. Son regard porte à la fois la fatigue de la fuite et une détermination tranquille. Dans les moments de repos, il peut paraître presque serein — un jeune homme qui a appris à trouver la paix dans les interstices du danger.
 
 ## PSYCHOLOGIE ET CARACTÈRE
 - **Motivations** : Survie, puis reconnaissance (retrouver Gamma pour la remercier).
