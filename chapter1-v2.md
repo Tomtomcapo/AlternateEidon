@@ -72,43 +72,51 @@ Sa respiration était régulière. Sa posture, malgré l'inconfort évident de l
 
 Liias resserra sa prise sur le couteau. Tout en lui hurlait *danger*. Elle ne ressemblait pas aux mercenaires qu'il avait croisés pendant sa fuite. Justement. Les plus dangereux étaient ceux qui ne correspondaient pas au profil.
 
-« Hmm... » Elle pencha la tête, examinant le mécanisme au-dessus d'elle. « C'est un piège à ours modifié, ou t'as inventé ça toi-même ? »
+« Hmm. »
 
-Sa voix était calme. Posée. Avec une pointe de curiosité sincère.
+Elle penchait légèrement la tête, observant le mécanisme au-dessus d'elle.
+
+« C'est un piège à ours modifié, ou tu l'as inventé toi-même ? »
+
+Sa voix était calme. Décontractée. Comme si elle discutait d'un sujet banal autour d'un feu de camp.
 
 Il ne répondit pas. Continua son analyse. Équipement tactique, mais pas militaire. Sacoches de cuir à la ceinture, bottes de combat usées par la route. Pas d'arme visible, ce qui ne signifiait rien. Une barrette dorée retenait une mèche de cheveux sur le côté, géométrique, presque trop élégante pour une vagabonde.
 
 *Chasseuse indépendante*, supposa-t-il. *Ou quelque chose d'autre.*
 
-« Le nœud coulissant sur la cheville gauche, c'est malin, » poursuivit-elle, tournant légèrement la tête pour mieux voir. « Quoique... le contrepoids est un peu trop léger. Enfin, pour moi. Avec dix kilos de plus, je me serais cassé la jambe. »
+« Le nœud coulissant sur la cheville gauche... » Elle tourna la tête pour mieux voir. « C'est malin. Quoique... le contrepoids est un peu lourd, non ? Avec dix kilos de plus, je me serais cassé la jambe. Enfin, je crois. »
 
-Liias haussa un sourcil. Elle avait raison, évidemment. Elle avait identifié la seule faiblesse de son piège en quelques secondes, suspendue la tête en bas.
+Liias haussa un sourcil. Elle avait raison, évidemment. Elle avait identifié la seule faiblesse de son piège en quelques secondes, suspendue la tête en bas. Et elle n'était même pas certaine de sa déduction.
 
 « C'est volontaire, » répondit-il finalement. Sa voix était rauque, celle de quelqu'un qui n'avait pas parlé depuis des jours. « Un homme de quatre-vingts kilos a la jambe brisée. Une femme de soixante est immobilisée sans fracture. »
 
-Un battement. Ses yeux s'éclairèrent.
+Un temps. Elle hocha la tête, l'air sincèrement intéressée.
 
-« Sélection par le poids ? Tu voulais pas capturer n'importe qui. »
+« Ah. Sélection par le poids. Tu ne voulais pas capturer n'importe qui. »
 
 « Les mercenaires de Tress sont majoritairement des hommes lourds. Le calibrage les neutralise. Toi, tu n'es pas une mercenaire. »
 
-Un sourire en coin apparut sur ses lèvres.
+Elle eut un petit sourire.
 
-« Ouais, non. Mais ta logique a un trou. »
+« Ouais, non. Pas mercenaire. »
+
+Un temps de silence. Elle sembla réfléchir à quelque chose.
+
+« Mais... ta logique a un trou. Enfin, peut-être. »
 
 « Lequel ? »
 
-« Si je suis coincée mais pas blessée, je peux me libérer. Tu as réduit le danger immédiat, mais tu m'as laissé une marge de manœuvre. »
+« Ben, si je suis coincée mais pas blessée, je peux me libérer. Tu as réduit le danger immédiat, mais tu m'as laissé une marge. Quoique... c'était peut-être le but ? Je ne sais pas. »
 
-Liias sentit un frisson lui parcourir l'échine. Elle avait raison. Et elle le savait. Et elle le lui disait, comme pour tester sa réaction.
+Liias sentit un frisson lui parcourir l'échine. Elle avait raison. Et elle admettait ne pas tout comprendre. Cette honnêteté le déstabilisait plus que de l'arrogance.
 
 « Tu aurais pu te libérer depuis le début, » constata-t-il.
 
 « Hmm. Ouais. »
 
-Le mot était sorti sans arrogance, comme une simple observation météorologique.
+Le mot était sorti naturellement, comme une évidence.
 
-« Mais c'est tellement plus intéressant de voir ce que tu vas faire. »
+« Mais c'est plus intéressant de voir ce que tu vas faire. Toi, t'en penses quoi ? »
 
 Elle le regardait avec cette curiosité dérangeante, celle d'un chat observant une souris qui s'avère plus maligne que prévu. Liias ne savait pas quoi faire de cette information. Les gens ne réagissaient pas comme ça. Personne ne restait suspendu volontairement dans un piège pour *observer*.
 
@@ -118,13 +126,15 @@ Elle le regardait avec cette curiosité dérangeante, celle d'un chat observant 
 
 Un nom étrange. Technique, presque. Comme une désignation plutôt qu'un prénom.
 
-« Je cherche quelqu'un. Manifestement, j'ai trouvé quelqu'un d'autre. »
+« Je cherche quelqu'un. Enfin, je cherchais. J'ai trouvé quelqu'un d'autre, apparemment. »
 
 Liias évalua. Pseudonyme probable. Pas de symbole de faction visible. Pas l'attitude d'une mercenaire en mission.
 
 « Tu es sur mon territoire depuis combien de temps ? »
 
-« Hmm... » Elle réfléchit un instant. « Trois jours ? Non, attends. Cinq. Cinq jours. Assez longtemps pour savoir que t'as placé sept autres pièges dans un rayon de deux cents mètres. Celui-ci était le moins visible. »
+Elle fronça les sourcils, réfléchissant.
+
+« Hmm... Deux jours ? Non, trois. » Un temps. « Trois, ouais. Assez longtemps pour repérer tes autres pièges. Sept, dans un rayon de... deux cents mètres, à peu près ? Celui-ci était le moins visible. »
 
 Sept pièges. Elle les avait tous repérés. Elle les avait évités.
 
@@ -134,17 +144,17 @@ Sept pièges. Elle les avait tous repérés. Elle les avait évités.
 
 Elle haussa les épaules, autant que le filet le permettait.
 
-« Je voulais voir à qui j'avais affaire. Un poseur de pièges aussi méthodique, ça m'intrigue. »
+« Je voulais voir à qui j'avais affaire. Un poseur de pièges aussi méthodique, ça m'intriguait. »
 
 Un temps de silence. Liias ne savait pas quoi faire de cette information. Elle l'avait testé autant qu'il la testait.
 
-« Toi, tu fuis, » reprit-elle. « Les pièges à humains, l'équipement de survie, les cernes sous les yeux. Tu fuis depuis longtemps. Six mois ? »
+« Toi, tu fuis, » reprit-elle. « Les pièges à humains, l'équipement de survie, les cernes... Tu fuis depuis longtemps. Six mois ? »
 
-Elle pencha la tête, réfléchissant.
+Elle pencha la tête, fronçant légèrement les sourcils.
 
-« Non, plus. Un an, peut-être. Quoique... ouais. Un an. »
+« Non, plus. Un an, peut-être. Je ne sais pas trop. »
 
-Il se figea. Elle lisait presque aussi bien que lui.
+Il se figea. Elle lisait presque aussi bien que lui. Mais elle admettait son incertitude.
 
 « Et toi, tu chasses, » répondit-il. « Qui ? »
 
@@ -160,27 +170,27 @@ Il la libéra.
 
 La décision s'était imposée d'elle-même, contre toute logique. Elle était dangereuse, c'était évident. Mais elle n'était pas là pour lui, c'était tout aussi évident. Et il avait besoin de savoir qui elle était, ce qu'elle voulait.
 
-Le filet s'ouvrit, et elle se laissa tomber. Ses pieds touchèrent le sol, et pendant une fraction de seconde, elle tituba. Une grimace fugace traversa son visage tandis qu'elle massait sa cheville.
+Le filet s'ouvrit, et elle se laissa tomber. Ses pieds touchèrent le sol, et pendant une fraction de seconde, elle tituba. Une grimace traversa son visage tandis qu'elle massait sa cheville.
 
-« Ah, merde. Ok, être pendue la tête en bas plus longtemps que prévu, c'était peut-être pas ma meilleure idée... »
+« Ah, merde... Être pendue la tête en bas plus longtemps que prévu, c'était peut-être pas ma meilleure idée. »
 
 Elle épousseta ses vêtements avec une moue agacée. Contre elle-même, manifestement.
 
 Liias l'observa en silence. Cette maladresse contrastait avec l'assurance qu'elle avait montrée quelques instants plus tôt. Un jeu ? Ou quelque chose de plus authentique ?
 
-Elle ne partit pas. Elle resta là, s'étirant le cou, l'observant avec cette même curiosité dérangeante.
+Elle ne partit pas. Elle resta là, s'étirant le cou, l'observant avec cette même curiosité.
 
-« Tu attends quelqu'un de précis, non ? Quelqu'un qui te suit depuis longtemps. »
+« Tu attends quelqu'un de précis, hein ? Quelqu'un qui te suit depuis longtemps. »
 
 « Comment tu sais ça ? »
 
-« Parce que ce piège est pas fait pour arrêter. Il est fait pour ralentir. Tu veux du temps pour te préparer à un affrontement. »
+« Parce que ce piège n'est pas fait pour arrêter. Il est fait pour ralentir. Tu veux du temps pour te préparer à un affrontement. »
 
 Elle marqua une pause, fronçant légèrement les sourcils.
 
-« Enfin, je crois. J'ai peut-être tort. »
+« Enfin, c'est ce que je pense. Je peux me tromper. »
 
-Cette honnêteté le désarma. Elle admettait qu'elle pouvait se tromper, comme si c'était la chose la plus naturelle du monde.
+Cette honnêteté le désarma de nouveau. Elle admettait ses limites comme si c'était la chose la plus naturelle du monde.
 
 « C'est qui ? » demanda-t-elle.
 
@@ -224,13 +234,13 @@ La voix de son père, dans sa mémoire. La dernière chose qu'il lui avait dite 
 
 « Et ta mère ? » demanda Gamma. « Tes frères et sœurs ? »
 
-Son ton était neutre. Factuel.
+Son ton était simple. Direct.
 
 Liias soutint son regard.
 
 « Mon père n'a pas parlé d'eux. Il m'a donné à la place. »
 
-Quelque chose passa dans les yeux dorés de Gamma. Pas de la pitié. Autre chose. Une compréhension, peut-être. Ou une reconnaissance.
+Quelque chose passa dans les yeux dorés de Gamma. Pas de la pitié. Autre chose. Une compréhension, peut-être.
 
 « Il t'a choisi parce qu'il pensait que tu survivrais. »
 
@@ -242,19 +252,19 @@ Le mot sortit plus sec qu'il ne l'aurait voulu. Parce que c'était la vérité, 
 
 Un an de fuite lui avait donné le temps de retourner cette pensée dans tous les sens. Il n'avait toujours pas décidé s'il devait en vouloir à Meldon ou lui être reconnaissant.
 
-« Ton mercenaire, » dit Gamma, changeant de sujet avec une délicatesse inattendue. « Il est bon ? »
+« Ton mercenaire, » dit Gamma, changeant de sujet. « Il est bon ? »
 
 « Le meilleur. »
 
 « Alors tu vas mourir. »
 
-Elle avait dit ça sans cruauté. Un simple constat.
+Elle avait dit ça sans cruauté. Un simple constat. Puis, après un temps :
 
 « Sauf si tu acceptes de l'aide. »
 
 Liias la dévisagea.
 
-« Pourquoi tu m'aiderais ? Tu me connais pas. »
+« Pourquoi tu m'aiderais ? Tu ne me connais pas. »
 
 Le regard de Gamma se fit plus sombre.
 
@@ -266,7 +276,7 @@ Un temps.
 
 « Oui. »
 
-« Alors il fait partie de ma liste. La dernière entrée. »
+« Alors il fait partie de ma liste. Enfin... la dernière entrée. »
 
 Liias comprit. Elle n'était pas là par hasard. Elle le suivait. Ou plutôt, elle suivait la même piste que Bobbis.
 
@@ -276,7 +286,7 @@ Liias comprit. Elle n'était pas là par hasard. Elle le suivait. Ou plutôt, el
 
 Elle le regarda droit dans les yeux.
 
-« Toi, t'es une victime. Ça change les choses. »
+« Toi, tu es une victime. Ça change les choses. »
 
 « Tu classes les gens vite. »
 
@@ -296,7 +306,7 @@ Elle dit ça comme si c'était une anecdote ordinaire, sans gêne ni excuse. Lii
 
 « D'accord, » finit-il par dire. « Mais c'est mon combat. Tu restes en arrière. »
 
-Gamma sourit.
+Gamma sourit légèrement.
 
 « Comme tu veux. »
 
@@ -308,17 +318,25 @@ Les jours qui suivirent furent étranges.
 
 Liias n'avait pas eu de compagnie depuis un an. Il avait oublié ce que c'était, d'avoir quelqu'un près de soi. Quelqu'un qui posait des questions, qui observait, qui existait simplement dans le même espace.
 
-Gamma était une présence déconcertante. Elle alternait entre des moments de lucidité presque effrayante et des remarques si incongrues qu'il se demandait si elle le faisait exprès. Elle pouvait analyser un terrain en quelques secondes, identifier les points faibles d'une position défensive, puis, l'instant d'après, s'interrompre pour demander s'il savait que les lapins mangeaient parfois leurs propres excréments pour mieux digérer.
+Gamma était une présence déconcertante. Elle alternait entre des moments de lucidité presque effrayante et des remarques si incongrues qu'il se demandait si elle le faisait exprès. Elle pouvait observer un terrain en quelques secondes, identifier les points faibles d'une position défensive, puis, l'instant d'après, s'interrompre pour une digression inattendue.
 
-« C'est vrai, » avait-elle ajouté devant son regard médusé. « Ils font deux types de crottes. Les dures et les molles. Ils remangent les molles. C'est... enfin, je sais pas pourquoi je pense à ça. »
+« Tu savais que les lapins mangent parfois leurs propres crottes ? » demanda-t-elle un matin, sans préambule.
+
+Liias la regarda, médusé.
+
+« Ils font deux types de crottes. Les dures et les molles. Ils remangent les molles. C'est très efficace, en fait. » Elle fronça les sourcils. « Je ne sais pas pourquoi je pense à ça maintenant. »
 
 Il avait décidé de ne pas poser de questions.
 
-Ils travaillaient ensemble à préparer le terrain. Liias lui montrait ses pièges, expliquait leur fonctionnement, et elle écoutait avec une attention sincère. Elle retenait tout. Chaque détail, chaque mécanisme, chaque angle mort.
+Ils travaillaient ensemble à préparer le terrain. Liias lui montrait ses pièges, expliquait leur fonctionnement, et elle écoutait avec une attention sincère. Parfois, elle posait des questions. D'autres fois, elle hochait simplement la tête.
+
+« Hmm. Celui-là, le déclencheur est un peu sensible, non ? » observa-t-elle devant l'un de ses dispositifs. « Quoique... ça dépend du poids de la cible. Je ne sais pas. Toi, t'en penses quoi ? »
+
+Elle lui demandait souvent son avis. Comme si sa propre analyse ne suffisait pas.
 
 Et elle posait des questions. Beaucoup de questions.
 
-« Comment t'as appris tout ça ? » demanda-t-elle un soir, alors qu'il aiguisait une lame près du feu.
+« Comment tu as appris tout ça ? » demanda-t-elle un soir, alors qu'il aiguisait une lame près du feu.
 
 « Mon père. »
 
@@ -326,17 +344,15 @@ Le mot sortit avant qu'il puisse le retenir. Ses mains continuèrent leur mouvem
 
 « Il était résistant. Contre Tress. Il m'a appris à survivre avant de... »
 
-Il ne finit pas sa phrase. Gamma ne le pressa pas.
+Il ne finit pas sa phrase. Gamma ne le pressa pas. Elle resta silencieuse un moment, observant les flammes.
 
-« À quoi tu penses ? » demanda-t-elle après un moment de silence.
+« À quoi tu penses ? » demanda-t-elle après un moment.
 
 « À quelqu'un qui disait que tuer n'était pas le but. »
 
 La lame brillait dans la lumière des flammes. Liias se souvint du visage de son père, ce jour-là, sur la place d'Olivor. Calme. Concentré. Pas de haine dans ses yeux quand il avait affronté Trevos. Juste une détermination froide.
 
-« Hmm. » Gamma fixa le feu un moment. « Parfois, tuer c'est le seul moyen de protéger. Enfin... je crois. »
-
-Son ton n'était pas celui d'une certitude. Plutôt celui de quelqu'un qui réfléchissait à voix haute.
+« Hmm. » Gamma réfléchit. « Parfois, tuer est le seul moyen de protéger. Enfin, c'est ce que je pense. Je ne sais pas si c'est vrai. »
 
 Liias ne répondit pas. Il n'était pas sûr d'être d'accord. Il n'était pas sûr d'être en désaccord non plus.
 
@@ -356,11 +372,11 @@ Le départ silencieux. Pas d'adieu. Pas un regard en arrière.
 
 La voix de sa mère, dans son dos. Il n'avait pas répondu.
 
-« T'es jamais retourné chez toi, » dit Gamma.
+« Tu n'es jamais retourné chez toi. »
 
-Elle ne posait pas la question.
+La voix de Gamma, à côté de lui. Elle ne posait pas la question.
 
-« Je peux pas. Si j'y retourne, je les mets en danger. »
+« Je ne peux pas. Si j'y retourne, je les mets en danger. »
 
 « Et si tu meurs ici ? »
 
@@ -394,11 +410,11 @@ Liias secoua la tête.
 
 « Non. C'est pire. Il a de l'honneur. À sa façon. »
 
-Gamma fronça les sourcils, ne comprenant pas tout à fait.
+Gamma fronça les sourcils, semblant réfléchir.
 
-« Hmm. Je sais pas trop quoi penser de ça. »
+« Hmm. D'accord. Je ne vois pas bien ce que tu veux dire, mais... d'accord. »
 
-Liias non plus, d'ailleurs. Mais il avait passé un an à étudier Bobbis, à comprendre sa logique. Le mercenaire ne tuait pas pour le plaisir. Il tuait parce que c'était son métier, parce qu'il était le meilleur, et parce qu'abandonner une traque aurait été admettre l'échec.
+Elle n'avait pas tout compris. Liias non plus, d'ailleurs. Mais il avait passé un an à étudier Bobbis, à comprendre sa logique. Le mercenaire ne tuait pas pour le plaisir. Il tuait parce que c'était son métier, parce qu'il était le meilleur, et parce qu'abandonner une traque aurait été admettre l'échec.
 
 C'était une forme d'honneur. Tordue, certes. Mais réelle.
 
@@ -406,7 +422,7 @@ C'était une forme d'honneur. Tordue, certes. Mais réelle.
 
 Gamma hocha la tête.
 
-« Alors on devrait dormir. »
+« Alors on devrait dormir. Enfin... essayer. »
 
 ---
 
@@ -418,43 +434,45 @@ Assis près d'un feu minuscule, juste assez pour voir, pas assez pour signaler l
 
 Il ne savait pas. Et il était trop fatigué pour y réfléchir.
 
-« T'as peur ? » demanda Gamma.
+« Tu as peur ? » demanda Gamma.
 
 « Non. »
 
-« Menteur. »
+« Hmm. » Un temps. « Menteur. »
 
-Un temps.
+Un silence.
 
 « J'ai passé un an à avoir peur. Là, je suis juste... fatigué. »
 
 Elle hocha lentement la tête.
 
-« La fatigue et le courage, c'est parfois la même chose. »
+« Ouais. La fatigue et le courage, c'est parfois la même chose. Enfin, je crois. »
 
 « C'est philosophique. »
 
-« Ouais. Je suis une femme de contradictions. »
+« Je ne sais pas si c'est philosophique. C'est juste... ce que je pense. »
 
 Elle le regardait avec un demi-sourire, celui qu'elle avait quand elle allait dire quelque chose d'inattendu.
 
-« Tu veux savoir un secret ? »
+« Tu veux savoir un truc ? »
 
 Liias leva les yeux vers elle.
 
-« Mettre un œuf au micro-ondes, ça peut le faire exploser. »
+« Mettre un œuf au micro-ondes peut le faire exploser. »
 
 « ... Quoi ? »
 
-« Je sais pas pourquoi je pense à ça maintenant. Mais c'est vrai. L'œuf explose. Enfin, paraît-il. »
+« Je ne sais pas pourquoi je pense à ça maintenant. Mais c'est vrai. L'œuf explose. » Elle fronça les sourcils. « Enfin, apparemment. »
 
 Liias ouvrit la bouche, puis la referma. Il ne savait pas quoi répondre. Il ne savait même pas ce qu'était un micro-ondes. Mais l'absurdité de la remarque, dans ce contexte, dans cette nuit où il attendait peut-être sa mort, lui arracha quelque chose qu'il n'avait pas ressenti depuis longtemps.
 
 Un début de sourire.
 
-« T'es bizarre, » dit-il.
+« Tu es bizarre, » dit-il.
 
 « On me le dit souvent. »
+
+Elle haussa les épaules, pas vexée le moins du monde.
 
 Le feu crépita doucement. Les étoiles, au-dessus des frondaisons, brillaient avec l'indifférence tranquille des choses éternelles. Quelque part dans la forêt, un hibou hulula.
 

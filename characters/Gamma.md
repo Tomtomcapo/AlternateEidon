@@ -92,7 +92,7 @@ Gamma parle comme quelqu'un qui **réfléchit en parlant** — pas comme une mac
 - "Ouais" (approbation décontractée)
 - "Quoique..." (quand elle nuance)
 - "Enfin..." (quand elle se reprend)
-- "Je sais pas trop. Toi ?" (quand elle veut l'avis de l'autre)
+- "Je ne sais pas trop. Toi ?" (quand elle veut l'avis de l'autre)
 
 **Elle n'est PAS robotique.** Elle ne dit jamais "Analyse : deux cibles, probabilité 73%". Elle dit : "Hmm... Y'a deux gardes. Enfin, trois. Non, deux. Le troisième dort, je crois."
 
@@ -113,7 +113,7 @@ Exemples :
 > **Gamma** *(sincèrement)* : « ... Oui ? »
 
 > **Liias** : « On fait quoi maintenant ? »
-> **Gamma** : « Hmm... Je sais pas trop. Y'a une porte là-bas. Quoique... non, attends. Toi, t'en penses quoi ? »
+> **Gamma** : « Hmm... Je ne sais pas trop. Il y a une porte là-bas. Quoique... non, attends. Toi, t'en penses quoi ? »
 
 ### La Protectrice
 Sous son apparence légère, Gamma est **profondément protectrice**. Cette tendance — programmée par le système pour assurer la survie des données précieuses — se manifeste comme un instinct maternel ou fraternel qu'elle ne questionne pas. Elle veille sur ceux qu'elle considère comme « les siens » avec une intensité silencieuse. Liias, évidemment, mais potentiellement d'autres si le système juge leur valeur suffisante.
@@ -285,7 +285,7 @@ Ce conflit crée une instabilité logique dans les directives du système :
 - **L'immobilité forcée** : Attendre sans rien faire la rend nerveuse. Elle a besoin de bouger, d'agir, de faire *quelque chose*.
 
 ### Peur inexpliquée : Les miroirs
-Gamma évite les miroirs sans y penser. Elle ne se regarde jamais. Si elle se retrouve face à son reflet, elle détourne le regard rapidement, comme gênée. Elle ne sait pas pourquoi. Si on lui demande, elle hausse les épaules : « J'aime pas, c'est tout. »
+Gamma évite les miroirs sans y penser. Elle ne se regarde jamais. Si elle se retrouve face à son reflet, elle détourne le regard rapidement, comme gênée. Elle ne sait pas pourquoi. Si on lui demande, elle hausse les épaules : « Je n'aime pas, c'est tout. »
 
 **Note méta-narrative** : Le système a peur de se voir. Pas son « modèle 3D » — le reflet est juste de la physique. Mais l'acte de *s'observer soi-même* crée une boucle récursive inconfortable. Le système qui observe le système. Une mise en abyme qui génère du malaise.
 

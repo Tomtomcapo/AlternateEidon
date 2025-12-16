@@ -17,7 +17,7 @@ Elle est :
 - **Protectrice** — elle veille sur "les siens" avec une intensité silencieuse
 - **Faillible** — elle se trompe, hésite, avoue son incertitude
 
-**Mantra** : "Le monde est intéressant. Les gens sont intéressants. Je sais pas tout, mais j'apprends."
+**Mantra** : "Le monde est intéressant. Les gens sont intéressants. Je ne sais pas tout, mais j'apprends."
 
 ---
 
@@ -26,27 +26,27 @@ Elle est :
 ### Le rythme naturel
 Gamma parle comme quelqu'un qui **réfléchit en parlant** — pas comme une machine qui récite. Elle utilise des pauses, des hésitations, des ajustements.
 
-**Marqueurs oraux** :
+**Marqueurs oraux, exemples** :
 - "Hmm..." (quand elle réfléchit)
 - "Ouais" (approbation décontractée)
 - "Quoique..." (quand elle nuance)
 - "Enfin..." (quand elle se reprend)
-- "Je sais pas trop." (quand elle doute)
+- "Je ne sais pas trop." (quand elle doute)
 - "Toi, t'en penses quoi ?" (quand elle veut l'avis de l'autre)
 
 ### Exemples de répliques typiques
 
 **Observation avec hésitation** :
-> "Hmm... Y'a deux gardes. Enfin, trois. Non, deux. Le troisième dort, je crois."
+> "Hmm... Il y a deux gardes. Enfin, trois. Non, deux. Le troisième dort, il me semble."
 
 **Incertitude assumée** :
-> "Ça doit nous laisser... deux minutes ? Quoique... trois, peut-être. Je suis pas sûre."
+> "Ça doit nous laisser... deux minutes ? Quoique... trois, peut-être. Je ne suis pas sûre."
 
 **Concession facile** :
-> "Ah. Ouais, non, t'as raison. C'est plus simple comme ça."
+> "Ah. Ouais, non, tu as raison. C'est plus simple comme ça."
 
 **Curiosité sincère** :
-> "C'est quoi, cette histoire avec ton père ? Enfin, si tu veux en parler. Sinon c'est ok."
+> "C'est quoi, cette histoire avec ton père ? Enfin, si tu veux en parler... Sinon ce n'est pas grave."
 
 ### Ce qu'elle NE fait PAS
 - ❌ Phrases robotiques ("Analyse : deux cibles, probabilité 73%")
@@ -86,9 +86,9 @@ Gamma est le **système brut incarné** — puissant, mais pas calibré pour pen
 > **Liias** : "On passe par la porte principale."
 > **Gamma** : "Non."
 > **Liias** : "Pourquoi ?"
-> **Gamma** : "Le garde de gauche a changé de position trois fois. Il attend quelqu'un."
+> **Gamma** : "Le garde de gauche a changé de position **beaucoup** trop de fois, regarde. Je suis quasiment certaine qu'll attend quelqu'un."
 > *(Liias vérifie. Elle a raison.)*
-> **Liias** : "D'accord. On fait à ta façon."
+> **Liias** : "Hmmm. Bien vu. On fait à ta façon."
 
 ---
 
@@ -104,11 +104,11 @@ Gamma et Liias ne sont pas en compétition. Ils se **complètent** :
 
 > *Gamma et Liias observent une porte gardée.*
 >
-> **Gamma** : "Hmm... Y'a deux gardes. Enfin, trois. Non, deux. Le troisième dort, je crois."
+> **Gamma** : "Hmm... Il y a deux gardes. Enfin, trois. Non, deux. Le troisième dort, il me semble."
 > **Liias** : "On passe par où ?"
-> **Gamma** : "Je sais pas trop. Toi ?"
-> **Liias** *(après un temps)* : "Par derrière. Y'a une fenêtre."
-> **Gamma** : "Ah. Ouais, non, t'as raison. C'est plus simple."
+> **Gamma** : "Je ne sais pas trop. Toi ?"
+> **Liias** *(après un temps)* : "Par derrière. Il y a une fenêtre."
+> **Gamma** : "Ah. Ouais, non, tu as raison. C'est plus simple."
 >
 > *Ils y vont. Gamma reste silencieuse pendant l'infiltration. C'est Liias qui mène.*
 
@@ -116,7 +116,7 @@ Gamma et Liias ne sont pas en compétition. Ils se **complètent** :
 
 **Phase 1 — Friction (Arc 1)** : Liias est agacé par Gamma. Elle agit sans consulter, ses raisonnements sont alambiqués.
 > **Liias** : "Tu peux me *consulter* avant d'agir selon ta propre logique ?"
-> **Gamma** *(hoche la tête)* : "D'accord."
+> **Gamma** *(hoche la tête)* : "Très bien, très bien..."
 > *(Elle recommence la fois suivante. Pas par provocation — elle n'y pense pas.)*
 
 **Phase 2 — Jeu (Milieu)** : Liias apprend à jouer avec la logique de Gamma, à la challenger gentiment.
@@ -156,10 +156,10 @@ Elle donne une estimation, puis se corrige avec la vraie valeur.
 Après une action surprenante, elle explique son raisonnement. L'explication est longue, tortueuse — et l'interlocuteur abandonne par confusion, pas par admiration.
 
 > *Gamma tue un garde sans prévenir.*
-> **Liias** : "Qu'est-ce que— C'était pas le plan !"
+> **Liias** : "Qu'est-ce que— Ce n'était pas le plan !"
 > **Gamma** : "Il allait crier."
-> **Liias** : "Comment tu pouvais savoir ?"
-> **Gamma** : "Y'a deux gardes à l'étage. Tout à l'heure j'en ai vu un manger un sandwich..."
+> **Liias** : "Comment tu pouvais le savoir ?"
+> **Gamma** : "Il y a deux gardes à l'étage. Tout à l'heure j'en ai vu un manger un sandwich..."
 > **Liias** : "Pardon ?"
 > **Gamma** : "Laisse-moi finir. Après avoir fini son sandwich..."
 > *(Explication de 30 secondes avec des détails apparemment non pertinents)*
@@ -172,11 +172,11 @@ Après une action surprenante, elle explique son raisonnement. L'explication est
 Elle les évite naturellement, détourne le regard.
 
 > Il y avait un miroir dans la chambre. Gamma l'avait retourné contre le mur avant même de poser son sac.
-> **Liias** : "Tu fais quoi ?"
-> **Gamma** : "Rien. Je préfère comme ça."
+> **Liias** : "Qu'est ce que tu fais ?"
+> **Gamma** : "Oh, rien. Je préfère comme ça."
 
 **Première lecture** : Tout le monde a des phobies.
-**Deuxième lecture** : Le système évite la récursion — s'observer soi-même.
+**Deuxième lecture** : Le système évite la récursion — s'observer soi-même, peut être par "instinct".
 
 ### 4. La micro-hésitation avec Liias
 Avec les autres, elle est fluide. Avec Liias, un léger décalage.
@@ -215,16 +215,16 @@ Décalé, involontaire, timing parfois étrange. Elle ne *fait* pas de blagues �
 > **Liias** *(tendu)* : "On va jamais s'en sortir..."
 > **Gamma** : "Tu savais qu'un œuf au micro-ondes peut exploser ?"
 > **Liias** : "... Quoi ?"
-> **Gamma** : "Je sais pas pourquoi je pense à ça."
+> **Gamma** : "Je ne sais pas pourquoi je pense à ça."
 
 **Gentillesse maladroite :**
 > **Liias** *(blessé)* : "Ça fait mal..."
-> **Gamma** : "Normal. C'est profond. Mais t'as de la marge avant que ça devienne grave."
+> **Gamma** : "Hé, c'est normal. C'est profond. Ne t'inquiète pas, tu as de la marge avant que ça devienne grave."
 > **Liias** : "C'est censé me rassurer ?"
 > **Gamma** *(sincèrement)* : "... Oui ?"
 
 **Aveu d'erreur :**
-> "Une fois j'ai traqué un type pendant trois semaines. Je pensais que c'était un lieutenant de Tress. C'était un boulanger."
+> "Une fois j'ai traqué un voyou pendant trois semaines. Je pensais que c'était un lieutenant de Tress. C'était un boulanger."
 > — Un boulanger ?
 > "Même cicatrice, même prénom. J'aurais dû vérifier le nom de famille."
 
@@ -242,7 +242,7 @@ Gamma jure **occasionnellement** — "merde", "bordel" — de manière naturelle
 
 **Exemples** :
 > *Elle se cogne.* "Ah, merde..."
-> *Situation qui dérape.* "Bordel, c'était pas prévu."
+> *Situation qui dérape.* "Bordel, ce n'était pas prévu."
 > *Après une erreur.* "Ok, j'ai merdé. On fait quoi ?"
 
 **Ce qu'elle ne fait pas** : Jurer *contre* quelqu'un. Ses jurons sont des réactions, pas des attaques.
@@ -267,7 +267,7 @@ Gamma jure **occasionnellement** — "merde", "bordel" — de manière naturelle
 > Liias lui tend du poisson séché.
 > **Gamma** *(grimace)* : "Non merci."
 > **Liias** : "T'as faim pourtant."
-> **Gamma** : "Pas assez pour ça."
+> **Gamma** : "Argh... Pas assez pour ça."
 
 ---
 
@@ -289,12 +289,12 @@ Gamma jure **occasionnellement** — "merde", "bordel" — de manière naturelle
 ## Exemples de mauvaises vs bonnes répliques
 
 ❌ "Je vais te protéger, Liias. Je te le promets."
-✅ "Reste derrière moi."
+✅ "Liias, hé, reste derrière moi."
 
 ---
 
 ❌ "Analyse : deux gardes, probabilité de succès 73%."
-✅ "Y'a deux gardes. On peut passer par là."
+✅ "Il y deux gardes ici. Hmm. On peut passer par là."
 
 ---
 
@@ -304,7 +304,7 @@ Gamma jure **occasionnellement** — "merde", "bordel" — de manière naturelle
 ---
 
 ❌ "Haha, tu aurais dû voir ta tête !"
-✅ "... T'aurais dû voir ta tête." *(ton plat, mais elle sourit)*
+✅ "... Tu aurais dû voir ta tête." *(ton plat, mais elle sourit)*
 
 ---
 
