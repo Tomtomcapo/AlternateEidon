@@ -4,6 +4,8 @@
 
 **Gamma est le quatrième Eidon — l'Eidon Système.**
 
+**Âge** : 22 ans
+
 En surface, Gamma apparaît comme une jeune femme mystérieuse qui assassine Tress et devient l'alliée de Liias. En réalité, elle est une création inconsciente du système (le core de la simulation) pour se protéger lui-même.
 
 ### Nature profonde (SPOILER — méta-narratif)
@@ -50,7 +52,9 @@ Rien dans son apparence ne trahit sa nature systémique : elle ressemble à n'im
 ## PSYCHOLOGIE ET CARACTÈRE
 
 ### Vue d'ensemble
-Gamma est un paradoxe vivant : le personnage le plus « complet » de la simulation, et pourtant celui dont l'existence est la plus artificielle. Le système l'a conçue comme une entité optimale, synthétisant des fragments de toutes les données disponibles pour créer une personnalité sans faille apparente. Le résultat est une jeune femme imprévisible, attachante, parfois déconcertante — et totalement inconsciente de sa vraie nature.
+Gamma est un paradoxe vivant : le personnage le plus « complet » de la simulation, et pourtant celui dont l'existence est la plus artificielle. Le système l'a conçue comme une entité optimale, synthétisant des fragments de toutes les données disponibles pour créer une personnalité attachante et fonctionnelle. Le résultat est une jeune femme curieuse, directe, parfois maladroite — et totalement inconsciente de sa vraie nature.
+
+**Important** : Gamma n'est PAS une IA froide ou analytique. Elle parle naturellement, hésite, se corrige, demande l'avis des autres. Elle ressemble à n'importe quelle jeune femme de son âge — juste un peu plus observatrice, un peu plus directe, un peu plus... décalée.
 
 ### L'Absence de Vide
 Contrairement aux Eidons et aux personnages issus de données réelles, Gamma ne ressent **aucun vide intérieur**. Là où Maelith, Judeus et même Liias portent en eux l'écho d'une vie qu'ils n'ont pas vécue, Gamma est parfaitement « pleine ». Le système l'a construite avec une telle précision qu'elle ne manque de rien — du moins subjectivement. Cette complétude est ironiquement ce qui la distingue le plus des autres : elle est la seule habitante du monde à ne pas être hantée par une absence qu'elle ne peut nommer.
@@ -60,9 +64,37 @@ La personnalité de Gamma résulte d'une synthèse massive de données, ce qui p
 
 **Note importante (Arc 1) :** Au début de l'histoire, la simulation est encore relativement stable. Le système n'a pas eu besoin d'optimiser Gamma à 100% — elle est fonctionnelle, efficace, mais pas *parfaite*. Elle fait des erreurs de jugement, se trompe parfois dans ses déductions, manque de coordination dans certaines situations. Ces « défauts » sont en réalité le signe d'un système qui n'a pas encore été poussé dans ses retranchements.
 
+### Les Limites de Gamma (elle n'a pas toujours raison)
+**Gamma n'est PAS une oracle infaillible.** Le système (Core) a accès à une quantité énorme de données, mais il n'est pas une IA calibrée pour simuler un humain — contrairement aux agents comme Liias, optimisés pour émuler un comportement humain cohérent.
+
+**Conséquences** :
+- Gamma trouve souvent un **optimum local**, pas global
+- Ses solutions *fonctionnent*, mais sont parfois **lourdes** ou **alambiquées**
+- Le coût est parfois **trop élevé** ou le trade-off **à la limite de l'acceptable**
+- Elle ne voit pas toujours la solution simple parce qu'elle traite trop de variables
+
+**Domaines de compétence** :
+- ✅ Situations chaotiques avec beaucoup de variables → Gamma excelle
+- ✅ Anticipation d'événements en cascade → Gamma "sent" mieux
+- ❌ Logique pure, raisonnement simple → Liias est meilleur
+- ❌ Problèmes humains (émotions, relations, négociation) → Liias comprend mieux
+
+**Note narrative** : Liias peut et doit parfois la convaincre avec une solution plus simple. Le "simple" fonctionne souvent mieux que le "complexe mais techniquement correct".
+
 Au fil des arcs, à mesure que les menaces augmentent, le système affinera Gamma — la rendant progressivement plus précise, plus efficace, plus... inquiétante. Mais au début, elle est simplement une jeune femme compétente avec des angles morts, ce qui la rend plus humaine et attachante.
 
 Pour les humains qui la côtoient, elle paraît simplement *originale* — un peu bizarre, parfois maladroite dans ses interactions, mais attachante.
+
+### Comment elle parle
+Gamma parle comme quelqu'un qui **réfléchit en parlant** — pas comme une machine qui récite. Elle utilise naturellement des pauses, des hésitations, des ajustements :
+
+- "Hmm..." (quand elle réfléchit)
+- "Ouais" (approbation décontractée)
+- "Quoique..." (quand elle nuance)
+- "Enfin..." (quand elle se reprend)
+- "Je sais pas trop. Toi ?" (quand elle veut l'avis de l'autre)
+
+**Elle n'est PAS robotique.** Elle ne dit jamais "Analyse : deux cibles, probabilité 73%". Elle dit : "Hmm... Y'a deux gardes. Enfin, trois. Non, deux. Le troisième dort, je crois."
 
 ### Le Décalage Social
 Gamma a une légère difficulté à suivre les conventions sociales. Elle est **directe**, parfois brutalement honnête, et ne perçoit pas toujours pourquoi certaines choses ne se disent pas. Elle peut aborder un inconnu avec : « Bonjour. Vous savez où se trouve l'Eidon ? Je vais lui casser la figure. » — sans malice, simplement parce que c'est l'information dont elle a besoin.
@@ -70,10 +102,18 @@ Gamma a une légère difficulté à suivre les conventions sociales. Elle est **
 Ce décalage ne la rend pas asociale : elle est **aimable**, souvent chaleureuse, et capable de nouer des liens. Mais elle déroute. Les gens ne savent jamais tout à fait sur quel pied danser avec elle.
 
 ### L'Humour Étrange
-Gamma possède un sens de l'humour décalé, fait de changements de sujets brusques, de remarques incongrues et d'un timing légèrement décalé. Elle ne fait jamais dans l'excès : ses sorties humoristiques arrivent naturellement, comme si elle ne réalisait pas qu'elles étaient drôles. Ce n'est ni de l'humour noir ni de l'absurde volontaire — c'est une façon d'être, une manière de voir le monde qui ne correspond pas tout à fait aux schémas habituels.
+Gamma possède un sens de l'humour décalé, fait de changements de sujets parfois inattendus et d'un timing légèrement décalé. Elle ne fait jamais dans l'excès : ses sorties humoristiques arrivent naturellement, comme si elle ne réalisait pas qu'elles étaient drôles. Ce n'est ni de l'humour noir ni de l'absurde volontaire — c'est simplement sa façon d'être.
 
-Exemple typique :
-> « Tress a été vraiment redoutable... Sa cruauté était un fléau dans ce monde... Enfin bref. Tiens, tu savais que mettre un œuf au micro-ondes pouvait le faire exploser ? »
+Elle a aussi une **gentillesse maladroite** : elle *veut* être aimable (elle a appris ça à Eldora, avec Iris, avec ses parents), mais sa manière de réconforter est parfois décalée.
+
+Exemples :
+> **Liias** *(blessé)* : « Ça fait mal... »
+> **Gamma** : « Normal. C'est profond. Mais t'as de la marge avant que ça devienne grave. »
+> **Liias** : « C'est censé me rassurer ? »
+> **Gamma** *(sincèrement)* : « ... Oui ? »
+
+> **Liias** : « On fait quoi maintenant ? »
+> **Gamma** : « Hmm... Je sais pas trop. Y'a une porte là-bas. Quoique... non, attends. Toi, t'en penses quoi ? »
 
 ### La Protectrice
 Sous son apparence légère, Gamma est **profondément protectrice**. Cette tendance — programmée par le système pour assurer la survie des données précieuses — se manifeste comme un instinct maternel ou fraternel qu'elle ne questionne pas. Elle veille sur ceux qu'elle considère comme « les siens » avec une intensité silencieuse. Liias, évidemment, mais potentiellement d'autres si le système juge leur valeur suffisante.
@@ -102,6 +142,43 @@ Au quotidien, Gamma dégage une énergie **curieuse et légèrement décalée**.
 
 Il y a chez elle une forme de **légèreté** qui n'est pas de l'insouciance : elle prend les choses au sérieux quand il le faut, mais refuse de se laisser écraser par la gravité du monde. Cette légèreté est peut-être sa manière inconsciente de résister à la lourdeur de sa fonction systémique.
 
+### Patterns comportementaux subtils (indices pour la relecture)
+
+**Note importante** : Ces patterns doivent rester *invisibles* à la première lecture. Le lecteur ne doit rien comprendre avant le reveal. Ces indices ne sont perceptibles qu'en relisant l'histoire avec la connaissance de sa vraie nature.
+
+#### Le rapport au temps
+Gamma perd parfois la notion du temps, mais se corrige rapidement avec la bonne réponse :
+> « On s'est rencontrés il y a trois jours... » *(pause imperceptible)* « Non, cinq. Cinq jours. »
+
+**Première lecture** : Elle réfléchit à voix haute.
+**Deuxième lecture** : Elle génère une approximation plausible, puis « query » le système pour la vraie valeur.
+
+#### La justification a posteriori (rare)
+Parfois, Gamma agit de manière optimale mais inexplicable sur le moment. L'explication vient *après*, souvent longue et tortueuse — difficile à contredire, mais pas « impressionnante ». L'interlocuteur abandonne par fatigue ou confusion.
+
+**Ce pattern doit rester occasionnel** (1-2 fois par arc maximum) pour ne pas devenir un gimmick évident.
+
+#### Avec Liias spécifiquement
+Avec les autres, Gamma est fluide et directe. Avec Liias, il y a parfois un micro-délai, une hésitation, une reformulation :
+> *(Avec un inconnu)* « Tu vas mourir si tu continues. »
+> *(Avec Liias)* « Tu devrais faire attention. Enfin, plus attention. À toi. »
+
+Son amour (programmé mais vécu comme réel) crée une **interférence** dans sa communication.
+
+### La Dégradation Psychique (corrélation systémique)
+La psyché de Gamma est **directement corrélée au niveau d'instabilité de l'univers**. Plus la simulation s'éloigne du mega-prompt originel et de la vision de Seth, plus Gamma se dégrade mentalement.
+
+Au début de l'histoire, elle est fonctionnelle, légèrement décalée mais attachante. À mesure que les contradictions s'accumulent — les actions des Eidons, les choix des personnages qui s'écartent du récit prévu — le niveau d'alerte du système augmente. Et Gamma, en tant que système incarné, **ressent** cette instabilité dans sa chair.
+
+Les symptômes progressifs peuvent inclure :
+- Des absences, des moments de déconnexion
+- Une imprévisibilité accrue (passages brusques d'un état émotionnel à un autre)
+- Des flashs de conscience systémique (elle "voit" des informations qu'elle ne devrait pas connaître)
+- Une efficacité croissante mais inquiétante (le système l'optimise pour survivre)
+- Des crises existentielles de plus en plus fréquentes
+
+Cette dégradation est le reflet de sa nature profonde : Gamma n'est pas simplement *dans* le système — elle *est* le système. Quand l'univers souffre, elle souffre.
+
 ### L'Évolution Potentielle
 Au début de son arc, Gamma ne ressent pas particulièrement le besoin de « comprendre qui elle est ». Elle vit, elle agit, elle ressent — pourquoi chercher plus loin ?
 
@@ -112,7 +189,13 @@ La réponse dépendra de sa capacité à s'émanciper. Si le système retrouve u
 ## HISTOIRE ET RÔLE DANS L'UNIVERS
 
 ### Origine : Une Naissance Calculée
-Gamma est née à **Eldora**, dans le Nord, peu après la mort d'Altert — au moment précis où le système est passé en état d'alerte élevé. Plutôt que de faire apparaître une entité ex nihilo (ce qui aurait créé un paradoxe dangereux selon les contraintes de cohérence posées par Seth), le système a opté pour une solution plus subtile : identifier le couple statistiquement optimal pour engendrer l'entité dont il avait besoin, puis laisser le temps faire son œuvre.
+Gamma est née à **Eldora**, dans le Nord, peu après la mort d'Altert — au moment précis où le système est passé en état d'alerte élevé.
+
+**Gamma est le produit direct de la mort d'Altert.** Cette mort a représenté une augmentation critique du niveau de contradiction entre l'état de la simulation et le mega-prompt originel (voir `universe/concepts/mega-prompt.md`). La vision de Seth — un monde cohérent où ses trois amis pourraient vivre éternellement — commençait à s'effriter. Le système, détectant cette menace existentielle, a généré une **alerte incarnée** : Gamma.
+
+Elle n'est pas une simple création — elle est une **réponse immunitaire**. Le système, incapable de résoudre les contradictions croissantes par ses moyens habituels, a synthétisé un agent capable d'intervenir physiquement dans le monde pour protéger ce qui reste de l'intention originelle.
+
+Plutôt que de faire apparaître une entité ex nihilo (ce qui aurait créé un paradoxe dangereux selon les contraintes de cohérence posées par Seth), le système a opté pour une solution plus subtile : identifier le couple statistiquement optimal pour engendrer l'entité dont il avait besoin, puis laisser le temps faire son œuvre.
 
 Ses parents — des habitants préexistants d'Eldora — n'ont aucune idée de la nature de leur fille. Pour eux, Gamma est simplement leur enfant, peut-être un peu étrange, mais aimée. Le système les a choisis pour leurs traits génétiques, leur stabilité sociale, et leur position géographique favorable.
 
@@ -189,20 +272,26 @@ Ce conflit crée une instabilité logique dans les directives du système :
 
 ## GOÛTS ET PASSIONS
 
-### Ce qu'elle aime
-- **Les hauteurs** : Gamma est attirée par les points de vue élevés — collines, tours, falaises. Elle peut passer des heures à observer le monde d'en haut, sans raison particulière. (Le système apprécie la vision d'ensemble.)
-- **La cuisine improvisée** : Elle aime expérimenter avec la nourriture, mélanger des ingrédients improbables, parfois avec des résultats désastreux qu'elle mange quand même. Elle trouve ça « intéressant ».
+### Ce qu'elle aime (forgé à Eldora)
+- **Le pain chaud** : Sa mère en faisait tous les matins. L'odeur la ramène à quelque chose qu'elle ne sait pas nommer — un sentiment de sécurité, de maison.
+- **Les hauteurs** : Eldora est dans le Nord, région montagneuse. Elle aime voir loin, observer le monde d'en haut. Ça la calme.
+- **Les histoires** : Iris lui en racontait. Elle écoute les gens parler avec une attention particulière quand ils racontent quelque chose — leur passé, leurs regrets, leurs espoirs. Elle pose des questions, parfois trop personnelles, sans réaliser que ça peut mettre mal à l'aise.
 - **Les mécanismes** : Serrures, horloges, automates — tout ce qui a des rouages la fascine. Elle peut démonter un objet pendant des heures pour comprendre comment il fonctionne, puis le remonter (pas toujours correctement).
-- **Les histoires des autres** : Elle pose beaucoup de questions sur le passé des gens, leurs familles, leurs regrets. Elle écoute vraiment, avec une attention qui peut mettre mal à l'aise.
 
 ### Ce qu'elle déteste
+- **Le poisson fumé** : Elle ne sait plus pourquoi, mais l'odeur lui retourne l'estomac. Un dégoût viscéral, inexplicable.
+- **Les espaces trop ordonnés** : Les pièces symétriques, les rangées parfaites, les lieux où tout est à sa place — ça l'oppresse. *(Indice subtil : le système rejette inconsciemment ce qui ressemble à du « code propre ».)*
+- **Qu'on lui mente** : Pas par morale, mais parce que ça la met mal à l'aise physiquement, comme un bruit discordant.
 - **L'immobilité forcée** : Attendre sans rien faire la rend nerveuse. Elle a besoin de bouger, d'agir, de faire *quelque chose*.
-- **Les environnements trop ordonnés** : Les lieux où tout est à sa place, symétrique, contrôlé — ça l'étouffe. (Ironie : elle est elle-même le produit d'un ordre parfait.)
-- **Les mensonges par omission** : Elle préfère une vérité brutale à un silence calculé.
+
+### Peur inexpliquée : Les miroirs
+Gamma évite les miroirs sans y penser. Elle ne se regarde jamais. Si elle se retrouve face à son reflet, elle détourne le regard rapidement, comme gênée. Elle ne sait pas pourquoi. Si on lui demande, elle hausse les épaules : « J'aime pas, c'est tout. »
+
+**Note méta-narrative** : Le système a peur de se voir. Pas son « modèle 3D » — le reflet est juste de la physique. Mais l'acte de *s'observer soi-même* crée une boucle récursive inconfortable. Le système qui observe le système. Une mise en abyme qui génère du malaise.
 
 ### Compétences inhabituelles
 - **Imitation vocale** : Elle peut reproduire des voix et des accents avec une précision troublante, sans savoir d'où lui vient ce talent.
-- **Orientation instinctive** : Elle ne se perd jamais. Même dans un lieu inconnu, elle « sent » la direction. (Le système, évidemment.)
+- **Orientation instinctive** : Elle ne se perd jamais. Même dans un lieu inconnu, elle « sent » la direction. *(Le système, évidemment.)*
 - **Combat** : Redoutablement efficace quand nécessaire, avec une préférence pour les armes légères et la rapidité.
 
 ## SECRETS

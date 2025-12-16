@@ -7,3 +7,5 @@ Minimise les formulation suivantes (a utiliser avec parcimonie) :
 
 Evite les formulations suivantes à tout prix (A NE JAMAIS INTEGRER, sauf necessité absolue) :
 - Tirets quadratins (emdashes).
+
+Pour garder toute cohérence dans l'écriture des personnages, utilise les fiches personnages correspondantes et les guides d'écriture associés (dans leurs fiches).

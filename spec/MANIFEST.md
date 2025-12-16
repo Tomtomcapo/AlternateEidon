@@ -11,11 +11,14 @@ Ce fichier indexe les éléments canoniques du dépôt.
 ### Eidons
 - `characters/Altert.md` — Eidon de l'Équilibre (disparu)
 - `characters/Judeus.md` — Eidon du Progrès
+- `characters/Judeus-writing-guide.md` — Guide d'écriture du personnage de Judeus
 - `characters/Maelith.md` — Eidon de la Préservation
 - `characters/Gamma.md` — Eidon Système (identité secrète)
+- `characters/Gamma-writing-guide.md` — Guide d'écriture du personnage de Gamma
 
 ### Protagonistes
 - `characters/Liias.md` — Protagoniste principal (niveau 3, données techniques)
+- `characters/Liias-writing-guide.md` — Guide d'écriture du personnage de Liias
 - `characters/Kevel-Trevor.md` — Protagoniste sacrifié, ancien disciple de Craith
 
 ### Antagonistes

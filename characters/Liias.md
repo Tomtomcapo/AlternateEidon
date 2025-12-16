@@ -53,11 +53,19 @@ Un an de fuite l'a transformé en expert de l'anti-traque. Son intelligence anal
 - **Analyse comportementale** : Il a appris à « lire » les chasseurs : ceux qui abandonnent vite, ceux qui persistent, ceux qui ont une fierté à flatter ou une faiblesse à exploiter.
 - **Économie d'énergie** : Chaque action est calculée. Pourquoi fuir trois jours quand un détour de deux heures suffit ? Pourquoi combattre quand un piège peut neutraliser sans risque ?
 
+### Avantages sur Gamma
+Liias, à l'instar de tous les humains de la simulation de Seth, est un **agent calibré** — issu des données d'un humain réel, optimisé pour émuler un comportement humain cohérent. Contrairement à Gamma (le système brut), et de par sa personnalité propre, il :
+- Pense en raisonnements **simples et clairs** → trouve souvent la solution directe que Gamma ne voit pas
+- Comprend mieux les **problèmes humains** (émotions, relations, négociation)
+- Apprend par **reproduction et expérience** → sa base de connaissances est fiable
+- Peut convaincre Gamma quand sa solution est **plus simple** et tout aussi efficace
+
 ### Lacunes
 Malgré son intelligence, Liias a des angles morts :
 - **Inculture** : Il ne connaît presque rien du monde au-delà de la survie. Histoire, politique, religion, arts — tout lui est étranger.
 - **Maladresse sociale** : Après un an d'isolement, il a perdu l'habitude des conversations normales. Il analyse les gens au lieu de leur parler.
 - **Confiance brisée** : Son analyse des autres est devenue *défensive*. Il cherche d'abord les menaces, pas les alliés potentiels.
+- **Situations chaotiques** : Face à trop de variables simultanées, Gamma est meilleure que lui.
 
 ## HISTOIRE ET RÔLE DANS L'UNIVERS
 
@@ -89,7 +97,14 @@ Il ne le sait pas, mais cette origine lui confère un potentiel unique : il pour
 - **Sœur aînée (nom à définir)** : Vivante, cachée avec sa mère. Liias a peu de contact avec elle.
 
 ### Alliés
-- **Gamma** : Alliée principale, intérêt romantique mutuel (non avoué au début). Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie pour Liias. Voir `characters/Gamma.md`.
+- **Gamma** : Alliée principale, intérêt romantique mutuel (non avoué au début). Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie pour Liias. Voir `characters/Gamma.md` et `characters/Gamma-writing-guide.md`.
+
+**Évolution de leur relation** :
+1. **Friction (début)** : Liias est troublé, voire agacé par Gamma. Elle agit sans consulter, ses raisonnements sont alambiqués, elle ne simplifie jamais. Il essaie de la contrer, de lui imposer sa méthode plus "propre".
+2. **Jeu (milieu)** : Il apprend à "jouer" avec sa logique, à la challenger, à la faire "buguer" gentiment. Il cesse de lutter contre sa nature.
+3. **Acceptation (fin)** : Il l'accepte totalement, lui fait confiance même quand il ne comprend pas, la défend face aux autres.
+
+**Complémentarité** : Liias excelle dans la logique pure et les problèmes humains. Gamma excelle dans le chaos et les situations à multiples variables. Ensemble, ils sont plus efficaces que seuls.
 
 ### Ennemis (Arc 1)
 - **Tress (mort)** : Le faux Eidon, tyran d'Olivor. Responsable de la mort de Meldon. Assassiné par Gamma. Voir `characters/Tress.md`.
