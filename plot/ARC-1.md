@@ -587,18 +587,28 @@ Il a repéré les traces de Liias. Il connaît ses méthodes. Ce qu'il n'a pas r
 - Alliance naissante avec Gamma — fondée sur la méfiance mutuelle et un intérêt commun.
 
 ### Nouvelle impulsion
-- **Révélation** : Tress n'était pas un vrai Eidon.
+- **Révélation 1** : Tress n'était pas un vrai Eidon.
+- **Révélation 2** : Tress avait un plan de vengeance posthume — le Réseau Solaris s'active.
 - **Question** : C'est quoi, un Eidon ?
-- **Direction** : Suivre les traces d'Altert en Eldora pour comprendre.
-- **Mystère non résolu** : Qui est vraiment Gamma ? Comment sait-elle ce qu'elle sait ?
+- **Urgence** : La nouvelle arrive — quelque chose se passe à Olivor. Les gens perdent la mémoire.
+- **Direction immédiate (Arc 2)** : Liias veut retourner à Olivor — sa famille est là-bas.
+
+### Hook vers l'Arc 2
+Bobbis, par respect pour Liias — le seul adversaire qui l'ait jamais battu — révèle avant de mourir :
+
+> « Tu as gagné, gamin. Mais tu n'as rien gagné du tout. Tress avait un plan — si quelqu'un le tuait, son pays mourrait avec lui. Il a dispersé des dispositifs partout sur le territoire. L'île maudite. L'Effluve. Ça a déjà commencé. »
+
+Voir `plot/ARC-2.md` pour la suite.
 
 ### Éléments posés pour la suite
 - **Beyran** : Lieu de la rencontre — ancre narrative pour un retour ultérieur.
-- **Altert** : Nom introduit, mystère à explorer (Arc 2-3).
-- **Le Royaume Mort** : Mentionné par Bobbis comme destination dangereuse (Arc 4).
+- **Le Réseau Solaris** : Vengeance posthume de Tress, crise imminente à Olivor (Arc 2).
+- **Altert** : Nom introduit, mystère à explorer (Arc 3+).
+- **Le Royaume Mort** : Mentionné par Bobbis comme destination dangereuse.
 - **Iris** : L'amie perdue de Gamma — élément de son passé à développer.
-- **La famille de Liias** : Mère et sœur cachées à Olivor — fil narratif dormant.
+- **La famille de Liias** : Mère (Anna) et sœur (Nelia) cachées à Olivor — enjeu central de l'Arc 2.
 - **La nature de Gamma** : Indices plantés (compétences anormales, remarques étranges de Bobbis).
+- **Le secret de l'assassinat** : Gamma a tué Tress, personne ne le sait.
 
 ---
 

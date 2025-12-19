@@ -41,6 +41,15 @@ Les paysages d'Olivor s'inspirent directement du bassin méditerranéen :
 - **Au nord** : Eldora (Royaume du Nord).
 - **Frontières** : Naturelles (montagnes, mer) et artificielles (postes de contrôle hérités de l'ère Tress).
 
+### Capitale : Calicina
+Grande cité méditerranéenne bâtie sur une baie naturelle, Calicina est le cœur politique et culturel d'Olivor.
+
+**Architecture** : Palais aux façades ocre et blanches, places ombragées de citronniers, fontaines, arcades. Le Palais du Gouverneur (ancien palais de Tress) domine la ville depuis une colline.
+
+**Culture** : Siège du **Conservatoire de Calicina** et de l'**Orchestre National**, réputés dans tout le monde connu. Sous Tress, ces institutions étaient des foyers de résistance culturelle — l'art comme subversion silencieuse.
+
+**Rumeurs** : L'Orchestre National était secrètement sponsorisé par l'opposition à Tress. Jamais prouvé, mais la réputation persiste.
+
 ### Superficie
 Environ **1,2 million de km²** — équivalent à la France et l'Espagne cumulées. Un territoire vaste mais moins étendu qu'Eldora, avec une population concentrée sur les côtes et les vallées fertiles.
 
@@ -62,6 +71,31 @@ La mort de Tress a créé un **vide de pouvoir** immense. Officiellement, Olivor
 - La **corruption** ronge le système de l'intérieur. Les anciens réseaux de Tress n'ont pas disparu ; ils se sont adaptés.
 - Les **tensions** sont constantes : factions rivales, règlements de comptes, provinces qui menacent de faire sécession, population méfiante envers toute forme d'autorité.
 - L'**économie** souffre : les routes commerciales vers le Nord (Eldora) sont mal sécurisées, les infrastructures de Tress servaient surtout la répression.
+
+### Le Réseau Solaris — La Vengeance Posthume
+
+Dans les dernières années de son règne, Tress a lancé le **Réseau Solaris** — un programme d'infrastructure ambitieux.
+
+**Façade officielle :**
+- Modernisation du réseau énergétique d'Olivor
+- Exploitation de la géothermie via des "capteurs profonds"
+- Installation d'antennes-relais pour les communications
+- Programme de réurbanisation des zones rurales
+- Propagande : "Tress le bâtisseur", tentative de redorer son image
+
+**Réalité :**
+- Les "capteurs géothermiques" étaient des **disperseurs d'Effluve**
+- Ils contenaient des roches contaminées récupérées dans les eaux près de Fadris
+- Le réseau s'est activé **immédiatement** à la mort de Tress
+- **"Si je meurs, vous mourrez avec moi."**
+
+**Conséquences (Arc 2) :**
+- En quelques jours : premiers symptômes (pertes de mémoire type Alzheimer accéléré)
+- En quelques semaines : crise sanitaire généralisée
+- Division politique : "Reconnaissants" (célèbrent l'assassin de Tress) vs "Accusateurs" (le tiennent responsable de l'activation)
+- L'Effluve corrompt les données de manière **irréversible** — les souvenirs perdus ne reviennent jamais
+
+Voir `plot/ARC-2.md` et `characters/Tress.md` pour les détails.
 
 ---
 
@@ -166,23 +200,33 @@ Cette fracture menace l'unité nationale. Le Sud archipel se demande pourquoi il
 
 | Élément | Référence |
 |---------|-----------|
-| Tress (ancien dictateur) | `universe/GLOSSARY.md` |
-| Trevos Garon (bras droit) | `universe/GLOSSARY.md` |
+| Tress (ancien dictateur) | `characters/Tress.md` |
+| Trevos Garon (bras droit) | `characters/Trevos-Garon.md` |
 | Liias (originaire d'Olivor) | `characters/Liias.md` |
+| Anna (mère de Liias) | `characters/Anna.md` |
+| Nelia (sœur de Liias) | `characters/Nelia.md` |
 | Gamma (assassin de Tress) | `characters/Gamma.md` |
+| Craith / Institut Korst | `characters/Craith.md` |
+| Seren Valk (mercenaire) | `characters/Seren-Valk.md` |
+| Réseau Solaris / Effluve | `plot/ARC-2.md` |
 | Eldora (royaume voisin au nord) | `universe/locations/Eldora.md` |
+| Fadris (source de l'Effluve) | `universe/locations/Fadris.md` |
 
 ---
 
 ## DÉTAILS À NE PAS CONTREDIRE
 
 1. **Tress est mort** — assassiné par Gamma
-2. **Olivor hors influence directe des Eidons** — ni Judeus ni Maelith n'y agissent
-3. **Population croit aux Eidons comme divinités** — foi populaire exploitée par Tress
-4. **Père de Liias a tué Trevos Garon** — acte héroïque qui a coûté sa vie
-5. **Judeus peu connue, Maelith quasi-mythique** — contrôle de l'information par Tress
-6. **Excellence maritime** — navires avancés, chantiers navals de pointe
-7. **Sud archipel** — centaines d'îles, plus avancé que le continent
-8. **Fracture Nord-Sud** — tension politique entre archipel prospère et continent dévasté
-9. **Héritage de surveillance de Tress** — encore utilisé par le Conseil provisoire
-10. **Retard continental** — pas de trains, industrie faible hors naval
+2. **Le Réseau Solaris s'est activé immédiatement** — vengeance posthume de Tress
+3. **L'Effluve provoque des pertes de mémoire irréversibles** — type Alzheimer accéléré
+4. **Division Reconnaissants vs Accusateurs** — le pays est déchiré sur la question de l'assassin
+5. **Olivor hors influence directe des Eidons** — ni Judeus ni Maelith n'y agissent
+6. **Population croit aux Eidons comme divinités** — foi populaire exploitée par Tress
+7. **Père de Liias a tué Trevos Garon** — acte héroïque qui a coûté sa vie
+8. **Judeus peu connue, Maelith quasi-mythique** — contrôle de l'information par Tress
+9. **Excellence maritime** — navires avancés, chantiers navals de pointe
+10. **Sud archipel** — centaines d'îles, plus avancé que le continent
+11. **Fracture Nord-Sud** — tension politique entre archipel prospère et continent dévasté
+12. **Héritage de surveillance de Tress** — encore utilisé par le Conseil provisoire
+13. **Retard continental** — pas de trains, industrie faible hors naval
+14. **Institut Korst** — centre de recherche légitime dirigé par Craith

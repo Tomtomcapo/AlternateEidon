@@ -93,8 +93,15 @@ Bobbis meurt dans la forêt de Beyran, vaincu par l'alliance de Liias et Gamma.
 
 Il meurt sans amertume. Il a perdu fair and square. Dans son code, c'est une fin acceptable.
 
-**Révélation finale :**
-Avant de mourir, Bobbis révèle que Tress n'était pas un vrai Eidon — ouvrant la voie à la quête de Liias.
+**Révélations finales :**
+Avant de mourir, par respect pour Liias — le seul adversaire qui l'ait jamais battu — Bobbis révèle deux choses :
+
+1. **Tress n'était pas un vrai Eidon** — ouvrant la voie à la quête de compréhension de Liias.
+
+2. **Le plan de vengeance** : 
+> « Tu as gagné, gamin. Mais tu n'as rien gagné du tout. Tress avait un plan — si quelqu'un le tuait, son pays mourrait avec lui. Il a dispersé des... des dispositifs, partout sur le territoire. L'île maudite. L'Effluve. Ça a déjà commencé. »
+
+Cette révélation lance l'Arc 2 et la crise du Réseau Solaris.
 
 ## RELATIONS
 
@@ -131,7 +138,9 @@ La mort de Bobbis marque la fin de l'Arc 1, mais son influence persiste :
 
 ## NOTES DE COHÉRENCE
 
-- **Compatible avec :** `characters/Liias.md`, `plot/ARC-1.md`, `universe/locations/Olivor.md`
+- **Compatible avec :** `characters/Liias.md`, `characters/Tress.md`, `plot/ARC-1.md`, `plot/ARC-2.md`, `universe/locations/Olivor.md`
 - **Points à surveiller :**
   - Bobbis meurt définitivement dans l'Arc 1. Pas de retour possible.
   - Son respect pour Liias doit transparaître sans devenir de la sympathie — il reste un antagoniste.
+  - Sa révélation sur le plan de Tress lance l'Arc 2.
+  - Il ne sait pas exactement COMMENT le plan fonctionne, juste qu'il existe.

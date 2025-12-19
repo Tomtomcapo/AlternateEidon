@@ -3,6 +3,8 @@
 ## IDENTITÉ ET CONCEPT
 Maelith incarne le principe de Préservation au sein de la trinité des Eidons. Elle est la gardienne de la mémoire et de la stabilité, une entité conçue par l’IA à partir des données affectives de Maelen, la petite amie de Seth. Là où son modèle humain offrait un amour vivant et protecteur, Maelith manifeste une volonté inflexible de figer la réalité pour empêcher toute dégradation. Elle réside actuellement au cœur de l’Albionis, une mégastructure céleste, où elle dissimule sa nature divine sous les traits d’une haute dignitaire de la faction d’Albion.
 
+**Âge** : Environ 1000 ans
+
 ## APPARENCE
 
 ### Morphologie et Traits Généraux
@@ -77,6 +79,20 @@ Son aura de calme surnaturel, d'ordinaire parfaitement stable, vacille subtileme
 Elle a effacé toute trace d'Altert dans l'Albionis. Pas un portrait, pas un mémorial, pas un objet lui ayant appartenu. Elle a fait en sorte que les archives officielles d'Albion ne mentionnent que deux Eidons, comme si le troisième n'avait jamais existé. Cette absence délibérée est, paradoxalement, la preuve la plus criante de son obsession.
 
 Elle n'est jamais retournée sur l'Île de Fadris depuis qu'elle a tué Axylum. L'idée même de fouler ce sol — de revoir le squelette, de sentir l'Effluve, d'affronter ce qu'elle a créé — lui est insupportable. Ce n'est pas de la peur. C'est pire : c'est la certitude que l'île se *souvient*.
+**Exemple narratif : Le déni face à l'émotion**
+Lorsque quelque chose touche une faille émotionnelle que Maelith a enfouie, son corps peut réagir malgré elle — mais son esprit refuse immédiatement de valider cette réaction.
+
+> *Maelith, après avoir partagé un moment qu'elle jugea étrange avec quelqu'un de chaleureux et sincère, retourna dans ses quartiers. Une larme coula sur sa joue.*
+>
+> **Maelith** *(surprise)* : "Hein ? Je pleure ? Pourquoi ? Ridicule."
+>
+> *Elle essuie d'un geste sec, comme si rien ne s'était passé.*
+>
+> *Pendant une fraction de seconde, l'air autour d'elle tremble légèrement — son aura de calme vacille.*
+>
+> *Puis tout redevient figé.*
+
+Cette scène illustre le mécanisme de déni de Maelith : même quand son corps trahit une émotion, elle la rejette intellectuellement comme "illogique" et l'efface immédiatement. Elle traite ses propres émotions comme des bugs système qu'elle ne comprend pas et ne veut pas comprendre.
 ## HISTOIRE ET RÔLE DANS L’UNIVERS
 
 **L'Alliance Contre la Tyrannie**
@@ -146,6 +162,15 @@ Sa relation avec Judeus est définie par une opposition idéologique totale. Dan
 Maelith considère les actions de Judeus comme une profanation de l'héritage de Primary. Là où Judeus accélère le temps et l'histoire, Maelith tente de les ralentir. Elle voit dans le progrès forcé prôné par Judeus un risque existentiel qui pourrait mener à l'effondrement définitif de la simulation. Bien qu'elles soient ennemies, elles partagent la même origine et la même douleur liée à l'absence de leur créateur, ce qui maintient entre elles un lien indissoluble et tragique.
 
 Ce que Maelith ne dit jamais, c'est que chaque confrontation avec Judeus est aussi une trahison renouvelée de la promesse faite à Altert. Elle devait se réconcilier. Elle a choisi la guerre froide. Et quelque part, dans les moments où Judeus lui parle avec cette colère qui masque mal l'affection, Maelith entend la voix d'Altert lui demander : « Pourquoi ? »
+
+**La Relation avec Craith**
+Craith est le seul adversaire que Maelith considère comme un **égal intellectuel**. Leur dynamique est celle de deux joueurs d'échecs : respect mutuel, tension froide, calculs permanents.
+
+Contrairement à Judeus qui est déstabilisée par Craith, Maelith ne l'est pas. Elle analyse, elle évalue, elle renvoie ses critiques. Quand il touche ses failles (Altert, Axylum, la solitude), elle peut lui renvoyer les siennes (sa propre fuite, son incapacité à accepter ce monde).
+
+Chacun pense la même chose de l'autre : *"Tu es fort. Tu as une bonne logique. Je t'écoute. Mais cela ne changera rien à mon plan. À la fin, nous verrons qui avait raison."*
+
+C'est précisément ce respect qui rend leur confrontation tragique : Craith ne perd pas de temps à essayer de la convaincre. Il sait qu'elle ne changera jamais d'avis — et elle le sait aussi. La seule façon de "gagner" contre Maelith est de l'éliminer. Le débat est un match nul ; la mort, non.
 
 **La Rédemption Inachevée**
 Judeus a connu sa rédemption. Elle a traversé l'horreur du Massacre de La Toile du Crépuscule, en est ressortie brisée, et a choisi de se reconstruire. Elle pleure. Elle prie. Elle porte le poids de ses morts et tente chaque jour de mériter une existence qu'elle a souillée.

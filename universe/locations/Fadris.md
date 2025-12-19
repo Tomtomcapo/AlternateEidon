@@ -233,6 +233,17 @@ Mort environ un an après son retour. Officiellement : maladie.
 
 En réalité : l'Effluve ne l'a jamais vraiment quitté. Il entendait encore la Résonance. Il voyait encore les formes dans le coin de son œil. À la fin, il ne savait plus si ses pensées étaient les siennes.
 
+### L'irréversibilité de l'Effluve
+**L'Effluve ne peut pas être guéri.** Une fois contaminé, le processus de dégradation est inéluctable. Les premiers symptômes — troubles de la mémoire récente, confusion légère — peuvent prendre des semaines ou des mois à apparaître selon l'exposition. Mais une fois manifestés, ils ne font qu'empirer.
+
+La corruption de l'Effluve ressemble à une forme accélérée de démence :
+- **Phase 1** : Oublis bénins, difficultés à se concentrer, fatigue inexpliquée
+- **Phase 2** : Perte de souvenirs récents, désorientation temporelle, changements de personnalité
+- **Phase 3** : Perte de souvenirs anciens, incapacité à reconnaître les proches, aphasie progressive
+- **Phase 4** : État végétatif, puis mort
+
+La durée entre l'apparition des premiers symptômes et la mort varie de quelques mois à quelques années. Aucun remède connu n'existe — ni médecine, ni magie, ni intervention divine. Même les Eidons seraient impuissants face à cette corruption, car elle émane d'un être qui dépassait leur nature.
+
 ---
 
 ## STATUT ACTUEL

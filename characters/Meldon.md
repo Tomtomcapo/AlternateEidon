@@ -42,7 +42,7 @@ Ancien résistant salué contre le régime de Tress, Meldon est devenu une lége
 ### Parcours
 1. **Jeunesse :** Né à Olivor sous le règne de Tress. A grandi dans l'ombre de la tyrannie.
 2. **Résistance :** Rejoint les réseaux clandestins jeune adulte. Gravit les échelons par son intelligence tactique et son courage.
-3. **Famille :** Épouse une femme d'Olivor (nom à définir). Trois enfants : une fille aînée, puis Liias.
+3. **Famille :** Épouse **Anna**, une femme d'Olivor. Trois enfants : **Nelia** (fille aînée), puis **Liias**, et un(e) troisième (non développé).
 4. **Le Duel :** Provoqué par Trevos Garon, il accepte le défi et l'emporte contre toute attente.
 5. **Capture et mort :** Quelques semaines après le duel, Tress le fait capturer. Sous la torture, Meldon révèle l'existence de Liias — mais protège sa femme et sa fille.
 
@@ -76,8 +76,8 @@ Meldon meurt sous la torture, sans jamais supplier. Ses dernières pensées vont
 ## RELATIONS
 
 - **Liias (fils)** : Meldon a transmis à Liias ses compétences de survie, sa méfiance, son intelligence tactique. Mais il n'a pas eu le temps de lui transmettre sa paix. Liias porte son héritage comme un fardeau autant qu'une force.
-- **Femme (nom à définir)** : Amour profond mais souvent absent. Elle a accepté la vie qu'il menait, sans jamais cesser de l'attendre.
-- **Fille aînée (nom à définir)** : Relation moins développée avec Liias. Elle reste avec sa mère après la mort de Meldon.
+- **Anna (épouse)** : Amour profond mais souvent absent. Elle a accepté la vie qu'il menait, sans jamais cesser de l'attendre. Après sa mort, elle vit dans l'anxiété permanente pour ses enfants.
+- **Nelia (fille aînée)** : Relation complexe. Nelia était en **désaccord profond** avec son père — elle considérait que sa lutte était vaine, que les vrais problèmes d'Olivor n'étaient pas Tress mais le système entier. Elle pensait qu'Olivor était pourri à la base, et que Tress n'était qu'un symptôme. Meldon n'a jamais vraiment compris cette vision "trop politique" de sa fille. Elle reste avec sa mère après sa mort.
 - **Trevos Garon** : Ennemi mortel. Meldon l'a tué en duel — sa plus grande victoire et la cause de sa perte.
 - **Tress** : L'oppresseur. Meldon a passé sa vie à le combattre sans jamais pouvoir l'atteindre directement.
 

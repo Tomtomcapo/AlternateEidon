@@ -34,6 +34,59 @@ Cette compréhension fait de Craith la menace la plus dangereuse que le système
 
 **Après l'illumination** : Son apparence pourrait subtilement changer — plus assuré, regard plus pénétrant, comme si quelqu'un de *complet* regardait à travers ses yeux.
 
+---
+
+## L'INSTITUT KORST — Position publique
+
+Craith dirige l'**Institut Korst** — un centre de recherche scientifique légitime basé à Olivor, spécialisé dans :
+- Géologie et ressources naturelles
+- Phénomènes inexplicables (héritage des expéditions de Varen Korst, le fondateur originel)
+- Santé publique et épidémiologie
+
+**Ironie du nom** : L'institut porte le nom de Varen Korst, l'explorateur qui a découvert l'Effluve. Craith trouve cela... approprié.
+
+**Position stratégique** :
+- Respectabilité publique, aucun soupçon
+- Accès aux données sur l'Effluve (archives Korst)
+- Peut proposer ses services au Conseil d'Olivor
+- Peut se rapprocher de Liias/Gamma naturellement
+
+---
+
+## RÔLE DANS L'ARC 2
+
+Pendant la crise du Réseau Solaris, Craith apparaît comme un **allié providentiel**. Il recrute Liias et Gamma comme enquêteurs de terrain.
+
+**Ce que Liias voit** : "Une personne avec une conscience très professionnelle, et efficace." Rien de suspect.
+
+**Ce que Craith fait vraiment** :
+1. **Protéger ses propres données** — L'Effluve pourrait le toucher aussi
+2. **Nettoyer le terrain** — Le plan de Tress (corruption diffuse) interfère avec SON plan (destruction instantanée)
+3. **Étudier l'Effluve** — Comprendre le mécanisme pour un usage futur
+4. **Se rapprocher de Liias** — Curiosité envers son "autre moitié"
+5. **Se positionner comme sauveur** — Gagner en influence
+
+**Pourquoi il aide vraiment** :
+Le plan de Tress l'énerve profondément :
+- L'Effluve corrompt les données **progressivement**, créant des milliers de micro-corruptions
+- Quand l'admin (C. Liias) voudra restaurer la simulation, ce sera un cauchemar technique
+- Craith lui-même risque d'être touché et de perdre ses souvenirs/connaissances
+- Ce n'est pas SON plan — l'idée qu'un tyran mort provoque le chaos qu'il voulait provoquer LUI-MÊMe, de manière "sale", l'irrite
+
+**Son plan propre (Arc Final)** :
+- Une destruction **totale et instantanée** — la bombe sur Fadris
+- Pas de corruption progressive, pas de couches de dégâts
+- Un "écran bleu" propre qui force le failsafe
+- L'admin peut restaurer à partir du dernier état stable
+
+**Interactions avec Liias** :
+- Purement professionnelles
+- Craith est efficace, compétent, irréprochable
+- Aucun indice de sa vraie nature
+- Il observe Liias avec une curiosité discrète
+
+---
+
 ## PSYCHOLOGIE ET CARACTÈRE
 
 ### Opposition au projet de Seth
@@ -165,8 +218,8 @@ Le vrai Christophe Liias est **vivant** dans le monde réel. Il ne sait pas néc
 
 ### Avec les Eidons
 - **Altert** : Première victime. Craith l'a tué, déclenchant la polarisation du monde.
-- **Maelith** : Seconde victime. Sa mort provoque le Monde Distordu et révèle à Craith les secrets du système.
-- **Judeus** : Ennemi, mais Craith la considère comme secondaire. Il a manipulé le conflit Maelith/Judeus à son avantage pendant des années.
+- **Maelith** : Seconde victime. Leur relation est celle de **deux calculateurs face à face** — un respect intellectuel mutuel, une tension froide, mais aucune possibilité de compromis. Craith reconnaît l'intelligence de Maelith et la considère comme une égale sur le plan stratégique. C'est précisément pour cela qu'il ne perd pas de temps à essayer de la convaincre : il sait qu'elle ne changera jamais d'avis. Sa mort est presque un hommage — il la respecte trop pour croire à la manipulation.
+- **Judeus** : Relation complexe. Craith la **respecte** — plus qu'il ne respecte Seth lui-même. Il reconnaît ce qu'elle a accompli : mille ans de règne, une transformation du monstre à la souveraine, un vrai changement. Mais ce respect ne change rien à ses plans. Il voit en elle quelqu'un qui a fait quelque chose de son existence malgré son "script", ce qui est plus que ce que Seth a jamais fait selon lui.
 
 ### Avec Liias
 - **Liias ignore l'existence de Craith** au début.
@@ -213,6 +266,38 @@ Craith n'est pas plus *puissant* que Gamma — il est plus *dangereux* :
 - Il exploite la directive "obéir à Primary" contre le système lui-même
 - Il vise le **Runtime** (via le failsafe), la seule couche que Gamma ne contrôle pas
 - Sa victoire ne nécessite pas de vaincre Gamma — juste de la **tuer**
+
+### Style de confrontation orale
+Craith ne joue pas. Il ne performe pas. Il **traverse** les jeux des autres comme s'ils n'existaient pas.
+
+**Caractéristiques** :
+- **Absence de réaction émotionnelle** — Il ne donne rien à exploiter (ni peur, ni colère, ni admiration)
+- **Analyse clinique** — Il déconstruit les masques des autres sans cruauté, juste factuellement
+- **Respect sincère** — Il reconnaît la valeur de ses adversaires, ce qui les déstabilise plus que du mépris
+- **Pas de plaisir** — Il ne tire aucune satisfaction des confrontations. C'est nécessaire, pas amusant.
+
+**Efficacité en confrontation** :
+
+| Niveau | Contre qui | Pourquoi |
+|--------|------------|----------|
+| **Très fort** | Judeus | Il refuse de jouer, attaque ses fondations philosophiques, connaît ses failles |
+| **Fort** | Gamma | Il comprend le système mieux qu'elle, pose la question sans réponse |
+| **Neutre** | Liias, Maelith | Liias : même source de données, ils se comprennent trop bien. Maelith : deux calculateurs, match nul intellectuel — aucun ne déstabilise l'autre |
+
+**Face à Judeus spécifiquement** :
+- Il ne réagit pas à ses performances théâtrales → elle perd son avantage
+- Il l'analyse sans jugement, ce qui est pire que du mépris
+- Il respecte ce qu'elle a accompli, ce qui la désarme
+- Il touche ses blessures (le script, le sens, Maelith) sans cruauté
+- Il pose la question qu'elle évite : "Pourquoi cette simulation mérite-t-elle d'exister ?"
+
+**Face à Maelith spécifiquement** :
+- Deux calculateurs, deux logiques froides — terrain équilibré
+- Aucun ne peut déstabiliser l'autre par la parole
+- Respect intellectuel mutuel : chacun pense *"Tu es fort(e). Tu as une bonne logique. Mais cela ne changera rien à mon plan."*
+- Craith ne tente pas de la manipuler — il la respecte trop pour ça
+- Il peut toucher ses failles (Altert, Axylum) mais elle renvoie ses propres critiques
+- Issue verbale : match nul. Issue réelle : Craith la tue, seule façon de "gagner"
 
 ## LE PARADOXE LIIAS/CRAITH
 

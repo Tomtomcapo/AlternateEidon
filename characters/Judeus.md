@@ -4,6 +4,8 @@
 
 Judeus incarne le principe de Progression au sein de la trinité des Eidons. Elle est une entité issue de l'interprétation par l'IA des données de Judith, la sœur de Maelen, figure intellectuelle centrale dans la vie de Seth. Là où Judith stimulait, confrontait et questionnait, Judeus manifeste une volonté constante de mouvement, de dépassement et de mise à l'épreuve du monde. Elle agit à la surface, au cœur des sociétés humaines, qu'elle considère comme le seul terrain légitime où la vérité peut émerger. Contrairement à Maelith, Judeus ne cherche pas à dissimuler sa nature d'Eidon, mais elle refuse d'en faire un statut sacré.
 
+**Âge** : Environ 1000 ans
+
 ## APPARENCE
 
 ### Caractéristiques générales

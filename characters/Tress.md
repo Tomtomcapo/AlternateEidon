@@ -104,22 +104,54 @@ Tress est mort assassiné par Gamma.
 - **Paranoïa :** À force de se méfier de tout le monde, il s'est isolé.
 - **Aveuglement :** Il n'a pas vu venir Gamma. Personne ne l'a vue venir.
 
+## LE RÉSEAU SOLARIS — La Vengeance Posthume
+
+Dans les dernières années de son règne, Tress a lancé un programme d'infrastructure ambitieux : le **Réseau Solaris**.
+
+### Façade officielle
+- Modernisation du réseau énergétique d'Olivor
+- Exploitation de la géothermie via des "capteurs profonds"
+- Installation d'antennes-relais pour les communications
+- Programme de réurbanisation des zones rurales
+- **Propagande** : "Tress le bâtisseur", tentative de redorer son image de tyran
+
+### Réalité
+- Les "capteurs géothermiques" sont des **disperseurs d'Effluve**
+- Ils contiennent des roches contaminées récupérées dans les eaux près de Fadris
+- Le réseau était conçu pour s'activer **immédiatement** à la mort de Tress
+- Mécanisme : si le "signal vital" de Tress disparaît, les disperseurs libèrent leur contenu
+- **"Si je meurs, vous mourrez avec moi."** — Sa cruauté ultime
+
+### Conséquences
+- À la mort de Tress (assassiné par Gamma), le Réseau s'active instantanément
+- En quelques jours : premiers symptômes dans la population (pertes de mémoire)
+- En quelques semaines : crise sanitaire généralisée
+- L'Effluve corrompt les données de manière **irréversible** — les souvenirs perdus ne reviennent jamais
+
+Voir `plot/ARC-2.md` pour les détails de la crise.
+
+---
+
 ## HÉRITAGE
 
-Tress est mort, mais son règne a laissé des traces profondes :
+Tress est mort, mais son règne — et sa vengeance — ont laissé des traces profondes :
 
 ### Sur Olivor
 - **Vide de pouvoir :** La République qui lui succède est fragile, corrompue, instable.
+- **Crise sanitaire :** Le Réseau Solaris décime la population. Des milliers perdent leurs souvenirs.
+- **Division :** Le pays se déchire entre "Reconnaissants" (qui célèbrent l'assassin de Tress) et "Accusateurs" (qui le tiennent responsable de l'activation du Réseau).
 - **Anciens réseaux :** Les lieutenants de Tress n'ont pas disparu. Ils se sont adaptés.
 - **Trauma collectif :** Des décennies de terreur ne s'effacent pas en un jour.
 
 ### Sur Liias
 - Tress a tué son père. A lancé la traque qui l'a forgé.
 - La révélation que Tress n'était pas un vrai Eidon ébranle tout ce que Liias croyait savoir.
+- **Ironie tragique** : La mort de Tress (qui libère Liias) active le Réseau qui détruit sa sœur Nelia.
 
 ### Sur le récit
 - Tress incarne le **faux dieu** — le thème de l'usurpation qui traverse l'histoire.
 - Sa mort ouvre la question : *si lui n'était pas un Eidon, alors c'est quoi, un vrai Eidon ?*
+- **Le mal posthume** : Tress continue de nuire depuis la tombe.
 
 ## SCÈNES CLÉS
 
@@ -128,8 +160,10 @@ Tress est mort, mais son règne a laissé des traces profondes :
 
 ## NOTES DE COHÉRENCE
 
-- **Compatible avec :** `characters/Meldon.md`, `characters/Trevos-Garon.md`, `characters/Bobbis.md`, `characters/Gamma.md`, `plot/ARC-1.md`, `universe/locations/Olivor.md`
+- **Compatible avec :** `characters/Meldon.md`, `characters/Trevos-Garon.md`, `characters/Bobbis.md`, `characters/Gamma.md`, `characters/Nelia.md`, `plot/ARC-1.md`, `plot/ARC-2.md`, `universe/locations/Olivor.md`, `universe/locations/Fadris.md`
 - **Points à surveiller :**
   - Tress n'avait AUCUN pouvoir. Insister sur ce point — c'est un humain qui s'est fait passer pour un dieu.
-  - Les circonstances exactes de son assassinat par Gamma peuvent être développées.
+  - Le Réseau Solaris s'active IMMÉDIATEMENT à sa mort (pas de délai).
+  - Les roches contaminées viennent des eaux près de Fadris, PAS de l'île elle-même (trop dangereux).
+  - Les conséquences de l'Effluve sont IRRÉVERSIBLES.
   - Ne pas révéler la vraie nature de Gamma dans les scènes liées à Tress.

@@ -4,6 +4,33 @@ Ce document décrit la structure narrative profonde de l'œuvre, incluant les r�
 
 ---
 
+## Structure des Arcs
+
+### Fil conducteur : L'Effluve et le Réseau Solaris
+Le récit est unifié par la menace de l'**Effluve** — la corruption émanant du cadavre d'Axylum — et le **Réseau Solaris**, le plan de vengeance posthume de Tress qui répand cette corruption sur Olivor.
+
+| Arc | Nom | Focus principal | Menace visible | Antagoniste perçu |
+|-----|-----|-----------------|----------------|-------------------|
+| **1** | La Traque | Assassinat de Tress | Tress lui-même | Tress |
+| **2** | L'Ombre qui Rampe | Crise de l'Effluve à Olivor | Corruption de masse | Tress (posthume) / Judeus |
+| **Pivot** | Le Tournant | Révélation nature de Gamma | Craith révélé | Craith |
+| **Final** | — | Confrontation finale | Fin du système | Craith |
+
+### L'Effluve comme métaphore
+L'Effluve représente la corruption du système lui-même :
+- **Physiquement** : Les gens perdent leurs souvenirs, leur identité
+- **Métaphoriquement** : Les données se dégradent, l'intégrité du système est menacée
+- **Thématiquement** : Qu'est-ce qui reste de nous sans nos souvenirs ?
+
+### Craith : L'ennemi invisible
+Craith agit dans l'ombre pendant les Arcs 1 et 2 :
+- **Arc 1** : Absent de la narration directe
+- **Arc 2** : Présent comme "allié" via l'Institut Korst — aide les héros à contenir l'Effluve tout en poursuivant ses propres objectifs
+- **Arc Pivot** : Sa vraie nature est révélée
+- **Arc Final** : Confrontation directe
+
+---
+
 ## Hiérarchie des valeurs du système
 
 Le core de la simulation évalue inconsciemment les données selon leur importance pour sa propre préservation :

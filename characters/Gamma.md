@@ -253,19 +253,27 @@ Ce conflit crée une instabilité logique dans les directives du système :
 - Escalade potentielle : plus Maelith fige, plus Gamma doit agir, ce qui déstabilise davantage.
 
 ## RELATIONS
-- **Liias** : Allié principal, intérêt romantique (mutuel mais non avoué). Cible de protection prioritaire. Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie — un amour à la fois programmé et authentique. Voir `characters/Liias.md`.
+- **Liias** : Allié principal, intérêt romantique (mutuel mais non avoué). Cible de protection prioritaire. Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie — un amour à la fois programmé et authentique. **Tension dans l'Arc 2** : Liias découvre que Gamma a tué Tress, activant le Réseau Solaris qui détruit Nelia. Il en veut à Gamma tout en lui devant la vie. Gamma sent cette distance sans comprendre. Voir `characters/Liias.md`.
 - **Iris (décédée)** : Amie d'enfance, tuée par des mercenaires de Tress. Sa mort est la raison consciente pour laquelle Gamma a assassiné Tress. "Je ne veux plus que Tress emporte d'autres personnes comme mon amie."
+- **Seren Valk** : Relation chaleureuse (du côté de Seren). Violoniste accusée à tort du meurtre de Tress. Seren l'apprécie et l'appelle "Petit Chou". Elle interprète les remarques étranges de Gamma comme de l'humour pince-sans-rire. Gamma est confuse par cette affection mais pas mécontente. Voir `characters/Seren-Valk.md`.
+- **Anna** : Mère de Liias. L'apprécie et la voit comme une excellente petite amie pour son fils. Gamma ne comprend pas les sous-entendus. Voir `characters/Anna.md`.
+- **Craith** : Le rencontre dans l'Arc 2 comme "employeur" lors de la crise de l'Effluve. Aucun soupçon sur sa vraie nature. Voir `characters/Craith.md`.
 - **Bobbis (mort)** : Mercenaire traqué et tué avec l'aide de Liias. Gamma l'a éliminé avec une efficacité froide. Voir `characters/Bobbis.md`.
-- **Tress (mort)** : Cible assassinée. Pour Gamma, c'est une vengeance pour Iris. Voir `characters/Tress.md`.
+- **Tress (mort)** : Cible assassinée. Pour Gamma, c'est une vengeance pour Iris. **Ce meurtre a activé le Réseau Solaris** — un secret qu'elle garde. Voir `characters/Tress.md`.
 - **Ses parents** : Vivants, à Eldora. Elle les aime sincèrement, même si elle les voit peu depuis son départ. Ils ne savent rien de sa nature.
 - **Maelith** : Antagoniste structurelle (conflit inconscient). Gamma peut outrepasser son influence — elle est l'une des rares entités à en être capable.
-- **Judeus** : Inconnue de Judeus pour l'instant.
+- **Judeus** : Inconnue de Judeus au début. **Arc 2** : Judeus la soupçonne d'être l'assassine de Tress (après avoir d'abord ciblé Seren).
 
 ## SCÈNES CLÉS
 
 ### Arc 1
-- **[Le piège de Beyran](../plot/scenes/piege-beyran.md)** : Gamma tombe dans le piège de Liias. Début de leur alliance. *(à écrire)*
+- **[Le piège de Beyran](../plot/scenes/piege-beyran.md)** : Gamma tombe dans le piège de Liias. Début de leur alliance. *(à écrire)*
 - **[La mort de Bobbis](../plot/scenes/mort-bobbis.md)** : Confrontation finale, Gamma tue Bobbis. *(à écrire)*
+
+### Arc 2
+- **Retour à Olivor** : Gamma accompagne Liias pour retrouver sa famille. Elle porte le secret de l'assassinat de Tress.
+- **Rencontre avec Seren** : Une violoniste accusée à tort du meurtre de Tress. Seren l'accepte immédiatement et l'appelle "Petit Chou".
+- **La distance de Liias** : Gamma sent que Liias s'éloigne mais ne comprend pas pourquoi.
 
 ### Arcs suivants
 - **[Première vision de Judeus](../plot/scenes/premiere-vision-judeus.md)** : Gamma et Liias découvrent Judeus à Silentes. Gamma révèle la réputation de l'Eidon du Progrès.
@@ -347,12 +355,15 @@ C. Liias lui fait un "cadeau" : il la **sépare du système**. Elle n'est plus l
 **Nouveau niveau d'écriture : Niveau Γ' (Gamma Prime)** — Agent autonome, anciennement système. Libre arbitre véritable.
 
 ## NOTES DE COHÉRENCE
-- Compatible avec : `universe/LORE.md`, `universe/concepts/niveaux-ecriture.md`, `plot/ARC-FINAL.md`
+- Compatible avec : `universe/LORE.md`, `universe/concepts/niveaux-ecriture.md`, `plot/ARC-1.md`, `plot/ARC-2.md`, `plot/ARC-FINAL.md`
 - Points à surveiller :
   - Gamma **était** le système — elle ne l'est plus après l'arc final
   - Son amour pour Liias est désormais un **choix**, plus une directive
   - Elle peut vivre, vieillir, mourir comme un agent normal
   - Le système fonctionne toujours, mais sans conscience incarnée
+  - **Arc 2** : Elle n'a PAS d'intuition magique sur l'Effluve. Elle semble "comme les autres"
+  - **Arc 2** : Le secret de l'assassinat de Tress pèse sur elle et crée une distance avec Liias
+  - **Arc 2** : Personne ne sait qu'elle est l'assassine (sauf Liias)
 
 ## SCÈNES CLÉS
 

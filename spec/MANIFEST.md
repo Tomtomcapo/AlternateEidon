@@ -22,14 +22,19 @@ Ce fichier indexe les éléments canoniques du dépôt.
 - `characters/Kevel-Trevor.md` — Protagoniste sacrifié, ancien disciple de Craith
 
 ### Antagonistes
-- `characters/Craith.md` — Antagoniste principal (niveau 3, convictions éthiques)
-- `characters/Tress.md` — **ARC 1** Le Faux Eidon, tyran d'Olivor (mort)
+- `characters/Craith.md` — Antagoniste principal (niveau 3, convictions éthiques), président de l'Institut Korst
+- `characters/Tress.md` — **ARC 1** Le Faux Eidon, tyran d'Olivor (mort), créateur du Réseau Solaris
 - `characters/Trevos-Garon.md` — **ARC 1** Le Sorcier Sanguinaire, bras droit de Tress (mort)
 - `characters/Bobbis.md` — **ARC 1** Mercenaire d'élite obsessionnel (mort)
 
+### Famille de Liias
+- `characters/Anna.md` — **ARC 2** Mère de Liias, veuve de Meldon
+- `characters/Nelia.md` — **ARC 2** Sœur aînée de Liias, victime de l'Effluve
+- `characters/Meldon.md` — **ARC 1** Père de Liias, héros de la résistance (mort)
+
 ### Autres personnages
 - `characters/Seth.md` — Créateur de la simulation (monde réel), absent de la simulation, abstrait en Primary
-- `characters/Meldon.md` — **ARC 1** Père de Liias, héros de la résistance (mort)
+- `characters/Seren-Valk.md` — **ARC 2** "L'Étoile du Soir", violoniste de l'Orchestre National de Calicina, accusée à tort de l'assassinat de Tress
 - `characters/Cerdon.md` — Conseiller principal de Judeus
 - `characters/Varen-Korst.md` — Explorateur olivorien, a documenté Fadris
 - `characters/Phael.md` — Le Qask de l'Albionis (quasi-Eidon, hommage à Philémon)
@@ -63,6 +68,7 @@ Ce fichier indexe les éléments canoniques du dépôt.
 - `plot/TIMELINE.md`
 - `plot/META-ARC.md` — Structure narrative globale (spoilers)
 - `plot/ARC-1.md` — **ARC 1** La Traque (exposition, rencontre Liias-Gamma, faux Eidon)
+- `plot/ARC-2.md` — **ARC 2** L'Ombre qui Rampe (crise de l'Effluve, Réseau Solaris, famille de Liias)
 - `plot/ARC-PIVOT.md` — 📝 Arc "Course à Primary" (brouillon canonique)
 - `plot/ARC-FINAL.md` — **ARC FINAL** Le Trône Vide (résolution de l'œuvre)
 - `plot/ARC-EPILOGUE.md` — **ÉPILOGUE** Après la tempête (enterrement, réconciliation, fin)

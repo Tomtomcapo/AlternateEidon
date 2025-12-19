@@ -36,6 +36,9 @@ Titre de la souveraine féminine de l'Albionis, épouse du Qask. Quasi-Eidon com
 ## Quasi-Eidon
 Entité écrite dans les grandes lignes par Seth dans le méga-prompt, mais sans nom, histoire détaillée ou données sous-jacentes. Contrairement aux Eidons complets, les quasi-Eidons n'ont pas de « vrai moi » à regretter — ils ressentent plutôt une incomplétude structurelle (pas de souvenirs d'enfance, pas de passé). Le Qask et la Qaskel sont les seuls quasi-Eidons connus.
 
+## Calicina
+Capitale d'Olivor, grande cité méditerranéenne. Centre culturel majeur du Sud, siège de l'Orchestre National et du Conservatoire de musique. Sous le règne de Tress, la ville était un foyer de résistance culturelle — l'art comme subversion. C'est ici que Tress a été assassiné lors d'un gala au Palais.
+
 ## Bénédiction de l'Albionis
 Propriété écrite par Seth : les habitants de l'Albionis ne vieillissent pas tant qu'ils demeurent dans la cité céleste. Immortalité par la stase géographique. Le Qask, la Qaskel et Maelith en bénéficient depuis des siècles.
 
@@ -67,7 +70,13 @@ Nom originel du Royaume Mort, donné par Seth. Reflète sa vision artistique du 
 Créature créée par Seth pour garder Fadris. Corps serpentin colossal, capable de vaporiser tout intrus par lumière pure. Tué par Maelith après la mort d'Altert. Son squelette gît au centre de l'île et émane l'Effluve. Appelé "la bête" par Varen Korst, faute de classification possible.
 
 ## L'Effluve
-Phénomène paranormal émanant du squelette d'Axylum sur Fadris. Gaz toxiques, intrusion mentale, hallucinations, distorsions sensorielles, possession partielle. Nom donné par l'explorateur Varen Korst : *"La bête est morte, mais son souffle continue."*
+Phénomène paranormal émanant du squelette d'Axylum sur Fadris. **Symptômes principaux** : pertes de mémoire progressives et sévères (type Alzheimer accéléré), effacement de la personnalité, catatonie finale. Également : gaz toxiques, intrusion mentale, hallucinations. **Corruption irréversible** — les souvenirs perdus ne reviennent jamais, même si l'exposition cesse. Nom donné par l'explorateur Varen Korst : *"La bête est morte, mais son souffle continue."* Voir `universe/locations/Fadris.md`.
+
+## Réseau Solaris
+Programme d'infrastructure lancé par Tress dans les dernières années de son règne. **Façade** : modernisation énergétique, géothermie, antennes-relais. **Réalité** : réseau de disperseurs contenant des roches contaminées par l'Effluve. S'est activé **immédiatement** à la mort de Tress, provoquant une crise sanitaire à Olivor. Vengeance posthume : *"Si je meurs, vous mourrez avec moi."* Voir `characters/Tress.md` et `plot/ARC-2.md`.
+
+## Institut Korst
+Centre de recherche scientifique basé à Olivor, spécialisé en géologie, phénomènes inexplicables et santé publique. Fondé en hommage à Varen Korst (l'explorateur). **Dirigé par Craith**, qui utilise sa position légitime pour ses propres objectifs. Au premier plan de la crise de l'Effluve (Arc 2). Voir `characters/Craith.md`.
 
 ## Varen Korst
 Explorateur et cartographe olivorien originaire de l'archipel du Sud. Premier humain à explorer Fadris après la mort d'Axylum (~15 ans avant l'Arc 1). Son expédition de 23 hommes n'a laissé que 4 survivants, tous morts peu après. Korst a rédigé le seul rapport de première main sur l'Effluve avant de sombrer dans la folie et de mourir environ un an après son retour. A nommé le phénomène "Effluve" et appelé Axylum "la bête". Son rapport est conservé dans les archives classifiées d'Olivor. Voir `characters/Varen-Korst.md`.
@@ -79,16 +88,28 @@ Faction fondée par Judeus dans les premiers temps de la simulation, après son 
 Capitale du Royaume Mort, siège du pouvoir de Judeus. Ville à deux niveaux : une base haussmannienne onirique (création de Seth) surmontée de tours futuristes (ajouts de Judeus). Le Dôme Central sert de lieu d'exposition pour Judeus et de parlement. Nom donné par Judeus elle-même. Voir `universe/locations/Mortem-Onell.md`.
 
 ## Tress
-Dictateur sanguinaire ayant régné sur Olivor. Usurpait le titre d'« Eidon » pour légitimer son pouvoir. Assassiné par Gamma.
+Dictateur sanguinaire ayant régné sur Olivor. Usurpait le titre d'« Eidon » pour légitimer son pouvoir. Assassiné par Gamma. **Vengeance posthume** : le Réseau Solaris qu'il avait déployé s'est activé à sa mort, répandant l'Effluve sur tout Olivor. Voir `characters/Tress.md`.
 
 ## Trevos Garon
-« Le Sorcier Sanguinaire ». Bras droit de Tress, stratège militaire d'une cruauté quasi surnaturelle. Abattu par le père de Liias.
+« Le Sorcier Sanguinaire ». Bras droit de Tress, stratège militaire d'une cruauté quasi surnaturelle. Abattu par Meldon, le père de Liias. Voir `characters/Trevos-Garon.md`.
+
+## Meldon
+Père de Liias et Nelia, époux d'Anna. Héros de la résistance olivorienne. A tué Trevos Garon en duel public, puis a été capturé, torturé et exécuté par Tress. Sous la torture, il a révélé uniquement l'existence de Liias (pas d'Anna ni Nelia). Voir `characters/Meldon.md`.
+
+## Anna
+Mère de Liias et Nelia, veuve de Meldon. Femme anxieuse et protectrice. A survécu sous Tress en se faisant oublier. Au bord de l'effondrement pendant la fuite de Liias, elle retrouve espoir à son retour. Apprécie Gamma et la voit comme une excellente petite amie pour son fils. Voir `characters/Anna.md`.
+
+## Nelia
+Sœur aînée de Liias (26 ans). Joviale et protectrice, légèrement complotiste. Était en désaccord avec Meldon sur Tress — elle pensait qu'Olivor était pourrie de l'intérieur et que Tress n'était qu'un symptôme. **Victime de l'Effluve** (Arc 2) : perd progressivement ses souvenirs. Ironie tragique : celle qui refusait de diaboliser Tress est sa victime ultime. Voir `characters/Nelia.md`.
+
+## Seren Valk
+Ex-mercenaire connue sous le surnom de "La Silhouette". Accusée à tort de l'assassinat de Tress par Judeus. Franc-parler, langue acérée, code personnel strict. N'aime pas Gamma (l'appelle "Brocoli"). Protégée par Liias et Gamma, elle sert involontairement de leurre pour la vraie assassine. Voir `characters/Seren-Valk.md`.
 
 ## Liias
 Protagoniste de l'Arc 1. Issu des **données techniques** de Christophe Liias, collègue chercheur en IA de Seth (niveau 3). Voir `characters/Liias.md`.
 
 ## Craith
-Antagoniste principal. Issu des **convictions éthiques** de Christophe Liias — même source de données que Liias, aspect différent. A tué Altert. Veut donner à la simulation une utilité dans le monde réel. Voir `characters/Craith.md`.
+Antagoniste principal. Issu des **convictions éthiques** de Christophe Liias — même source de données que Liias, aspect différent. A tué Altert. **Président de l'Institut Korst** — position publique légitime. Dans l'Arc 2, aide à stopper l'Effluve de Tress pour ses propres raisons (protéger ses données, nettoyer le terrain pour son propre plan). Veut donner à la simulation une utilité dans le monde réel via une destruction instantanée (pas diffuse). Voir `characters/Craith.md`.
 
 ## Christophe Liias
 Collègue chercheur en IA de Seth (monde réel). S'opposait au projet de Seth pour des raisons éthiques, écologiques et philosophiques. Ses données ont été fragmentées en deux entités : Liias (technique) et Craith (convictions). **Contact d'urgence du failsafe** — si le système s'effondre, le Runtime le contacte automatiquement. Dans l'Arc Final, il accède à la simulation et devient le nouveau "Primary" de facto — gardien bienveillant de l'extérieur.

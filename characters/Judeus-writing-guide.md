@@ -228,10 +228,31 @@ Cerdon a appris à les reconnaître aussi. Quand il voit les signes (respiration
 
 ---
 
+## Style de confrontation orale
+
+Judeus **assume son jeu**. Sa folie déguisée, ses phrases chaotiques, ses changements de ton imprévisibles — tout est volontaire. Elle joue avec ses interlocuteurs, les déstabilise jusqu'à l'extrême parfois.
+
+**Principe clé** : Plus on essaie de jouer dans son jeu, plus elle devient chaotique et s'amuse. Tenter de la battre à son propre jeu est une erreur — elle surenchérira toujours.
+
+**Patience par curiosité** : Judeus peut sembler impatiente, mais si quelqu'un l'intrigue, elle prendra tout le temps nécessaire pour l'observer, le tester, le comprendre.
+
+**Limites** : Les personnages trop méta ou trop extrêmes (style Deadpool) la lassent — ce n'est plus un jeu si l'autre n'a rien à perdre.
+
+### Efficacité en confrontation
+
+| Niveau | Contre qui | Pourquoi |
+|--------|------------|----------|
+| **Très forte** | Liias (début) | Complètement déstabilisé, n'a aucune défense contre le chaos |
+| **Forte** | Gamma, Seren | Gamma est passive face au chaos ; Seren répond par une sincérité désarmante (perturbant) |
+| **Neutre** | Liias (fin Arc Judeus), Maelith | Liias apprend à ne plus réagir ; Maelith la connaît trop bien |
+| **Faible** | Craith | À développer — il a quelque chose qui la déstabilise |
+
+---
+
 ## Dynamique avec les autres personnages
 
 ### Avec Maelith
-Opposition frontale, mais avec un **amour sous-jacent**. Elle provoque sa sœur, la pousse, l'exaspère — mais elle ne la blesserait jamais vraiment.
+Opposition frontale, mais avec un **amour sous-jacent**. Elle provoque sa sœur, la pousse, l'exaspère — mais elle ne la blesserait jamais vraiment. **Confrontation neutre** — Maelith la connaît depuis mille ans et ne se laisse plus surprendre.
 
 > **Judeus** : "Toujours aussi rigide, grande sœur. Tu sais que le bois qui ne plie pas finit par casser ?"
 > **Maelith** : "Et le feu qui ne se contrôle pas finit par se consumer lui-même."
@@ -245,8 +266,44 @@ Opposition frontale, mais avec un **amour sous-jacent**. Elle provoque sa sœur,
 > **Cerdon** : "Et qu'est-ce qui vous fait continuer ?"
 > **Judeus** : "L'alternative, c'est leur donner raison. Je refuse."
 
-### Avec Gamma et Liias (s'ils se rencontrent)
-**Curiosité intense.** Elle voudra les tester, les pousser, voir de quoi ils sont faits. Elle pourrait être terrifiante, puis charmante, puis dangereuse — le tout en quelques minutes.
+### Avec Liias
+**Proie idéale (au début).** Liias est complètement déstabilisé par le chaos de Judeus. Il ne sait pas comment réagir, cherche une logique là où il n'y en a pas, et chaque tentative de reprise de contrôle le fait s'enfoncer davantage.
+
+**Évolution** : À la fin de l'Arc Judeus, Liias apprend à ne plus réagir — il accepte le chaos sans tenter de le comprendre. La confrontation devient neutre.
+
+> *Début* : Judeus mène la danse, Liias trébuche.
+> *Fin* : Liias se tait, attend, observe. Judeus perd son jouet préféré.
+
+### Avec Gamma
+**Forte mais frustrante.** Gamma est passive face au chaos — elle ne réagit pas comme Judeus l'attend. Ce n'est pas de la résistance, c'est de l'incompréhension. Judeus gagne facilement, mais sans satisfaction.
+
+### Avec Seren
+**Forte, mais Seren déstabilise autrement.** Seren refuse de jouer dans le jeu de Judeus — mais pas par confrontation. Elle répond à la performance de Judeus par une authenticité désarmante, des sourires sincères, et une compassion inappropriée. Elle voit la solitude de Judeus là où les autres ne voient que le monstre.
+
+> Seren est un des rares personnages qui **perturbe** Judeus — non par le défi, mais par la sincérité. Son refus de montrer sa peur (même si elle est terrifiée) et sa capacité à chercher l'humanité sous le masque créent une dynamique unique.
+
+### Avec Craith
+**Faible.** Craith est le seul personnage qui déstabilise vraiment Judeus — non par la force, mais par la philosophie.
+
+**Pourquoi Judeus est vulnérable** :
+1. **Il refuse de jouer** — Le chaos de Judeus ne l'atteint pas. Il traverse ses performances comme si elles n'existaient pas.
+2. **Il l'analyse sans jugement** — Pas de mépris, pas de peur. Juste une compréhension clinique. C'est pire.
+3. **Il la respecte** — Craith reconnaît ce qu'elle a accompli (plus que Seth selon lui). Ce respect sincère la désarme.
+4. **Il touche ses fondations** — "Tu es un script", "Primary est un mensonge", "Ce monde n'a pas de sens". Des attaques qu'elle ne sait pas parer.
+5. **La question sans réponse** — "Pourquoi cette simulation mérite-t-elle d'exister ?" Judeus n'a jamais eu à justifier le système.
+6. **La menace par Maelith** — Il n'a pas besoin de la menacer directement. Il menace ce qu'elle aime.
+
+**Ce que ça révèle sur Judeus** :
+- Elle est forte sur le *jeu*, pas sur le *fond*
+- Elle n'a jamais eu à défendre le *sens* de son existence
+- Son besoin d'être reconnue par Primary est une faiblesse exploitable
+- Son amour pour Maelith est sa vulnérabilité principale
+
+**Important** : Judeus n'est pas *faible* face à Craith. Elle est *désarmée sur ce terrain spécifique*. Elle reste menaçante, méfiante, dangereuse — mais elle ne peut pas le déstabiliser en retour.
+
+> **Craith sur Judeus** : "Tu es une belle personne. Tu as vécu mille ans, c'est respectable. Tu as accompli quelque chose. Seth n'a rien accompli du tout."
+>
+> **Judeus intérieurement** : "...Comment on combat quelqu'un qui n'a rien à perdre et qui sait tout ce qu'on cache ?"
 
 ### Avec les inconnus
 **Performance maximale.** Elle joue le rôle qui servira le mieux ses intérêts — ou simplement celui qui l'amuse le plus sur le moment.

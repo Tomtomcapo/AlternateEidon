@@ -3,6 +3,8 @@
 ## IDENTITÉ ET CONCEPT
 Liias est le protagoniste principal. Jeune homme solitaire, il est issu des données réelles d'un collègue de Seth — un chercheur en intelligence artificielle (niveau d'écriture 3 : données seules, sans écriture narrative de Seth).
 
+**Âge** : 20 ans
+
 **Enjeu latent** : Liias possède potentiellement dans ses « données » les connaissances techniques pour comprendre la vraie nature de la simulation et de Primary. Cette capacité reste dormante au début de son arc.
 
 ## APPARENCE
@@ -93,16 +95,17 @@ Il ne le sait pas, mais cette origine lui confère un potentiel unique : il pour
 
 ### Famille
 - **Meldon (père, décédé)** : Héros de la résistance, a tué Trevos Garon en duel. Torturé et assassiné par Tress. A transmis à Liias ses compétences de survie et sa détermination. Voir `characters/Meldon.md`.
-- **Mère (nom à définir)** : Vivante, cachée à Olivor. Liias a fui pour la protéger — Tress ignorait son existence.
-- **Sœur aînée (nom à définir)** : Vivante, cachée avec sa mère. Liias a peu de contact avec elle.
+- **Anna (mère)** : Vivante à Olivor. Femme anxieuse et protectrice. Liias a fui pour la protéger — Tress ignorait son existence. Au bord de l'effondrement pendant la fuite de Liias, elle retrouve espoir à son retour. Voir `characters/Anna.md`.
+- **Nelia (sœur aînée, 26 ans)** : Vivante à Olivor, mais victime de l'Effluve (Arc 2). Joviale et protectrice avant la maladie, légèrement complotiste, en désaccord avec Meldon sur Tress. Perd progressivement ses souvenirs. Voir `characters/Nelia.md`.
 
 ### Alliés
 - **Gamma** : Alliée principale, intérêt romantique mutuel (non avoué au début). Leur rencontre dans la forêt de Beyran marque le début d'une nouvelle vie pour Liias. Voir `characters/Gamma.md` et `characters/Gamma-writing-guide.md`.
 
 **Évolution de leur relation** :
-1. **Friction (début)** : Liias est troublé, voire agacé par Gamma. Elle agit sans consulter, ses raisonnements sont alambiqués, elle ne simplifie jamais. Il essaie de la contrer, de lui imposer sa méthode plus "propre".
-2. **Jeu (milieu)** : Il apprend à "jouer" avec sa logique, à la challenger, à la faire "buguer" gentiment. Il cesse de lutter contre sa nature.
-3. **Acceptation (fin)** : Il l'accepte totalement, lui fait confiance même quand il ne comprend pas, la défend face aux autres.
+1. **Friction (début Arc 1)** : Liias est troublé, voire agacé par Gamma. Elle agit sans consulter, ses raisonnements sont alambiqués, elle ne simplifie jamais. Il essaie de la contrer, de lui imposer sa méthode plus "propre".
+2. **Conflit intérieur (Arc 2)** : Liias apprend que Gamma a tué Tress, activant le Réseau Solaris qui détruit Nelia. Il est torturé : elle lui a sauvé la vie, mais elle a condamné sa sœur. Distance émotionnelle, silences, regards qui se détournent.
+3. **Jeu (milieu)** : Il apprend à "jouer" avec sa logique, à la challenger, à la faire "buguer" gentiment. Il cesse de lutter contre sa nature.
+4. **Acceptation (fin)** : Il l'accepte totalement, lui fait confiance même quand il ne comprend pas, la défend face aux autres.
 
 **Complémentarité** : Liias excelle dans la logique pure et les problèmes humains. Gamma excelle dans le chaos et les situations à multiples variables. Ensemble, ils sont plus efficaces que seuls.
 
@@ -112,7 +115,8 @@ Il ne le sait pas, mais cette origine lui confère un potentiel unique : il pour
 - **Trevos Garon (mort)** : « Le Sorcier Sanguinaire », bras droit de Tress. Tué par Meldon avant le début de l'Arc 1. Voir `characters/Trevos-Garon.md`.
 
 ### Autres
-- **Craith** : Inconnu au début. En réalité, issu des mêmes données (Christophe Liias) — l'autre face de lui-même. Voir `characters/Craith.md`.
+- **Craith** : Président de l'Institut Korst. Liias le rencontre dans l'Arc 2 comme "employeur" lors de la crise de l'Effluve. Il le voit comme une personne avec une conscience très professionnelle et efficace — sans savoir qu'ils partagent les mêmes données (Christophe Liias). Voir `characters/Craith.md`.
+- **Seren Valk** : Violoniste accusée à tort de l'assassinat de Tress. Liias choisit de la protéger. Elle gère la logistique et la cuisine du groupe, le taquine parfois sur son sérieux. Ils fonctionnent bien ensemble. Voir `characters/Seren-Valk.md`.
 - **C. Liias (vrai)** : Son "original" du monde extérieur. Rencontré dans l'Arc Final.
 
 ## CAPACITÉS ET ATTRIBUTS
@@ -169,10 +173,11 @@ Liias retourne dans le monde avec Gamma — désormais libre, séparée du syst�
 - **[La salle blanche](../plot/scenes/salle-blanche.md)** : Liias rencontre son "original" et reçoit la bénédiction de C. Liias.
 
 ## NOTES DE COHÉRENCE
-- Compatible avec : `universe/LORE.md`, `universe/concepts/niveaux-ecriture.md`, `plot/ARC-1.md`, `plot/ARC-FINAL.md`
-- Fiches liées : `characters/Meldon.md`, `characters/Bobbis.md`, `characters/Tress.md`, `characters/Trevos-Garon.md`, `characters/Gamma.md`
+- Compatible avec : `universe/LORE.md`, `universe/concepts/niveaux-ecriture.md`, `plot/ARC-1.md`, `plot/ARC-2.md`, `plot/ARC-FINAL.md`
+- Fiches liées : `characters/Meldon.md`, `characters/Bobbis.md`, `characters/Tress.md`, `characters/Trevos-Garon.md`, `characters/Gamma.md`, `characters/Anna.md`, `characters/Nelia.md`, `characters/Seren-Valk.md`, `characters/Craith.md`
 - Points à surveiller :
   - Le moment où ses « données » techniques se manifesteront doit être cohérent avec le système des niveaux d'écriture.
   - Son voyage vers le Nord (Eldora → Royaume Mort) doit rester cohérent avec la géographie établie.
   - Son acte décisif (tuer Craith) doit être préparé narrativement.
-  - La mère et la sœur de Liias restent à Olivor — fil narratif dormant pour un retour potentiel.
+  - Le conflit intérieur avec Gamma (Arc 2) doit être résolu progressivement.
+  - La dégradation de Nelia est irréversible — les souvenirs perdus ne reviennent pas.
