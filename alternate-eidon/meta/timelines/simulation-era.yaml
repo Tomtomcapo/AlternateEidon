@@ -1,0 +1,83 @@
+# Définition de la timeline principale : Ère de la Simulation
+# Conforme au Timeliner Standard Specification v0.2.0
+
+id: simulation-era
+name: "Ère de la Simulation"
+description: |
+  Chronologie principale de l'univers Alternate Eidon.
+  L'année 0 correspond à l'activation de la simulation par Seth.
+  Le temps s'écoule avec un warping de 1 seconde réelle = 10 années simulées
+  (jusqu'aux événements post-Arc Final où il passe à 1:1).
+
+display_format: "An {year} de la Simulation"
+
+# Conversion vers Universal Tick (UT)
+# Formule : année * 1000 pour permettre une granularité infra-annuelle si nécessaire
+tick_mapping:
+  type: formula
+  formula: "year * 1000"
+
+# Point de référence (Activation = UT 0)
+epoch:
+  reference: "Activation de la simulation par Seth"
+  tick: 0
+
+# Événements explicites avec leur mapping UT
+# Utilisés pour les timestamps approximatifs ou narratifs importants
+explicit_events:
+  "Activation de la simulation": 0
+  "Dispersion des Eidons": 300000
+  "Début de l'Ère de la Tyrannie": 500000
+  "Massacre de la Toile du Crépuscule": 700000
+  "Fondation d'Eldora": 750000
+  "Construction de la mairie de Mortem-Onell": 800000
+  "Mort d'Altert": 980000
+  "Mort d'Axylum": 980000
+  "Naissance de Gamma": 980000
+  "Expédition de Varen Korst": 985000
+  "Début de l'Arc 1": 1000000
+
+# Périodes narratives (informatives, pour contextualisation humaine)
+# Ne sont pas utilisées pour le calcul temporel, uniquement pour l'affichage
+periods:
+  - id: genese
+    name: "Genèse"
+    tick_start: 0
+    tick_end: 300000
+    description: "Les trois Eidons vivent ensemble sur Fadris, attendant Primary"
+    
+  - id: dispersion
+    name: "Dispersion"
+    tick_start: 300000
+    tick_end: 500000
+    description: "Les Eidons quittent Fadris un à un pour trouver leur place dans le monde"
+    
+  - id: tyrannie
+    name: "Ère de la Tyrannie"
+    tick_start: 500000
+    tick_end: 700000
+    description: "Jadeus impose son règne absolu sur l'humanité"
+    
+  - id: massacre
+    name: "Après le Massacre"
+    tick_start: 700000
+    tick_end: 900000
+    description: "Jadeus massacre la Toile du Crépuscule, fonde le Royaume Mort. Reconstruction."
+    
+  - id: reconciliation
+    name: "Réconciliation Fragile"
+    tick_start: 900000
+    tick_end: 980000
+    description: "Équilibre précaire maintenu par Altert entre les trois Eidons"
+    
+  - id: post-altert
+    name: "Ère Post-Altert"
+    tick_start: 980000
+    tick_end: 1000000
+    description: "Mort d'Altert, naissance de Gamma, montée de Craith, règne de Tress"
+    
+  - id: actuel
+    name: "Époque Actuelle"
+    tick_start: 1000000
+    tick_end: null
+    description: "Les événements des Arcs narratifs (Arc 1 à Arc Final)"

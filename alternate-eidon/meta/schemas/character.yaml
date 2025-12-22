@@ -1,0 +1,109 @@
+id: character
+name: "Character"
+description: "A person, creature, or AI in the universe"
+
+attributes:
+  race:
+    label: "Race"
+    type: string
+    description: "Species or race of the character"
+    order: 1
+    values: [Humain, Eidon]  # Suggested values
+  
+  writing_level:
+    label: "Niveau d'écriture"
+    type: string
+    order: 2
+    values: ["1", "2", "3", "4", "Γ"]
+
+  aka:
+    label: "Alias"
+    type: string
+    description: "Other names or nicknames for the character"
+    order: 3
+
+sections:
+  identity:
+    label: "Identité"
+    description: "Brief overview of the character"
+    order: 1
+  
+  physical-description:
+    label: "Description physique"
+    description: "Physical appearance and characteristics"
+    order: 10
+  
+  general:
+    label: "Général"
+    description: "Overall appearance"
+    order: 11
+  
+  face:
+    label: "Visage"
+    order: 12
+  
+  clothes:
+    label: "Vêtements et style"
+    order: 13
+  
+  distinguishing-features:
+    label: "Caractéristiques distinctives"
+    description: "Cicatrices, taches de naissance, traits uniques"
+    order: 14
+  
+  personality:
+    label: "Personnalité"
+    description: "Traits de caractère et tempérament"
+    order: 20
+
+  core-traits:
+    label: "Traits principaux"
+    order: 21
+
+  strengths:
+    label: "Forces"
+    order: 22
+
+  flaws:
+    label: "Faiblesses"
+    order: 23
+
+  fears-desires:
+    label: "Peurs et désirs"
+    order: 24
+
+  behavior-social:
+    label: "Comportement social"
+    order: 25
+  
+  abilities:
+    label: "Compétences"
+    description: "Compétences, pouvoirs et capacités"
+    order: 30
+
+  combat:
+    label: "Combat"
+    order: 31
+
+  powers:
+    label: "Pouvoirs"
+    order: 32
+
+  social-intellectual:
+    label: "Compétences sociales et intellectuelles"
+    order: 33
+  
+  background:
+    label: "Background"
+    description: "History and origin story"
+    order: 40
+  
+  relationships:
+    label: "Relationships"
+    description: "Connections to other entities"
+    order: 50
+  
+  goals:
+    label: "Goals"
+    description: "Motivations and objectives"
+    order: 60
