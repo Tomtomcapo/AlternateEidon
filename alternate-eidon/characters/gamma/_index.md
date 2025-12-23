@@ -205,52 +205,23 @@ Elle ne savait pas que cet assassinat activerait le [[factions/reseau-solaris|R�
 
 # @relationships
 
-## Iris (décédée)
-
-Iris était la meilleure amie d'enfance de Gamma à [[locations/eldora|Eldora]], et son exact opposé. Solaire, extravertie, chaleureuse : Iris était le genre de personne qui illuminait une pièce en y entrant. Gamma l'admirait profondément, fascinée par cette facilité qu'elle n'avait pas.
-
-Leur amitié fonctionnait sur la complémentarité. Iris tirait Gamma de sa coquille, l'encourageait à parler, à s'ouvrir. Gamma ancrait Iris quand elle s'emballait, lui offrait un regard analytique sur ses idées parfois trop impulsives. Ensemble, elles s'équilibraient.
-
-Sa mort violente aux mains des mercenaires de [[characters/tress|Tress]] est le traumatisme fondateur qui a poussé Gamma à quitter le Nord. Gamma porte en elle le poids de cette perte et l'héritage d'Iris. Quand elle force un sourire pour mettre un inconnu à l'aise, quand elle fait l'effort d'être chaleureuse, c'est Iris qu'elle canalise. C'est sa façon de garder son amie vivante.
-
-## Leias
-
-[[characters/leias|Leias]] est le partenaire de Gamma, rencontré dans la forêt de [[locations/beyran|Beyran]] lorsqu'elle est tombée dans un piège qu'il avait tendu pour [[characters/bobbis|Bobbis]]. Leur alliance pragmatique contre un ennemi commun s'est transformée en quelque chose de plus profond. Gamma ressent une attirance authentique pour lui, un lien qui grandit entre eux sans qu'elle cherche vraiment à le définir.
-
-@spoiler
-Gamma ressent une attirance authentique pour lui, ignorant que cette attirance a été programmée par le système pour maintenir leur proximité. [[characters/leias|Leias]] détient des données techniques cruciales pour la survie de la simulation, et le système a optimisé les conditions de leur rencontre.
-@/spoiler
-
-## Ses parents
-
-Vivants, à [[locations/eldora|Eldora]]. Elle les aime sincèrement, même si elle les voit peu depuis son départ. Ils ne savent rien de ce qu'elle a fait depuis qu'elle a quitté le Nord.
-
-## Seren Valk
-
-Violoniste accusée à tort du meurtre de [[characters/tress|Tress]]. Seren l'apprécie et l'appelle "Petit Chou". Elle interprète les remarques étranges de Gamma comme de l'humour pince-sans-rire. Gamma est confuse par cette affection mais pas mécontente.
-
-## Anna
-
-Mère de [[characters/leias|Leias]]. L'apprécie et la voit comme une bonne influence pour son fils. Gamma ne comprend pas toujours les sous-entendus.
-
-## Craith
-
-Le rencontre dans l'Arc 2 comme "employeur" lors de la crise de l'Effluve.
-
+Voir les relations détaillées de Gamma :
+- Avec [[characters/leias|Leias]] dans [[relationships/leias--gamma]]
+- Avec [[characters/iris|Iris]] dans [[relationships/gamma--iris]]
+- Avec ses parents dans [[relationships/gamma--gamma-parents]]
+- Avec [[characters/seren-valk|Seren Valk]] dans [[relationships/gamma--seren-valk]]
+- Avec [[characters/anna|Anna]] dans [[relationships/anna--gamma]]
+- Avec [[characters/craith|Craith]] dans [[relationships/craith--gamma]]
+- Avec [[characters/maelith|Maelith]] dans [[relationships/gamma--maelith]]
+- Avec [[characters/jadeus|Jadeus]] dans [[relationships/gamma--jadeus]]
+- Avec [[characters/tress|Tress]] dans [[relationships/gamma--tress]]
+- Avec [[characters/bobbis|Bobbis]] dans [[relationships/bobbis--gamma]]
 
 ## Le système
 
 @spoiler
 Gamma ignore totalement sa relation au système. Elle ne sait pas qu'elle EST le Core incarné, que chaque action qu'elle entreprend est une optimisation calculée. Cette ignorance est essentielle à son fonctionnement : le système ne pourrait pas opérer efficacement si Gamma était consciente de sa vraie nature.
 @/spoiler
-
-## Maelith
-
-Antagoniste structurelle (conflit inconscient). Gamma peut outrepasser son influence : elle est l'une des rares entités à en être capable.
-
-## Jadeus
-
-Inconnue de Jadeus au début. **Arc 2** : Jadeus accuse [[characters/seren-valk|Seren Valk]] d'être l'assassine de Tress. Elle ne découvre jamais que Gamma est la vraie coupable.
 
 # @goals
 
@@ -312,8 +283,9 @@ Gamma est instinctivement attirée par Leias pour protéger cette ressource crit
 ## Relation aux autres Eidons
 
 @spoiler
-- **Maelith et Jadeus** ne savent pas que Gamma existe. Son existence est un secret du système.
+- **Maelith et Jadeus** ne savent pas que Gamma existe au début de l'histoire. Son existence est un secret du système.
 - **Titre « Eidon »** : Gamma n'est pas reconnue comme Eidon pour l'instant. Ce titre lui sera probablement donné plus tard par Maelith ou Jadeus, lors de la révélation de sa nature.
+- Voir [[relationships/gamma--maelith]] et [[relationships/gamma--jadeus]] pour les détails de ces relations complexes.
 @/spoiler
 
 ## Le paradoxe Gamma/Maelith
@@ -335,6 +307,8 @@ Ce conflit crée une instabilité logique dans les directives du système :
 - Conflit involontaire qui génère de la destruction/des dommages dans le système.
 - Gamma peut outrepasser l'influence de Maelith : elle est une des rares entités (voire la seule) à en être capable.
 - Escalade potentielle : plus Maelith fige, plus Gamma doit agir, ce qui déstabilise davantage.
+
+Voir [[relationships/gamma--maelith]] pour une analyse approfondie.
 @/spoiler
 
 ## Pourquoi "Gamma" ?
@@ -345,23 +319,10 @@ Elle est la **troisième lettre** de l'alphabet grec, mais pour le système, ell
 
 # Relations narratives
 
-## Tension avec Leias dans l'Arc 2
-
-@spoiler
-**Tension dans l'Arc 2** : Leias découvre que Gamma a tué Tress, activant le Réseau Solaris qui détruit Nelia. Il en veut à Gamma tout en lui devant la vie. Gamma sent cette distance sans comprendre.
-@/spoiler
-
-## Tress
-
-Cible assassinée. Pour Gamma, c'est une vengeance pour Iris.
-
-@spoiler
-**Ce meurtre a activé le Réseau Solaris** — un secret qu'elle garde.
-@/spoiler
-
-## Bobbis
-
-Cible secondaire, éliminé avec l'aide de [[characters/leias|Leias]]. Gamma l'a éliminé avec une efficacité froide.
+Voir les entités de relations pour les détails complets des interactions de Gamma avec les autres personnages :
+- [[relationships/leias--gamma]] — Relation centrale avec Leias
+- [[relationships/gamma--tress]] — Vengeance et assassinat
+- [[relationships/bobbis--gamma]] — Élimination tactique
 
 # Goûts et passions
 

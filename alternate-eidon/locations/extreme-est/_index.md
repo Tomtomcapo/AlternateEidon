@@ -20,7 +20,6 @@ L'**Extrême-Est** est une région périphérique du monde — territoire sans g
 - **Type** : Région périphérique
 - **Statut** : Hors des grandes nations
 - **Caractère** : Isolé, pauvre, oublié
-- **Importance** : Lieu d'origine de Gamma
 
 ## Caractère
 
@@ -83,5 +82,3 @@ L'Extrême-Est est le **point de départ** de Gamma :
 2. Hors des grandes nations
 3. Population pauvre et isolée
 4. Les Eidons sont des légendes
-5. Lieu d'origine de Gamma
-6. ~20 ans de vie avant le départ

@@ -176,6 +176,8 @@ Les données de Christophe Leias étaient trop complexes pour une seule entité.
 
 # @relationships
 
+Voir la relation détaillée entre Leias et [[characters/gamma]] dans [[relationships/leias--gamma]].
+
 ## Famille
 
 **[[characters/meldon]]** (père, décédé) reste une présence constante dans l'esprit de Leias. Héros de la résistance qui a tué [[characters/trevos-garon]] en duel, il a été torturé et assassiné par [[characters/tress]]. Il a transmis à Leias ses compétences de survie et sa détermination. Le souvenir de sa mort est le traumatisme central de Leias.

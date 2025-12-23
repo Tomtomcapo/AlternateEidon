@@ -9,79 +9,81 @@ tags:
   - gardien
   - fadris
   - decede
+attributes:
+  race: Créature gardienne
+  writing_level: "2"
 ---
 
-# Axylum — Le Gardien Déchu
+# @identity
 
-## Identité
+Axylum était le gardien de [[fadris]], une créature créée par [[seth]] pour protéger son Paradis. Pendant près de mille ans, il a veillé sur l'île en **vaporisant** quiconque s'en approchait sans autorisation. Il n'était pas vraiment conscient au sens humain, plutôt une **directive de protection incarnée**, attendant patiemment le retour de son créateur.
 
-**Axylum** était le gardien de [[locations/fadris|Fadris]] — une créature créée par [[characters/seth|Seth]] pour protéger son Paradis.
+## @one-line-description
 
-### Attributs de base
-- **Statut** : Décédé (tué par [[characters/maelith|Maelith]])
-- **Nature** : Créature gardienne, non-humanoïde
-- **Créateur** : Seth
-- **Rôle** : Protéger Fadris de tout intrus
+> "Le gardien fidèle qui attendait un dieu qui ne reviendrait jamais."
 
-### Apparence (vivant)
+# @physical-description
 
-- Corps serpentin immense (plusieurs centaines de mètres)
-- Écailles iridescentes changeant de couleur
-- Ailes membraneuses translucides (comme du verre vivant)
-- Multiples yeux disposés en constellation
-- Présence qui déformait l'air
+## @general
 
-### Pouvoir
+Axylum possédait un corps serpentin immense, s'étendant sur **plusieurs centaines de mètres** de longueur. Sa présence déformait l'air autour de lui, créant une aura visible de distorsion qui trahissait son caractère non naturel. Il ne se déplaçait que rarement, préférant rester enroulé autour des structures centrales de [[fadris]].
 
-Axylum **vaporisait** toute créature qui s'approchait de l'île sans autorisation :
-- Désintégration instantanée par lumière pure
-- Portée de plusieurs kilomètres
-- Pas de combat, pas de négociation
+## @face
 
-**Autorisés** : Les Eidons (et Seth, s'il avait été là)
+Axylum ne possédait pas de visage au sens traditionnel. À la place, **de multiples yeux** étaient disposés en constellations le long de son corps serpentin, chacun brillant d'une lumière froide et observant dans toutes les directions simultanément. Ces yeux ne cillaient jamais, scrutant éternellement l'horizon à la recherche d'intrus.
 
-### Nature
+## @distinguishing-features
 
-Axylum n'était pas vraiment "conscient" au sens humain — une **directive de protection incarnée**. Il attendait patiemment le retour de son créateur.
+- **Écailles iridescentes** qui changeaient de couleur selon l'angle de la lumière, passant du bleu profond au vert émeraude, puis à l'or
+- **Ailes membraneuses translucides** comme du verre vivant, si fines qu'on pouvait voir à travers, créant des arc-en-ciel lorsque la lumière les traversait
+- **Constellation d'yeux** disposés de manière asymétrique le long de son corps
+- Une **aura de distorsion** constante qui rendait difficile de le percevoir clairement, même de près
 
-## L'attente
+# @personality
 
-Pendant près de 1000 ans, Axylum a veillé sur Fadris. Les Eidons sont partis un à un. Les humains qui approchaient étaient vaporisés.
+## @core-traits
 
-Il attendait Seth. Toujours.
+Axylum n'était pas vraiment conscient au sens où les humains ou même les [[seth|Eidons]] le sont. Il incarnait une **directive pure**, un ordre transformé en être vivant. Sa seule pensée, si l'on peut appeler cela ainsi, était la protection de [[fadris]].
 
-## La mort
+## @behavior-social
 
-**Peu après la mort d'[[characters/altert|Altert]]** (~année 980), [[characters/maelith|Maelith]] est retournée à Fadris avec une intention précise : **tuer Axylum**. Le traumatisme de la perte de son frère l'a poussée à agir rapidement.
+Il ne communiquait pas. Il ne négociait pas. Il n'éprouvait ni colère ni pitié. Lorsqu'une créature non autorisée approchait de l'île, il agissait instantanément, sans émotion ni hésitation. Face aux [[seth|Eidons]], il demeurait passif, les accueillant comme s'ils étaient une extension de [[seth]] lui-même.
 
-**Raisonnement** :
-- Axylum était une arme absolue
-- Quelqu'un pourrait le contrôler
-- La seule façon de préserver Fadris était de le rendre inaccessible à tous
+# @abilities
 
-Axylum l'a accueillie — elle était autorisée. Il ne s'est pas défendu.
+## @combat
 
-Maelith a utilisé son pouvoir d'**orientation du futur** à pleine puissance. Violence temporelle.
+Axylum ne combattait pas au sens traditionnel. Il **vaporisait**. Toute créature qui s'approchait de l'île sans autorisation était instantanément désintégrée par une lumière pure, sans avertissement ni mise en garde.
 
-## L'Effluve
+- **Désintégration instantanée** par projection de lumière pure
+- **Portée de plusieurs kilomètres** autour de [[fadris]]
+- Aucun combat, aucune négociation, seulement l'exécution de sa directive
 
-Le corps d'Axylum disparaît... puis se reconstitue partiellement en **squelette**. Son essence, impossible à effacer, se décompose en **l'[[concepts/effluve|Effluve]]**.
+**Seuls autorisés :** Les [[seth|Eidons]] et [[seth]] lui-même, s'il était revenu.
 
-Le gardien fidèle est devenu le poison qui tue quiconque approche.
+## @powers
 
-Maelith voulait préserver Fadris. Elle l'a transformée en cauchemar.
+Le pouvoir d'Axylum était **absolu** dans son domaine. Il ne connaissait ni fatigue ni limite apparente. Pendant près de mille ans, il a maintenu sa vigilance sans faillir, détruisant tout intrus avec la même efficacité mécanique.
 
-## Le squelette
+# @background
 
-Ce qui reste d'Axylum gît au centre de Fadris :
-- Corps serpentin de centaines de mètres
-- Os iridescents qui luisent faiblement
-- Source de l'Effluve
+## Création
 
-## Détails canoniques
+Axylum a été créé par [[seth]] lors de l'activation de la simulation, à l'**année 0**. Sa fonction était claire et sans ambiguïté : protéger [[fadris]], le Paradis que [[seth]] avait conçu pour lui-même et ses proches.
 
-1. Gardien de Fadris créé par Seth
-2. Protégeait l'île pendant ~1000 ans
-3. Tué par Maelith (~année 980)
-4. Son essence est devenue l'Effluve
-5. Son squelette est la source de la corruption
+## L'attente millénaire
+
+Pendant près de mille ans, Axylum a veillé sur [[fadris]]. Les [[seth|Eidons]] sont partis un à un, s'éloignant du Paradis pour explorer le monde simulé. Les humains qui approchaient, curieux ou inconscients, étaient vaporisés sans distinction.
+
+Il attendait [[seth]]. Toujours. Fidèlement. Sans comprendre que son créateur ne reviendrait jamais.
+
+# @relationships
+
+- [[seth]] — Son créateur, qu'il attendait éternellement
+- [[maelith]] — L'Eidon qui l'a tué, qu'il a accueillie sans se défendre
+- [[altert]] — L'Eidon dont la mort a déclenché la décision de [[maelith]]
+- [[fadris]] — L'île qu'il protégeait, devenue cauchemar par sa mort
+
+# @goals
+
+Axylum n'avait qu'un seul but, gravé dans son essence même : **protéger [[fadris]]** jusqu'au retour de [[seth]]. Il n'avait pas d'ambition, pas de désir personnel, seulement cette directive absolue qui définissait chaque instant de son existence millénaire.

@@ -1,0 +1,305 @@
+# Relationship Types Schema for Alternate Eidon
+# Defines all available relationship types and their properties
+
+id: relationship-types
+name: "Types de Relations"
+description: "Définit les types de relations disponibles et leurs propriétés pour l'univers Alternate Eidon"
+
+types:
+  # === Relations Personnelles ===
+  friend:
+    label: "Ami"
+    description: "Lien d'amitié"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  best-friend:
+    label: "Meilleur ami"
+    description: "Amitié profonde et privilégiée"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  romantic-interest:
+    label: "Intérêt romantique"
+    description: "Attirance romantique, potentiellement non réciproque"
+    default_symmetric: false
+    valid_between:
+      - [character, character]
+  
+  lover:
+    label: "Amant"
+    description: "Relation amoureuse établie"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  spouse:
+    label: "Époux/Épouse"
+    description: "Partenaires mariés"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  # === Relations Familiales ===
+  parent:
+    label: "Parent"
+    description: "Parent biologique ou adoptif"
+    default_symmetric: false
+    inverse: child
+    valid_between:
+      - [character, character]
+  
+  child:
+    label: "Enfant"
+    description: "Enfant biologique ou adoptif"
+    default_symmetric: false
+    inverse: parent
+    valid_between:
+      - [character, character]
+  
+  sibling:
+    label: "Fratrie"
+    description: "Frère ou sœur"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  # === Relations de Mentorat ===
+  mentor:
+    label: "Mentor"
+    description: "Guide, enseignant, ou protecteur intellectuel"
+    default_symmetric: false
+    inverse: student
+    valid_between:
+      - [character, character]
+  
+  student:
+    label: "Élève"
+    description: "Apprenti ou protégé"
+    default_symmetric: false
+    inverse: mentor
+    valid_between:
+      - [character, character]
+  
+  # === Relations d'Alliance et Coopération ===
+  ally:
+    label: "Allié"
+    description: "Alliance dans un objectif commun"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+      - [character, faction]
+  
+  partner:
+    label: "Partenaire"
+    description: "Partenaire de mission ou d'aventure"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  protector:
+    label: "Protecteur"
+    description: "Protège activement l'autre entité"
+    default_symmetric: false
+    inverse: protected
+    valid_between:
+      - [character, character]
+      - [character, location]
+      - [faction, character]
+  
+  protected:
+    label: "Protégé"
+    description: "Est protégé par l'autre entité"
+    default_symmetric: false
+    inverse: protector
+    valid_between:
+      - [character, character]
+      - [character, faction]
+  
+  # === Relations d'Hostilité ===
+  enemy:
+    label: "Ennemi"
+    description: "Relation hostile"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+      - [character, faction]
+  
+  rival:
+    label: "Rival"
+    description: "Relation de compétition"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+  
+  hunter:
+    label: "Chasseur"
+    description: "Pourchasse ou traque activement l'autre"
+    default_symmetric: false
+    inverse: hunted
+    valid_between:
+      - [character, character]
+  
+  hunted:
+    label: "Traqué"
+    description: "Est poursuivi par l'autre"
+    default_symmetric: false
+    inverse: hunter
+    valid_between:
+      - [character, character]
+  
+  # === Relations Émotionnelles Complexes ===
+  admiration:
+    label: "Admiration"
+    description: "Admire ou respecte profondément l'autre"
+    default_symmetric: false
+    valid_between:
+      - [character, character]
+  
+  resentment:
+    label: "Ressentiment"
+    description: "Ressent de l'amertume ou de la rancœur envers l'autre"
+    default_symmetric: false
+    valid_between:
+      - [character, character]
+  
+  guilt:
+    label: "Culpabilité"
+    description: "Se sent coupable envers l'autre"
+    default_symmetric: false
+    valid_between:
+      - [character, character]
+  
+  gratitude:
+    label: "Gratitude"
+    description: "Reconnaissance envers l'autre"
+    default_symmetric: false
+    valid_between:
+      - [character, character]
+  
+  # === Relations Professionnelles ===
+  employer:
+    label: "Employeur"
+    description: "Emploie l'autre entité"
+    default_symmetric: false
+    inverse: employee
+    valid_between:
+      - [character, character]
+      - [faction, character]
+  
+  employee:
+    label: "Employé"
+    description: "Travaille pour l'autre entité"
+    default_symmetric: false
+    inverse: employer
+    valid_between:
+      - [character, character]
+      - [character, faction]
+  
+  # === Relations d'Appartenance ===
+  member-of:
+    label: "Membre de"
+    description: "Appartient à une organisation"
+    default_symmetric: false
+    inverse: has-member
+    valid_between:
+      - [character, faction]
+  
+  has-member:
+    label: "A pour membre"
+    description: "Compte l'entité parmi ses membres"
+    default_symmetric: false
+    inverse: member-of
+    valid_between:
+      - [faction, character]
+  
+  leader-of:
+    label: "Leader de"
+    description: "Dirige ou commande"
+    default_symmetric: false
+    inverse: led-by
+    valid_between:
+      - [character, faction]
+  
+  led-by:
+    label: "Dirigé par"
+    description: "Est dirigé par"
+    default_symmetric: false
+    inverse: leader-of
+    valid_between:
+      - [faction, character]
+  
+  # === Relations Spatiales ===
+  located-in:
+    label: "Situé dans"
+    description: "Se trouve physiquement dans"
+    default_symmetric: false
+    inverse: contains
+    valid_between:
+      - [location, location]
+      - [character, location]
+      - [item, location]
+  
+  contains:
+    label: "Contient"
+    description: "Contient physiquement"
+    default_symmetric: false
+    inverse: located-in
+    valid_between:
+      - [location, location]
+      - [location, character]
+      - [location, item]
+  
+  # === Relations de Propriété ===
+  owns:
+    label: "Possède"
+    description: "Est propriétaire de"
+    default_symmetric: false
+    inverse: owned-by
+    valid_between:
+      - [character, item]
+      - [character, location]
+      - [faction, location]
+      - [faction, item]
+  
+  owned-by:
+    label: "Appartient à"
+    description: "Est la propriété de"
+    default_symmetric: false
+    inverse: owns
+    valid_between:
+      - [item, character]
+      - [location, character]
+      - [location, faction]
+      - [item, faction]
+  
+  # === Relations Spécifiques à l'Univers ===
+  created-by:
+    label: "Créé par"
+    description: "A été créé par (pour les simulations)"
+    default_symmetric: false
+    inverse: creator-of
+    valid_between:
+      - [character, character]
+      - [location, character]
+  
+  creator-of:
+    label: "Créateur de"
+    description: "A créé (pour les simulations)"
+    default_symmetric: false
+    inverse: created-by
+    valid_between:
+      - [character, character]
+      - [character, location]
+  
+  legacy-of:
+    label: "Héritier de"
+    description: "Porte l'héritage ou les données de"
+    default_symmetric: false
+    valid_between:
+      - [character, character]

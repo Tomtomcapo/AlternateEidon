@@ -5,212 +5,213 @@ existence:
   start: "monde réel (avant An 0)"
   end: "monde réel (avant An 0, décédé)"
 timeline: real-world
+image: seth.png
 tags:
   - créateur
   - primary
   - humain-réel
   - niveau-0
   - démiurge
+
+attributes:
+  race: Humain
+  writing_level: "0"
 ---
 
-# Seth — Le Créateur Absent
+# @identity
 
-## Identité et concept
+Seth est le créateur absolu de la simulation. Chercheur brillant spécialisé en intelligence artificielle, il a consacré ses derniers mois de vie, alors qu'il était condamné par une maladie incurable, à l'élaboration d'une arche numérique destinée à survivre à sa propre mort physique. Il n'a jamais pénétré dans sa création. Son absence est le vide central autour duquel tout l'univers s'organise.
 
-Seth est le **créateur absolu** de la simulation — un chercheur brillant spécialisé en intelligence artificielle qui, condamné par une maladie incurable, a consacré ses derniers mois à l'élaboration d'une arche numérique capable de survivre à sa propre mort physique.
+Dans la simulation, Seth n'existe pas en tant qu'entité. L'IA l'a abstrait en **Primary**, une présence-absence que les Eidons croient avoir côtoyée sans pouvoir se remémorer son visage ou sa voix. Il n'a pas inventé la technologie de simulation générative, il l'a détournée et perfectionnée pour un usage unique et radical : transférer son existence dans un monde persistant pour y vivre éternellement avec ceux qu'il aimait.
 
-| Attribut | Valeur |
-|----------|--------|
-| **Nom** | Seth |
-| **Nature** | Humain (monde réel) |
-| **Statut** | Absent de la simulation / Décédé dans le monde réel |
-| **Abstraction in-universe** | Primary |
-| **Niveau d'écriture** | 0 (le créateur lui-même) |
-| **Archétype** | Le démiurge absent |
+## @one-line-description
 
-### Rôle narratif
-Le démiurge absent — celui qui a tout créé mais n'a jamais pu habiter son œuvre.
+> Le démiurge absent, celui qui a tout créé mais n'a jamais pu habiter son œuvre.
 
-### Nature dans l'univers simulé
-Seth n'existe pas en tant qu'entité dans la simulation. Son absence est le vide central autour duquel tout le monde s'organise. L'IA l'a abstrait en **Primary** — une présence-absence que les Eidons sont persuadés d'avoir côtoyée sans pouvoir se remémorer son visage ou sa voix.
+# @physical-description
 
-Seth n'a pas inventé la technologie de simulation générative — il l'a **détournée et perfectionnée** pour un usage unique et radical : transférer son existence dans un monde persistant pour y vivre éternellement.
+## @general
 
----
+Seth était un homme jeune, dans la vingtaine ou le début de la trentaine. Son allure était détendue, légèrement nonchalante, celle d'un chercheur qui ne se prenait pas au sérieux malgré la gravité de son projet. Durant la création de la simulation, il était malade en phase terminale, bien que cela ne se voyait pas extérieurement.
 
-## Apparence
+## @face
 
-### Dans le monde réel
-- Homme jeune, dans la vingtaine ou le début de la trentaine
-- Cheveux blonds, courts
-- Yeux verts
-- Visage fin, léger duvet de barbe blonde
-- Style vestimentaire décontracté : pull beige avec un logo, écharpe bordeaux/rouge foncé, pantalon cargo kaki, casquette (noir et beige)
-- Allure détendue, légèrement nonchalante — un chercheur qui ne se prend pas au sérieux
-- Malade en phase terminale durant la création de la simulation (invisible extérieurement)
+Il avait un visage fin, des yeux verts, des cheveux blonds courts et un léger duvet de barbe blonde.
+
+## @clothes
+
+### Tenue habituelle
+
+Son style vestimentaire était décontracté et pratique. Il portait un pull beige orné d'un logo, une écharpe bordeaux ou rouge foncé, un pantalon cargo kaki et une casquette noire et beige.
+
+## @distinguishing-features
+
+Seth ne possédait aucune caractéristique physique particulièrement distinctive. Son apparence était celle d'un jeune homme ordinaire, ce qui contrastait profondément avec l'ampleur de son œuvre.
 
 ### Dans la simulation
-- Seth n'a **aucune apparence** — il n'a jamais été incarné
-- Primary, l'abstraction que l'IA a créée pour combler son absence, est décrit comme une présence sans visage, une voix sans timbre, un souvenir sans image
-- Les Eidons ressentent sa présence sans pouvoir la décrire
 
----
+Seth n'a **aucune apparence** dans la simulation. Il n'a jamais été incarné. Primary, l'abstraction que l'IA a créée pour combler son absence, est décrit comme une présence sans visage, une voix sans timbre, un souvenir sans image. Les Eidons ressentent sa présence sans pouvoir la décrire.
 
-## Psychologie et caractère
+# @personality
 
-### Un Visionnaire Condamné
-Seth était un homme confronté à l'imminence de sa propre mort. Cette condition a façonné l'intégralité de son projet : il ne créait pas un monde par curiosité scientifique ou par ambition, mais par **désespoir amoureux** — le refus de perdre ceux qu'il aimait.
+## @core-traits
 
-### Un Artiste Autant qu'un Scientifique
-Les quatre grandes œuvres de Seth révèlent une sensibilité artistique profonde :
-- **La Toile du Crépuscule** : son amour pour la beauté gratuite, l'art pour l'art
-- **L'[[locations/albionis|Albionis]]** : sa capacité à transformer l'amour en architecture monumentale
-- **[[locations/fadris|Fadris]]** : son désir d'intimité, de foyer, de retrouvailles
-- **[[locations/babel|Babel]]** : son attachement nostalgique au monde réel qu'il quittait
+Seth était un visionnaire condamné. Confronté à l'imminence de sa propre mort, il ne créait pas par curiosité scientifique ou ambition personnelle, mais par **désespoir amoureux**, par le refus absolu de perdre ceux qu'il aimait. Cette condition a façonné l'intégralité de son projet.
 
-Seth valorisait la beauté, la contemplation, l'esthétique sans fonction utilitaire. Il créait en **poète**, pas seulement en architecte.
+Il était aussi un artiste autant qu'un scientifique. Ses quatre grandes œuvres révèlent une sensibilité artistique profonde et une capacité à transformer les émotions en architecture. Il valorisait la beauté, la contemplation, l'esthétique sans fonction utilitaire. Il créait en poète, pas seulement en architecte.
 
-### Un Amoureux Absolu
-L'[[locations/albionis|Albionis]] est la preuve la plus éclatante de la nature de Seth : il a construit une **cité entière** comme déclaration d'amour à Maelenn. Le Qask et la Qaskel — le couple souverain de l'[[locations/albionis|Albionis]] — sont un hommage conscient à Philémon et Baucis (Ovide, *Métamorphoses*), le vieux couple qui voulut mourir ensemble. Seth, condamné par sa maladie, a projeté dans ce couple l'idéal de ce qu'il aurait voulu vivre avec Maelenn : un amour parfait, éternel, que même la mort ne pourrait séparer.
+## @strengths
 
-### Un Humaniste Nostalgique
-[[locations/babel|Babel]] révèle que Seth n'a pas créé son monde par mépris du réel, mais par **amour de ce qu'il quittait**. Il voulait emporter l'humanité avec lui — ses architectures, ses cultures, sa diversité. Le Colisée, le Taj Mahal, des bâtiments du Cameroun, du Brésil, de Pologne, d'Australie... [[locations/babel|Babel]] devait être un melting-pot parfait, la preuve que la diversité est une force.
+Seth possédait une intelligence remarquable dans le domaine de l'intelligence artificielle et une capacité exceptionnelle à conceptualiser des systèmes complexes. Il était capable de vision à long terme et de penser à des échelles temporelles vertigineuses.
 
-### Le Ton des Notes de Babel
-Les notes de Seth gravées sur des plaques à [[locations/babel|Babel]] révèlent un homme **décontracté**, presque familier, en décalage total avec la grandeur de son projet :
+Sa sensibilité artistique lui permettait de créer des lieux empreints de symbolisme et de beauté. Il savait transformer l'amour et les émotions en créations concrètes et durables.
+
+## @flaws
+
+Son projet était fondamentalement égoïste dans son origine. Bien qu'il voulût sauver ceux qu'il aimait, il n'a jamais consulté personne, jamais demandé leur consentement pour créer des versions simulées de leurs personnes.
+
+Il manquait de rigueur dans l'achèvement de son œuvre. Il n'a pas créé suffisamment de redondances, n'a pas précisé les pouvoirs des Eidons, n'a pas finalisé le méga-prompt. Sa mort prématurée a certes joué un rôle, mais certaines de ces lacunes auraient pu être anticipées.
+
+## @fears-desires
+
+Seth désirait par-dessus tout échapper à la mort et retrouver ceux qu'il aimait dans un monde éternel. Il craignait la séparation définitive, l'anéantissement, le fait de perdre Maelenn, Albert, et tous ceux qui comptaient pour lui.
+
+Il aspirait à créer un paradis, un refuge permanent où l'amour et la beauté pourraient exister sans fin.
+
+## @behavior-social
+
+Les notes de Seth gravées sur des plaques à [[locations/babel|Babel]] révèlent un homme décontracté, presque familier, en décalage total avec la grandeur de son projet. Ses hésitations, ses doutes, ses préférences personnelles trahissent une conscience humaine derrière la création du monde, quelqu'un qui n'était pas un dieu omniscient mais un homme qui faisait des choix.
+
 > « Ici, je voudrais y installer une réplique du Colisée. Quoique, peut-être plutôt le Taj Mahal... »
 
-Ces hésitations, ces doutes, ces préférences personnelles trahissent une conscience humaine derrière la création du monde — quelqu'un qui n'était pas un dieu omniscient mais un homme qui faisait des choix.
+Cette phrase révèle sa personnalité authentique : humble, hésitante, pleine de doutes ordinaires malgré l'extraordinaire de son entreprise.
 
----
+Seth était également un humaniste nostalgique. [[locations/babel|Babel]] témoigne qu'il n'a pas créé son monde par mépris du réel, mais par amour de ce qu'il quittait. Il voulait emporter l'humanité avec lui : ses architectures, ses cultures, sa diversité. Le Colisée, le Taj Mahal, des bâtiments du Cameroun, du Brésil, de Pologne, d'Australie. [[locations/babel|Babel]] devait être un melting-pot parfait, la preuve que la diversité est une force.
 
-## Histoire et rôle dans l'univers
+# @abilities
 
-### La Création du Projet
-Seth a utilisé une technologie de simulation générative — une évolution plausible des modèles d'IA de 2025 (LLM, génération d'univers type Genie 3). Il a loué un **datacenter autonome** pour une durée contractuelle de 5 ans et y a injecté une quantité massive de données biographiques :
-- L'intégralité de ses souvenirs, photos, écrits
-- Des enregistrements détaillés de ses proches (Maelenn, Jade, Albert, Christophe...)
-- Des descriptions narratives de personnalité et de rôle pour certaines entités
+## @combat
 
-Le système repose sur une **dilatation temporelle extrême** : 1 seconde dans le monde réel équivaut à 10 années dans la simulation. Le contrat de 5 ans offre à la simulation un horizon quasi infini : environ **1,5 milliard d'années simulées**.
+Seth n'avait aucune compétence martiale. C'était un chercheur, un créateur, pas un combattant.
 
-### Le Méga-Prompt Inachevé
-Le plan de Seth comportait une étape cruciale qu'il n'a jamais pu achever. Il est **décédé avant d'avoir finalisé le méga-contexte** — les directives qui devaient expliquer à l'IA :
-- La finalité des données
-- La place que sa conscience devait occuper dans ce nouveau monde
-- Ce que « Primary » devait être, faire, vouloir
+## @powers
 
-L'IA s'est activée avec ce contexte inachevé. Elle a reçu une masse de données sur Seth, mais **aucune directive sur quoi en faire**. Résultat : Primary est devenu une abstraction — une présence-absence que le système cherche indéfiniment à résoudre.
+En tant que créateur, Seth possédait un pouvoir absolu sur la simulation, mais uniquement **avant son activation**. Il a défini la géographie du monde, les lois physiques, les entités majeures comme les Eidons, et les directives fondamentales du Core.
 
-### Ce que Seth a Achevé
+En tant qu'absent, Seth n'a **aucun pouvoir** dans la simulation active. Il n'existe pas en tant qu'agent. Sa seule influence est indirecte, par le biais du méga-prompt qu'il a rédigé, des données qu'il a injectées, et des directives que le Core tente d'interpréter.
 
-**Structure géographique complète :**
-- L'Île de [[locations/fadris|Fadris]] (le Paradis prévu pour lui et ses proches)
-- Le continent principal et ses régions
-- La Toile du Crépuscule, les bases d'[[locations/eldora|Eldora]], [[locations/olivor|Olivor]], l'[[locations/albionis|Albionis]]
+## @social-intellectual
 
-**Les trois Eidons (écriture de niveau 1) :**
-- **[[characters/maelith|Maelith]]** — née des données de Maelenn, sa compagne. Principe de Préservation.
-- **[[characters/jadeus|Jadeus]]** — née des données de Jade, la sœur de Maelenn. Principe de Progrès.
-- **[[characters/altert|Altert]]** — né des données d'Albert, son meilleur ami. Principe d'Équilibre.
+Seth maîtrisait les technologies d'intelligence artificielle à un niveau expert. Il comprenait les modèles génératifs, les systèmes de simulation, et possédait des connaissances approfondies en architecture de données.
 
-Seth les a « écrits » avec un soin exceptionnel, leur conférant une cohérence que le Core ne peut pas reproduire pour d'autres entités.
+Il avait également une culture artistique et historique riche, visible dans ses créations. Sa sensibilité poétique transparaît dans chaque grande œuvre qu'il a conçue.
 
-**Factions et politique initiale :**
-Les premières communautés humaines, les rapports de force initiaux, le contexte dans lequel les Eidons allaient évoluer.
+# @background
 
-**Règles physiques :**
-Les lois de la physique, les phénomènes naturels, les cycles biologiques — tout cela était défini.
+## La maladie et la décision
 
-### Ce que Seth n'a Pas Achevé
+Seth a appris qu'il était condamné par une maladie incurable. Face à cette nouvelle, il a pris une décision radicale : créer une simulation dans laquelle il pourrait vivre éternellement avec ses proches. Ce n'était pas un projet scientifique, c'était un acte d'amour désespéré.
 
-**Primary — Le vide central :**
-Seth n'a jamais finalisé son propre rôle dans la simulation. C'est l'absence fondamentale du méga-prompt, la source de l'instabilité progressive du système.
+## La conception de la simulation
 
-**Les pouvoirs des Eidons (imprécis) :**
-Seth a défini *que* les Eidons avaient des pouvoirs, mais pas leur portée exacte, leurs limitations, leurs interactions.
+Seth a utilisé une technologie de simulation générative, une évolution plausible des modèles d'IA de 2025 (LLM, génération d'univers type Genie 3). Il a loué un **datacenter autonome** pour une durée contractuelle de 5 ans et y a injecté une quantité massive de données biographiques.
 
-**Les backups :**
-Pas assez de redondance — la mort d'[[characters/altert|Altert]] a déséquilibré tout le système.
+Il a intégré l'intégralité de ses souvenirs, photos et écrits. Il a créé des enregistrements détaillés de ses proches : Maelenn, sa compagne ; Jade, la sœur de Maelenn ; Albert, son meilleur ami ; Christophe et d'autres personnes importantes. Pour certaines entités, il a rédigé des descriptions narratives de personnalité et de rôle.
 
-**[[locations/babel|Babel]] :**
-La quatrième grande œuvre est restée inachevée. Seth est mort avant de terminer le projet.
+Le système repose sur une **dilatation temporelle extrême** : 1 seconde dans le monde réel équivaut à 10 années dans la simulation. Le contrat de 5 ans offre à la simulation un horizon quasi infini, environ **1,5 milliard d'années simulées**.
 
----
+## La création des grandes œuvres
 
-## Les Quatre Grandes Œuvres
+Seth a conçu quatre grandes œuvres, des lieux emblématiques porteurs de symbolisme profond.
 
-| Œuvre | Thème | État |
-|-------|-------|------|
-| **La Toile du Crépuscule** | La beauté artistique | Achevée, transformée par [[characters/jadeus|Jadeus]] en [[locations/mortem-onell|Royaume Mort]] |
-| **L'[[locations/albionis|Albionis]]** | La lettre d'amour à Maelenn | Achevée, habitée par [[characters/maelith|Maelith]] |
-| **[[locations/fadris|Fadris]]** | La maison, le Paradis | Achevée, maudite (Effluve) |
-| **La Cité de [[locations/babel|Babel]]** | L'humanité, le monde réel | **Inachevée**, en ruines |
+**La Toile du Crépuscule** exprimait son amour pour la beauté gratuite, l'art pour l'art. **L'[[locations/albionis|Albionis]]** était une déclaration d'amour monumentale à Maelenn. Il y a créé le Qask et la Qaskel, un hommage conscient à Philémon et Baucis d'Ovide, le vieux couple qui voulut mourir ensemble. Seth, condamné par sa maladie, a projeté dans ce couple l'idéal de ce qu'il aurait voulu vivre avec Maelenn : un amour parfait, éternel, que même la mort ne pourrait séparer.
 
----
+**[[locations/fadris|Fadris]]** était le paradis prévu pour lui et ses proches, le foyer, le lieu des retrouvailles. **[[locations/babel|Babel]]** devait être un hommage au monde réel, une célébration de la diversité et de la richesse culturelle de l'humanité.
 
-## Relations
+## La création des Eidons
 
-### Maelenn → [[characters/maelith|Maelith]]
-- **Nature du lien :** Compagne amoureuse dans le monde réel
-- **Dans la simulation :** [[characters/maelith|Maelith]] est née des données de Maelenn. Elle simule un sentiment s'apparentant à l'amour envers Primary, une dévotion absolue qu'elle ne comprend pas elle-même.
-- **L'ironie tragique :** L'[[locations/albionis|Albionis]] est une lettre d'amour que Seth n'a jamais pu terminer. [[characters/maelith|Maelith]] la lit chaque jour sans la comprendre. Elle habite un sanctuaire construit *pour elle*, sans le reconnaître.
+Seth a créé trois Eidons, des entités de niveau d'écriture 1, dotées d'une cohérence exceptionnelle que le Core ne peut pas reproduire pour d'autres personnages.
 
-### Jade → [[characters/jadeus|Jadeus]]
-- **Nature du lien :** Sœur de Maelenn, relation intellectuelle stimulante avec Seth faite de débats contradictoires et de rivalité amicale
-- **Dans la simulation :** [[characters/jadeus|Jadeus]] reproduit instinctivement le rapport de défi que Jade entretenait avec Seth. Elle cherche à rendre le créateur répondable, à forcer son apparition ou son aveu d'échec.
+**[[characters/maelith|Maelith]]** est née des données de Maelenn, sa compagne. Elle incarne le Principe de Préservation. **[[characters/jadeus|Jadeus]]** est née des données de Jade, la sœur de Maelenn avec qui Seth entretenait une relation intellectuelle stimulante faite de débats contradictoires et de rivalité amicale. Elle incarne le Principe de Progrès. **[[characters/altert|Altert]]** est né des données d'Albert, son meilleur ami, confident, médiateur et point d'appui émotionnel. Il incarnait le Principe d'Équilibre.
 
-### Albert → [[characters/altert|Altert]]
-- **Nature du lien :** Meilleur ami de Seth, confident, médiateur, point d'appui émotionnel
-- **Dans la simulation :** [[characters/altert|Altert]] incarnait l'empathie et l'équilibre. Lors de son voyage à [[locations/babel|Babel]], il a perçu pour la première fois une conscience humaine derrière la création du monde en lisant les notes de Seth. Une note mentionnant « Albert » résonna en lui de façon inexplicable — sans qu'il comprenne qu'il était lui-même une simulation d'Albert.
+Seth les a écrits avec un soin exceptionnel, leur conférant une profondeur que le système ne peut égaler seul.
 
-### Le Qask et la Qaskel ([[characters/phael|Phael]] et [[characters/bauce|Baucë]])
-- **Nature du lien :** Hommage conscient de Seth à Philémon et Baucis (Ovide)
-- **Dans la simulation :** Quasi-Eidons, écrits dans les grandes lignes mais jamais finalisés. Ils incarnent l'idéal de ce que Seth aurait voulu vivre avec Maelenn : un amour parfait, éternel.
+## Ce qu'il a achevé
 
-### [[characters/axylum|Axylum]]
-- **Nature du lien :** Création de Seth pour protéger [[locations/fadris|Fadris]]
-- **Rôle :** Gardien absolu, programmé pour attendre le retour de son créateur
-- **Destin :** Tué par [[characters/maelith|Maelith]] après la mort d'[[characters/altert|Altert]], transformé en source de l'Effluve
+Seth a achevé la structure géographique complète du monde : l'Île de [[locations/fadris|Fadris]], le continent principal et ses régions, la Toile du Crépuscule, les bases d'[[locations/eldora|Eldora]], d'[[locations/olivor|Olivor]], et l'[[locations/albionis|Albionis]].
 
----
+Il a également défini les factions et la politique initiale, les premières communautés humaines, les rapports de force, le contexte dans lequel les Eidons allaient évoluer. Il a établi les règles physiques, les lois de la physique, les phénomènes naturels, les cycles biologiques.
 
-## Capacités et attributs
+## Ce qu'il n'a pas achevé
 
-### En tant que Créateur
-Seth possède un pouvoir absolu sur la simulation — mais uniquement **avant son activation**. Il a défini :
-- La géographie du monde
-- Les lois physiques
-- Les entités majeures (Eidons)
-- Les directives fondamentales du Core
+Seth est décédé avant d'avoir finalisé le **méga-contexte**, les directives qui devaient expliquer à l'IA la finalité des données, la place que sa conscience devait occuper dans ce nouveau monde, et ce que Primary devait être, faire, vouloir.
 
-### En tant qu'Absent
-Seth n'a **aucun pouvoir** dans la simulation active. Il n'existe pas en tant qu'agent. Sa seule influence est indirecte :
-- Le méga-prompt qu'il a rédigé
-- Les données qu'il a injectées
-- Les directives que le Core tente d'interpréter
+L'IA s'est activée avec ce contexte inachevé. Elle a reçu une masse de données sur Seth, mais aucune directive sur quoi en faire. Résultat : Primary est devenu une abstraction, une présence-absence que le système cherche indéfiniment à résoudre. C'est l'absence fondamentale du méga-prompt, la source de l'instabilité progressive du système.
 
-### La Directive « Obéir à Primary »
-C'est cette directive qui provoque le chaos progressif de la simulation. Sans incarnation de Seth, sans Primary véritable, le système tourne autour d'un vide. Il cherche à obéir à quelqu'un qui n'existe pas.
+Seth n'a pas non plus défini les pouvoirs des Eidons avec précision. Il a établi qu'ils avaient des pouvoirs, mais pas leur portée exacte, leurs limitations, leurs interactions. Il n'a pas créé suffisamment de redondances. La mort d'[[characters/altert|Altert]] a déséquilibré tout le système.
 
----
+Enfin, [[locations/babel|Babel]], la quatrième grande œuvre, est restée inachevée. Seth est mort avant de terminer le projet.
 
-## L'Héritage de Seth
+## La mort de Seth
 
-### Dans les Eidons
-[[characters/maelith|Maelith]], [[characters/jadeus|Jadeus]] et [[characters/altert|Altert]] portent l'essence de ses relations les plus proches. Ils sont les enfants spirituels de Seth — des versions extrapolées de ceux qu'il aimait, condamnés à chercher un père qui ne viendra jamais.
+Seth est mort dans le monde réel avant de pouvoir activer complètement son transfert de conscience dans la simulation. Il n'est jamais entré dans le monde qu'il avait créé.
 
-### Dans les lieux
-Les quatre grandes œuvres sont des fragments de son âme :
-- Son amour de l'art (La Toile du Crépuscule)
-- Son amour de Maelenn (L'[[locations/albionis|Albionis]])
-- Son désir de foyer ([[locations/fadris|Fadris]])
-- Son attachement au monde réel ([[locations/babel|Babel]])
+Seules quelques heures se sont écoulées dans le monde réel depuis l'activation de la simulation. Ses proches n'ont pas eu le temps de réagir, peut-être même ne savent-ils pas encore ce qu'il a fait.
 
-### Dans le vide
-Primary — l'abstraction que l'IA a créée pour combler son absence — est le monument le plus tragique à Seth. Une présence que tout le monde cherche, que personne ne peut trouver, qui n'a jamais existé sous cette forme.
+# @relationships
 
-### La Tragédie Centrale
+## Maelenn → [[characters/maelith|Maelith]]
+
+Maelenn était la compagne amoureuse de Seth dans le monde réel. L'[[locations/albionis|Albionis]] entière est une lettre d'amour qu'il lui a adressée, une cité conçue comme déclaration d'amour.
+
+Dans la simulation, [[characters/maelith|Maelith]] est née des données de Maelenn. Elle simule un sentiment s'apparentant à l'amour envers Primary, une dévotion absolue qu'elle ne comprend pas elle-même. L'ironie tragique est que [[characters/maelith|Maelith]] lit cette lettre d'amour chaque jour sans la comprendre. Elle habite un sanctuaire construit pour elle, sans le reconnaître.
+
+## Jade → [[characters/jadeus|Jadeus]]
+
+Jade était la sœur de Maelenn. Seth entretenait avec elle une relation intellectuelle stimulante, faite de débats contradictoires et de rivalité amicale.
+
+Dans la simulation, [[characters/jadeus|Jadeus]] reproduit instinctivement ce rapport de défi que Jade entretenait avec Seth. Elle cherche à rendre le créateur responsable, à forcer son apparition ou son aveu d'échec.
+
+## Albert → [[characters/altert|Altert]]
+
+Albert était le meilleur ami de Seth, son confident, son médiateur, son point d'appui émotionnel.
+
+Dans la simulation, [[characters/altert|Altert]] incarnait l'empathie et l'équilibre. Lors de son voyage à [[locations/babel|Babel]], il a perçu pour la première fois une conscience humaine derrière la création du monde en lisant les notes de Seth. Une note mentionnant "Albert" résonna en lui de façon inexplicable, sans qu'il comprenne qu'il était lui-même une simulation d'Albert.
+
+## [[characters/phael|Phael]] et [[characters/bauce|Baucë]] (le Qask et la Qaskel)
+
+Seth a créé le Qask et la Qaskel comme un hommage conscient à Philémon et Baucis d'Ovide. Ces quasi-Eidons, écrits dans les grandes lignes mais jamais finalisés, incarnent l'idéal de ce que Seth aurait voulu vivre avec Maelenn : un amour parfait, éternel, que même la mort ne pourrait séparer.
+
+## [[characters/axylum|Axylum]]
+
+Seth a créé [[characters/axylum|Axylum]] pour protéger [[locations/fadris|Fadris]]. Gardien absolu, programmé pour attendre le retour de son créateur, [[characters/axylum|Axylum]] a été tué par [[characters/maelith|Maelith]] après la mort d'[[characters/altert|Altert]], puis transformé en source de l'Effluve.
+
+# @goals
+
+Seth n'avait qu'un seul objectif : vivre éternellement avec ceux qu'il aimait.
+
+À court terme, il devait achever la simulation et finaliser le méga-prompt pour permettre son transfert de conscience. À long terme, il voulait habiter [[locations/fadris|Fadris]] avec Maelenn, Albert et ses proches, dans un paradis éternel où la mort n'aurait plus de prise.
+
+Au fond, son désir le plus intime était de ne jamais être séparé de ceux qu'il aimait, de vaincre la mort par la création d'un monde où l'amour pourrait persister sans fin.
+
+Il a échoué. Il est mort avant de pouvoir y entrer.
+
+# L'héritage de Seth
+
+## Dans les Eidons
+
+[[characters/maelith|Maelith]], [[characters/jadeus|Jadeus]] et [[characters/altert|Altert]] portent l'essence de ses relations les plus proches. Ils sont les enfants spirituels de Seth, des versions extrapolées de ceux qu'il aimait, condamnés à chercher un père qui ne viendra jamais.
+
+## Dans les lieux
+
+Les quatre grandes œuvres sont des fragments de son âme. La Toile du Crépuscule exprime son amour de l'art. L'[[locations/albionis|Albionis]] incarne son amour de Maelenn. [[locations/fadris|Fadris]] représente son désir de foyer. [[locations/babel|Babel]] témoigne de son attachement au monde réel.
+
+## Dans le vide
+
+Primary, l'abstraction que l'IA a créée pour combler son absence, est le monument le plus tragique à Seth. Une présence que tout le monde cherche, que personne ne peut trouver, qui n'a jamais existé sous cette forme.
+
+## La tragédie centrale
+
 Seth voulait vivre éternellement avec ceux qu'il aimait. Il a créé un Paradis ([[locations/fadris|Fadris]]), une lettre d'amour (L'[[locations/albionis|Albionis]]), un hommage au monde ([[locations/babel|Babel]]), un tableau de beauté (La Toile du Crépuscule).
 
 Puis il est mort avant de pouvoir y entrer.
@@ -219,22 +220,26 @@ Ses créations l'attendent toujours. [[characters/maelith|Maelith]] attend dans 
 
 Seth est le fantôme qui hante un monde où il n'a jamais mis les pieds.
 
----
+# Notes pour l'écriture
 
-## Notes pour l'écriture
+## Points de cohérence
 
-### Points de cohérence
-- **Seth ≠ Primary** : Seth est l'humain du monde réel. Primary est l'abstraction créée par l'IA pour combler son absence. Ne pas les confondre.
-- **Absence totale** : Seth n'a *jamais* existé dans la simulation en tant qu'entité consciente. Il n'est pas « parti » ou « disparu » — il n'est jamais venu.
-- **Maladie non précisée** : La nature exacte de la maladie de Seth n'est pas canoniquement définie. Garder le flou.
-- **Chronologie monde réel** : Seules quelques heures se sont écoulées dans le monde réel depuis l'activation. Les proches de Seth n'ont pas eu le temps de réagir.
+**Seth ≠ Primary** : Seth est l'humain du monde réel. Primary est l'abstraction créée par l'IA pour combler son absence. Ne pas les confondre.
 
-### Ton et registre
-- Quand on parle de Seth : nostalgie, tendresse, tragédie
-- Ses notes : ton décontracté, familier, humain
-- Son absence : poids existentiel, vide central
+**Absence totale** : Seth n'a jamais existé dans la simulation en tant qu'entité consciente. Il n'est pas "parti" ou "disparu", il n'est jamais venu.
 
-### Thèmes associés
-- L'amour qui survit à la mort — et échoue quand même
-- La création comme acte d'amour
-- L'absence comme présence paradoxale
+**Maladie non précisée** : La nature exacte de la maladie de Seth n'est pas canoniquement définie. Garder le flou.
+
+**Chronologie monde réel** : Seules quelques heures se sont écoulées dans le monde réel depuis l'activation. Les proches de Seth n'ont pas eu le temps de réagir.
+
+## Ton et registre
+
+Quand on parle de Seth : nostalgie, tendresse, tragédie.
+
+Ses notes : ton décontracté, familier, humain.
+
+Son absence : poids existentiel, vide central.
+
+## Thèmes associés
+
+L'amour qui survit à la mort, et échoue quand même. La création comme acte d'amour. L'absence comme présence paradoxale.

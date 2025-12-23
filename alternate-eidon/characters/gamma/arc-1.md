@@ -37,30 +37,6 @@ Leurs silences sont confortables. Elle n'a pas besoin de forcer la conversation,
 
 # @background
 
-## Rencontre avec Leias
-
-Dans la forêt de [[locations/beyran|Beyran]], Gamma tombe dans un piège tendu par [[characters/leias|Leias]]. Le piège n'était pas destiné à elle, mais à [[characters/bobbis|Bobbis]], le mercenaire qui traque [[characters/leias|Leias]].
-
-Le premier contact est tendu. Qui es-tu ? Pourquoi es-tu là ? Mais rapidement, ils reconnaissent mutuellement une compétence inhabituelle, quelque chose qui les distingue des gens ordinaires. Face à la menace commune que représente [[characters/bobbis|Bobbis]], ils forment une alliance pragmatique.
-
-## L'alliance improbable
-
-[[characters/leias|Leias]] fuit son passé, les souvenirs d'[[locations/olivor|Olivor]] et la mort de son père. Gamma accomplit quelque chose qu'elle ne comprend pas vraiment, suivant des impulsions qu'elle croit être les siennes. Ensemble, ils s'avèrent être un duo redoutablement efficace.
-
-Leur collaboration révèle une synchronisation étrange. Ils anticipent les mouvements l'un de l'autre, complètent leurs stratégies sans avoir besoin de longues discussions. Pour Gamma, c'est naturel, évident même. Elle ne questionne pas pourquoi elle et [[characters/leias|Leias]] fonctionnent si bien ensemble.
-
-## Confrontation avec Bobbis
-
-[[characters/bobbis|Bobbis]] est éliminé grâce à leur collaboration. Le combat est brutal mais efficace. Gamma manifeste cette dualité caractéristique : éviter la violence jusqu'au moment où elle devient inévitable, puis la déployer avec une efficacité froide et chirurgicale.
-
-C'est la première fois qu'elle travaille en équipe, et la première fois qu'elle considère quelqu'un comme un véritable partenaire. Cette expérience marque le début de quelque chose de nouveau pour elle.
-
-## Émergence des questions
-
-Au fil de l'Arc 1, Gamma commence à se poser des questions sur elle-même. Certaines choses lui viennent trop facilement — des compétences qu'elle n'a pas souvenir d'avoir apprises, des intuitions qu'elle ne peut pas expliquer. Elle met cela sur le compte de l'adénaline, de la survie, de l'expérience accumulée pendant son année de traque.
-
-Parfois, elle ressent une sensation diffuse que quelque chose ne va pas — comme si le monde autour d'elle avait un défaut invisible. Elle ignore ces impressions, les attribuant à la fatigue ou à l'hypervigilance.
-
 # @relationships
 
 ## Leias

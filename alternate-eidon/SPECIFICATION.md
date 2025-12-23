@@ -2,7 +2,7 @@
 
 **Version:** 0.2.0-draft  
 **Status:** Draft  
-**Last Updated:** 2024-12-19
+**Last Updated:** 2024-12-22
 
 ---
 
@@ -83,6 +83,7 @@ An **entity** is any concept in your fictional universe:
 - Items (objects, artifacts, weapons)
 - Events (battles, ceremonies, discoveries) — see [Section 11](#11-events)
 - Factions (organizations, nations, species)
+- Relationships (connections between entities) — see [Section 12](#12-relationships)
 - Concepts (magic systems, technologies, laws)
 - Custom types defined by the author
 
@@ -105,6 +106,7 @@ Entity type is **inferred from the folder path**:
 - `/universe/locations/old-tavern/` → type: `location`
 - `/universe/items/excalibur/` → type: `item`
 - `/universe/events/the-great-war/` → type: `event`
+- `/universe/relationships/jack--sarah/` → type: `relationship`
 
 ### 3.4 Base File
 
@@ -129,7 +131,8 @@ universe/
 │   │   └── great-war-era.yaml
 │   └── schemas/                 # Optional: entity type schemas
 │       ├── character.yaml
-│       └── location.yaml
+│       ├── location.yaml
+│       └── relationship-types.yaml  # Relationship type definitions
 ├── characters/
 │   ├── jack/
 │   │   ├── _index.md
@@ -141,6 +144,12 @@ universe/
 │       └── ...
 ├── items/
 │   └── excalibur/
+│       └── ...
+├── relationships/               # Relationship entities
+│   ├── jack--sarah/
+│   │   ├── _index.md
+│   │   └── *.md
+│   └── valdris-empire--imperial-palace/
 │       └── ...
 └── [custom-type]/
     └── ...
@@ -209,11 +218,15 @@ A scar runs across his left eyebrow.
 
 Jack is reserved but fiercely loyal to those he trusts.
 
-# Relationships
+# Notable Connections
 
-- [[sarah]] — Wife (since Year 42)
-- [[old-tavern]] — Favorite hangout
+His most important relationships are with [[sarah]] (see [[jack--sarah]]) 
+and his time at the [[old-tavern]].
 ```
+
+> **Note:** Formal relationships between entities are defined in relationship 
+> entities (see [Section 12](#12-relationships)). Inline wiki-links create 
+> backlinks but are not the source of truth for relationships.
 
 ### 5.2 Delta File Structure
 
@@ -724,107 +737,645 @@ She was born during [[coronation-of-kira#Year 842]].
 
 ## 12. Relationships
 
-Relationships between entities are expressed in Markdown sections, allowing them to evolve over time like any other property.
+Relationships are **first-class entities** that define connections between other entities. Each relationship is a standalone entity folder that can evolve over time, providing a single source of truth for how two entities relate to each other.
 
-### 12.1 Forward References
+### 12.1 Philosophy
 
-When entity A references entity B, this creates a **forward reference**:
+Relationships in the Timeliner Standard follow these principles:
 
-```markdown
-# Relationships
+- **Single source of truth**: Each relationship between two entities is defined in exactly one place
+- **Bidirectional by default**: One relationship entity captures both perspectives
+- **Asymmetry support**: Different entities can perceive the relationship differently
+- **Time evolution**: Relationships change over time using the standard delta pattern
+- **Schema-defined types**: Relationship types are defined by the author in schemas
+- **Strength quantification**: Each bond can have a strength value (0.0 - 1.0)
 
-- [[sarah]] — Wife (since Year 42)
-- [[old-tavern]] — Favorite hangout
+### 12.2 Relationship Structure
+
+Relationships live in the `/relationships/` folder:
+
+```
+relationships/
+├── jack--sarah/
+│   ├── _index.md           # Base relationship state
+│   ├── 842-marriage.md     # Delta: they got married
+│   └── 845-war-strain.md   # Delta: war strains the relationship
+├── kira-valdris--theron-blackwood/
+│   ├── _index.md
+│   └── 847-death.md
+└── valdris-empire--imperial-palace/
+    └── _index.md           # Location is capital of faction
 ```
 
-### 12.2 Bidirectional Relationship Tracking
+### 12.3 Folder Naming Convention
 
-The Timeliner Standard does **not** require relationships to be manually duplicated. Instead, tooling SHOULD compute **backlinks** automatically.
+Relationship folders SHOULD be named using one of these conventions:
 
-**Principle**: Write relationships once, compute the reverse.
+| Convention | Example | Use Case |
+|------------|---------|----------|
+| **Alphabetical IDs** | `jack--sarah/` | Default (jack < sarah alphabetically) |
+| **Meaningful name** | `jack-and-sarah/` | When clarity is preferred |
+| **Descriptive** | `valdris-capital/` | For non-character relationships |
 
-#### How it Works
+The double-dash (`--`) separator clearly distinguishes relationship folders from regular entity names.
 
-1. Jack's file contains: `- [[sarah]] — Wife (since Year 42)`
-2. Tooling scans all files and builds a reference index
-3. When viewing Sarah's file, tooling shows: "Referenced by: [[jack]] (Relationships section)"
+### 12.4 Relationship Base File
 
-#### Implementation Recommendations
+```markdown
+---
+name: "Jack & Sarah"
+timeline: imperial-calendar
 
-| Approach | Description | Pros | Cons |
-|----------|-------------|------|------|
-| **Runtime computation** | Calculate backlinks on-demand | Always accurate | Slower for large universes |
-| **Index file** | Generate `.timeliner/backlinks.json` | Fast queries | Requires rebuild on changes |
-| **Hybrid** | Index + invalidation on file change | Best of both | More complex |
+participants:
+  a: "[[jack]]"
+  b: "[[sarah]]"
 
-**Recommended**: Hybrid approach with file watching.
+existence:
+  start: "Year 820"
+  end: unknown
 
-### 12.3 Relationship Context
+bonds:
+  # Symmetric bond (same in both directions)
+  - type: childhood-friend
+    strength: 0.9
 
-Backlinks SHOULD include context to be useful:
+tags: [friendship, romance]
+---
+
+# Introduction
+
+Jack and Sarah grew up together in the merchant district of the capital.
+
+# History
+
+They first met at age 5 when Sarah's family moved next door.
+
+# Significant Moments
+
+- **Year 820** — First meeting as children
+- **Year 835** — Jack leaves for military service
+```
+
+### 12.5 Participants
+
+Every relationship MUST define exactly two participants:
 
 ```yaml
-# Computed backlinks for sarah/_index.md
-backlinks:
-  - source: "characters/jack/_index.md"
-    section: "Relationships"
-    context: "[[sarah]] — Wife (since Year 42)"
-    timestamp: null  # From base file
+participants:
+  a: "[[jack]]"           # First participant
+  b: "[[sarah]]"          # Second participant
+```
+
+The labels `a` and `b` are used to define directional bonds (see 12.7). The assignment is arbitrary but should be consistent within the relationship.
+
+### 12.6 Bonds
+
+Bonds define the actual relationship types between participants. A relationship can have multiple bonds.
+
+#### Bond Structure
+
+```yaml
+bonds:
+  - type: friend          # Required: relationship type ID
+    strength: 0.8         # Optional: 0.0 to 1.0 (default: 1.0)
+    # Directionality (one of the following):
+    symmetric: true       # Same in both directions
+    from: a               # Directed: A → B only
+    from: b               # Directed: B → A only
+```
+
+#### Symmetric Bonds
+
+Symmetric bonds apply equally in both directions:
+
+```yaml
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: 1.0
     
-  - source: "characters/jack/845-civil-war.md"  
-    section: "Relationships"
-    context: "[[sarah]] — Wife (married 2019)"
-    timestamp: "Year 845"
+  - type: rival
+    symmetric: true
+    strength: 0.7
+```
+
+#### Directed Bonds
+
+Directed bonds only apply in one direction:
+
+```yaml
+bonds:
+  - type: mentor
+    from: a              # Jack is Sarah's mentor
+    strength: 0.9
     
-  - source: "events/the-wedding/_index.md"
-    section: "Participants"
-    context: "[[sarah]] — Bride"
-    timestamp: "Year 842"
+  - type: student
+    from: b              # Sarah is Jack's student
+    strength: 0.9
 ```
 
-### 12.4 Typed Relationships (Optional)
+#### Asymmetric Strength
 
-Authors MAY use a structured format for machine-parseable relationships:
+When both participants have the same bond type but different intensities:
 
-```markdown
-# Relationships
-
-- [[sarah]] `spouse` — Married in Year 42
-- [[theron-blackwood]] `ally` `friend` — Met during the war
-- [[duke-varren]] `enemy` — Nemesis
-- [[old-tavern]] `frequents` — Favorite drinking spot
+```yaml
+bonds:
+  - type: friend
+    symmetric: true
+    strength:
+      a: 1.0             # Jack sees Sarah as his best friend
+      b: 0.6             # Sarah sees Jack as a good friend
 ```
 
-The backtick-wrapped terms are **relationship types** that tooling can use for filtering and visualization.
+### 12.7 Relationship Type Schema
 
-Standard relationship types (suggestions, not requirements):
-- **Personal**: `spouse`, `parent`, `child`, `sibling`, `friend`, `rival`, `enemy`, `lover`
-- **Professional**: `employer`, `employee`, `ally`, `mentor`, `student`, `colleague`
-- **Spatial**: `located-in`, `frequents`, `owns`, `created`
-- **Membership**: `member-of`, `leader-of`, `founder-of`
+Relationship types are defined in `/meta/schemas/relationship-types.yaml`:
 
-### 12.5 Relationship Evolution
+```yaml
+# /meta/schemas/relationship-types.yaml
+id: relationship-types
+name: "Relationship Types"
+description: "Defines available relationship types and their properties"
 
-Relationships change over time. Each delta can update the Relationships section:
-
-**Base file (Year 819):**
-```markdown
-# Relationships
-- [[sarah]] `friend` — Childhood friend
+types:
+  # === Personal Relationships ===
+  spouse:
+    label: "Spouse"
+    description: "Married partners"
+    default_symmetric: true
+    inverse: null            # Same in both directions
+    valid_between:
+      - [character, character]
+  
+  parent:
+    label: "Parent"
+    description: "Biological or adoptive parent"
+    default_symmetric: false
+    inverse: child           # A is parent → B is child
+    valid_between:
+      - [character, character]
+  
+  child:
+    label: "Child"
+    description: "Biological or adoptive child"
+    default_symmetric: false
+    inverse: parent
+    valid_between:
+      - [character, character]
+  
+  friend:
+    label: "Friend"
+    description: "Friendship bond"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  rival:
+    label: "Rival"
+    description: "Competitive relationship"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+  
+  enemy:
+    label: "Enemy"
+    description: "Hostile relationship"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+  
+  mentor:
+    label: "Mentor"
+    description: "Teacher or guide"
+    default_symmetric: false
+    inverse: student
+    valid_between:
+      - [character, character]
+  
+  student:
+    label: "Student"
+    description: "Learner or protégé"
+    default_symmetric: false
+    inverse: mentor
+    valid_between:
+      - [character, character]
+  
+  lover:
+    label: "Lover"
+    description: "Romantic relationship"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  # === Professional Relationships ===
+  employer:
+    label: "Employer"
+    default_symmetric: false
+    inverse: employee
+    valid_between:
+      - [character, character]
+      - [faction, character]
+  
+  employee:
+    label: "Employee"
+    default_symmetric: false
+    inverse: employer
+    valid_between:
+      - [character, character]
+      - [character, faction]
+  
+  ally:
+    label: "Ally"
+    description: "Allied in purpose"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+      - [character, faction]
+  
+  # === Spatial Relationships ===
+  capital:
+    label: "Capital of"
+    description: "Administrative center"
+    default_symmetric: false
+    inverse: has-capital
+    valid_between:
+      - [location, faction]
+  
+  has-capital:
+    label: "Has capital"
+    default_symmetric: false
+    inverse: capital
+    valid_between:
+      - [faction, location]
+  
+  located-in:
+    label: "Located in"
+    description: "Physical containment"
+    default_symmetric: false
+    inverse: contains
+    valid_between:
+      - [location, location]
+      - [item, location]
+  
+  contains:
+    label: "Contains"
+    default_symmetric: false
+    inverse: located-in
+    valid_between:
+      - [location, location]
+      - [location, item]
+  
+  # === Membership Relationships ===
+  member-of:
+    label: "Member of"
+    default_symmetric: false
+    inverse: has-member
+    valid_between:
+      - [character, faction]
+  
+  has-member:
+    label: "Has member"
+    default_symmetric: false
+    inverse: member-of
+    valid_between:
+      - [faction, character]
+  
+  leader-of:
+    label: "Leader of"
+    default_symmetric: false
+    inverse: led-by
+    valid_between:
+      - [character, faction]
+  
+  led-by:
+    label: "Led by"
+    default_symmetric: false
+    inverse: leader-of
+    valid_between:
+      - [faction, character]
+  
+  # === Ownership ===
+  owns:
+    label: "Owns"
+    default_symmetric: false
+    inverse: owned-by
+    valid_between:
+      - [character, item]
+      - [character, location]
+      - [faction, location]
+  
+  owned-by:
+    label: "Owned by"
+    default_symmetric: false
+    inverse: owns
+    valid_between:
+      - [item, character]
+      - [location, character]
+      - [location, faction]
 ```
 
-**Delta (Year 842):**
-```markdown
-# Relationships
-- [[sarah]] `spouse` — Married this year
-- [[theron-blackwood]] `lover` — Secret relationship
+### 12.8 Relationship Type Schema Fields
+
+| Field | Required | Type | Description |
+|-------|----------|------|-------------|
+| `id` | Yes | string | Schema identifier (must be `relationship-types`) |
+| `name` | Yes | string | Human-readable name |
+| `description` | No | string | Schema description |
+| `types` | Yes | object | Map of type ID → type definition |
+
+**Per-type fields:**
+
+| Field | Required | Type | Description |
+|-------|----------|------|-------------|
+| `label` | Yes | string | Display name |
+| `description` | No | string | Tooltip/help text |
+| `default_symmetric` | No | boolean | Default symmetry (default: `true`) |
+| `inverse` | No | string | ID of the inverse relationship type |
+| `valid_between` | No | array | Valid entity type pairs `[[typeA, typeB], ...]` |
+
+### 12.9 Relationship Delta Files
+
+Relationships evolve over time using delta files:
+
+**Delta file (`842-marriage.md`):**
+```yaml
+---
+timestamp: "Year 842"
+summary: "Jack and Sarah get married"
+
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: 1.0
+    
+  - type: friend
+    symmetric: true
+    strength:
+      a: 1.0
+      b: 0.9
+---
+
+# Introduction
+
+@prev
+
+They married in a small ceremony during the siege of Thornhold.
+
+# Significant Moments
+
+@prev
+
+- **Year 842** — Married during wartime
 ```
 
-**Delta (Year 845):**
+**Delta file (`845-war-strain.md`):**
+```yaml
+---
+timestamp: "Year 845"
+summary: "War strains their relationship"
+
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: 0.6          # Strained but intact
+    
+  - type: protector
+    from: a                # Jack protects Sarah
+    strength: 0.9
+    
+  - type: resentment
+    from: b                # Sarah resents Jack's absences
+    strength: 0.4
+---
+
+# Introduction
+
+@prev
+
+The prolonged war has created distance between them.
+```
+
+### 12.10 Bond Inheritance Rules
+
+| Scenario | Behavior |
+|----------|----------|
+| Bond type present in delta | **Replaces** that bond entirely |
+| Bond type absent in delta | **Inherits** from previous state |
+| Bond with `strength: null` | **Removes** that bond |
+| Empty `bonds: []` array | **Removes all** bonds |
+
+**Example: Removing a bond**
+```yaml
+---
+timestamp: "Year 850"
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: null         # Divorced — bond removed
+    
+  - type: friend
+    symmetric: true
+    strength: 0.5          # Remain friends
+---
+```
+
+### 12.11 Relationship Frontmatter Reference
+
+**Base file:**
+
+| Field | Required | Type | Description |
+|-------|----------|------|-------------|
+| `name` | No | string | Display name for the relationship |
+| `participants` | Yes | object | The two entities in the relationship |
+| `participants.a` | Yes | string | Reference to first entity |
+| `participants.b` | Yes | string | Reference to second entity |
+| `bonds` | No | array | List of bond definitions |
+| `existence` | No | object | When the relationship exists |
+| `timeline` | No | string | Default timeline for delta files |
+| `tags` | No | array | Search tags |
+
+**Delta file:**
+
+| Field | Required | Type | Description |
+|-------|----------|------|-------------|
+| `timestamp` | Yes | string | When this change occurs |
+| `summary` | No | string | Brief description of changes |
+| `bonds` | No | array | Bond updates (replaces matching types) |
+| `timeline` | No | string | Timeline for this timestamp |
+
+### 12.12 Querying Relationships
+
+Tooling SHOULD provide methods to query relationships:
+
+```
+# Get all relationships for an entity
+timeliner relationships jack
+
+# Get specific relationship types
+timeliner relationships jack --type=spouse
+
+# Get relationships at a specific time
+timeliner relationships jack --at="Year 845"
+
+# Get relationship between two specific entities
+timeliner relationship jack sarah
+
+# Get all enemies of a faction
+timeliner relationships valdris-empire --type=enemy
+```
+
+### 12.13 Relationship Graph
+
+Relationship entities enable powerful graph visualizations:
+
+- **Social networks**: Show all character relationships
+- **Political maps**: Show faction alliances and rivalries
+- **Timeline views**: Show how relationships evolve
+- **Filtered views**: Show only specific relationship types
+
+Tooling SHOULD compute relationship graphs by:
+1. Scanning all entities in `/relationships/`
+2. Building edges based on `participants` and `bonds`
+3. Applying time filters to show state at specific timestamps
+
+### 12.14 Inverse Relationships
+
+When a relationship type has an `inverse` defined, tooling SHOULD automatically infer the inverse:
+
+**Relationship file:**
+```yaml
+participants:
+  a: "[[marcus-ashford]]"
+  b: "[[kira-valdris]]"
+
+bonds:
+  - type: parent
+    from: a              # Marcus is Kira's parent
+    strength: 1.0
+```
+
+**Tooling inference:**
+- Marcus → Kira: `parent` (strength: 1.0)
+- Kira → Marcus: `child` (strength: 1.0) — automatically inferred from inverse
+
+### 12.15 Cross-Entity References (Backlinks)
+
+Entity files MAY include relationship references in their content using standard wiki-links. These create **backlinks** but are NOT the source of truth for the relationship.
+
 ```markdown
+# In characters/jack/_index.md
+
 # Relationships
-- [[sarah]] `spouse` — Supporting each other through the war
-- [[theron-blackwood]] `spouse` `ally` — Now public; fights at her side
+
+See my relationship with [[sarah]] in [[jack--sarah]].
+```
+
+Tooling SHOULD:
+- Display relationships from `/relationships/` folder in entity views
+- Show computed backlinks separately from formal relationships
+- Allow navigation from entity to its relationship entities
+
+### 12.16 Complete Relationship Example
+
+**File:** `/relationships/kira-valdris--theron-blackwood/_index.md`
+```yaml
+---
+name: "Kira & Theron"
+timeline: imperial-calendar
+
+participants:
+  a: "[[kira-valdris]]"
+  b: "[[theron-blackwood]]"
+
+existence:
+  start: "Year 840"
+  end: "Year 847"
+
+bonds:
+  - type: ally
+    symmetric: true
+    strength: 0.7
+    
+  - type: employer
+    from: a
+    strength: 1.0
+
+tags: [romance, politics, tragedy]
+---
+
+# Introduction
+
+The relationship between Empress Kira and her court mage Theron began as a political alliance but grew into something deeper.
+
+# History
+
+Theron was assigned to the imperial court in Year 840, initially as a spy for the [[circle-of-magi]]. Over time, his loyalty shifted entirely to Kira.
+
+# Significant Moments
+
+- **Year 840** — Theron arrives at court
+- **Year 842** — Becomes Kira's primary advisor after her coronation
+- **Year 844** — Secret romantic relationship begins
+- **Year 847** — Both die together at Ashenmoor Tower
+```
+
+**File:** `/relationships/kira-valdris--theron-blackwood/844-romance.md`
+```yaml
+---
+timestamp: "Year 844"
+summary: "Romance begins in secret"
+
+bonds:
+  - type: ally
+    symmetric: true
+    strength: 0.9
+    
+  - type: lover
+    symmetric: true
+    strength:
+      a: 0.8
+      b: 1.0            # Theron loves her more deeply
+    
+  - type: employer
+    from: a
+    strength: 1.0
+    
+  - type: protector
+    from: b
+    strength: 1.0
+---
+
+# Introduction
+
+@prev
+
+Their alliance has deepened into a secret romance, hidden from the court.
+```
+
+**File:** `/relationships/kira-valdris--theron-blackwood/847-death.md`
+```yaml
+---
+timestamp: "Year 847"
+summary: "Final moments together"
+
+bonds:
+  - type: lover
+    symmetric: true
+    strength: 1.0         # United in death
+    
+  - type: ally
+    symmetric: true
+    strength: 1.0
+---
+
+# Introduction
+
+@prev
+
+In their final moments at Ashenmoor Tower, they faced the Sundering together.
 ```
 
 ---
@@ -2358,9 +2909,9 @@ None yet.
 
 Jack is optimistic and trusting.
 
-# Relationships
+# Key Connections
 
-- [[sarah]] — Childhood friend
+See relationships: [[jack--sarah]], [[jack--sergeant-morris]]
 ```
 
 **File:** `/universe/characters/jack/2015-the-war.md`
@@ -2383,11 +2934,6 @@ A fresh scar across his left eyebrow from combat.
 # Personality
 
 Jack has become hardened by war but maintains hope.
-
-# Relationships
-
-- [[sarah]] — Childhood friend (hasn't seen her in years)
-- [[sergeant-morris]] — Commanding officer
 ```
 
 **File:** `/universe/characters/jack/2020-aftermath.md`
@@ -2415,10 +2961,9 @@ A scar across his left eyebrow. His left arm is prosthetic.
 
 Jack has become bitter and withdrawn. He trusts no one.
 
-# Relationships
+# Key Connections
 
-- [[sarah]] — Wife (married 2019)
-- [[old-tavern]] — Favorite place to drink alone
+He spends most of his time at the [[old-tavern]].
 ```
 
 ### 18.2 Location Example
@@ -2516,6 +3061,239 @@ The Sundering was the catastrophic moment when magic died. In a single instant, 
 - Eventually led to the [[new-valdris-republic]]
 ```
 
+### 18.5 Relationship Example
+
+**File:** `/universe/relationships/jack--sarah/_index.md`
+```markdown
+---
+name: "Jack & Sarah"
+timeline: gregorian
+
+participants:
+  a: "[[jack]]"
+  b: "[[sarah]]"
+
+existence:
+  start: "1995-06-09"
+  end: unknown
+
+bonds:
+  - type: childhood-friend
+    symmetric: true
+    strength: 0.9
+
+tags: [friendship, romance]
+---
+
+# Introduction
+
+Jack and Sarah grew up together on the same street in Portland.
+
+# History
+
+They first met at age 5 when Jack's family moved next door to Sarah's.
+
+# Significant Moments
+
+- **1995** — First meeting
+- **2010** — Jack leaves for military service
+```
+
+**File:** `/universe/relationships/jack--sarah/2019-marriage.md`
+```markdown
+---
+timestamp: "2019-08-15"
+summary: "Jack and Sarah get married"
+
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: 1.0
+    
+  - type: friend
+    symmetric: true
+    strength:
+      a: 1.0
+      b: 0.95
+---
+
+# Introduction
+
+@prev
+
+After Jack returned from the war, they reconnected and married in a small ceremony.
+
+# Significant Moments
+
+@prev
+
+- **2019** — Married in Portland
+```
+
+**File:** `/universe/relationships/jack--sarah/2020-strain.md`
+```markdown
+---
+timestamp: "2020-06-15"
+summary: "Jack's trauma strains the marriage"
+
+bonds:
+  - type: spouse
+    symmetric: true
+    strength: 0.7
+    
+  - type: friend
+    symmetric: true
+    strength:
+      a: 0.9
+      b: 0.6          # Sarah struggles with Jack's withdrawal
+    
+  - type: caretaker
+    from: b           # Sarah cares for Jack
+    strength: 0.8
+---
+
+# Introduction
+
+@prev
+
+Jack's PTSD and emotional withdrawal are creating distance in their marriage.
+```
+
+### 18.6 Relationship Type Schema Example
+
+**File:** `/universe/meta/schemas/relationship-types.yaml`
+```yaml
+id: relationship-types
+name: "Relationship Types"
+description: "Custom relationship types for The Chronicles universe"
+
+types:
+  # Family relationships
+  parent:
+    label: "Parent"
+    default_symmetric: false
+    inverse: child
+    valid_between:
+      - [character, character]
+  
+  child:
+    label: "Child"
+    default_symmetric: false
+    inverse: parent
+    valid_between:
+      - [character, character]
+  
+  sibling:
+    label: "Sibling"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  # Romantic relationships
+  spouse:
+    label: "Spouse"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  lover:
+    label: "Lover"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  # Social relationships
+  friend:
+    label: "Friend"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  childhood-friend:
+    label: "Childhood Friend"
+    description: "Friends since childhood"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  rival:
+    label: "Rival"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+  
+  enemy:
+    label: "Enemy"
+    default_symmetric: true
+    valid_between:
+      - [character, character]
+      - [faction, faction]
+  
+  # Professional relationships
+  mentor:
+    label: "Mentor"
+    default_symmetric: false
+    inverse: student
+    valid_between:
+      - [character, character]
+  
+  student:
+    label: "Student"
+    default_symmetric: false
+    inverse: mentor
+    valid_between:
+      - [character, character]
+  
+  employer:
+    label: "Employer"
+    default_symmetric: false
+    inverse: employee
+    valid_between:
+      - [character, character]
+      - [faction, character]
+  
+  employee:
+    label: "Employee"
+    default_symmetric: false
+    inverse: employer
+    valid_between:
+      - [character, character]
+      - [character, faction]
+  
+  # Care relationships
+  caretaker:
+    label: "Caretaker"
+    description: "Someone who provides care"
+    default_symmetric: false
+    inverse: dependent
+    valid_between:
+      - [character, character]
+  
+  dependent:
+    label: "Dependent"
+    description: "Someone who receives care"
+    default_symmetric: false
+    inverse: caretaker
+    valid_between:
+      - [character, character]
+  
+  # Location relationships
+  capital:
+    label: "Capital of"
+    default_symmetric: false
+    inverse: has-capital
+    valid_between:
+      - [location, faction]
+  
+  located-in:
+    label: "Located in"
+    default_symmetric: false
+    inverse: contains
+    valid_between:
+      - [location, location]
+      - [item, location]
+```
+
 ---
 
 ## Appendix A: Reserved Keywords
@@ -2537,6 +3315,8 @@ The Sundering was the catastrophic moment when magic died. In a single instant, 
 | Delta file | Any `.md` filename | By YAML timestamp |
 | Timeline | `*.yaml` in `/meta/timelines/` | — |
 | Schema | `*.yaml` in `/meta/schemas/` | — |
+| Relationship folder | `entityA--entityB/`, `meaningful-name/` | — |
+| Relationship types | `relationship-types.yaml` in `/meta/schemas/` | — |
 
 ## Appendix C: Future Considerations
 

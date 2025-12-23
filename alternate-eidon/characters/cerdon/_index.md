@@ -1,10 +1,10 @@
 ---
 name: Cerdon
-type: character
 existence:
   start: "930"
   end: unknown
 timeline: simulation-era
+image: cerdon.png
 tags:
   - conseiller
   - stratège
@@ -12,136 +12,143 @@ tags:
   - jadeus
   - humain
   - niveau-4
+attributes:
+  race: Humain
+  writing_level: "4"
+  aka: "Le Conseiller de l'Ombre"
 ---
 
-# Cerdon — Le Conseiller de l'Ombre
+# @identity
 
-## Identité et concept
+Cerdon est le principal conseiller et stratège de [[jadeus]], incarnant la figure du confident indéfectible au service du [[mortem-onell|Royaume Mort]]. Homme d'expérience et de loyauté, il est celui qui sert sans jamais faillir, qui conseille sans jamais juger. À environ **70 ans**, il maintient encore une prestance imposante héritée de son passé militaire. Dans la dynamique narrative, il joue le rôle de témoin privilégié, permettant au lecteur de percevoir l'humanité de [[jadeus]] derrière la façade de l'Eidon du Progrès.
 
-Cerdon est le principal conseiller et stratège de [[characters/jadeus|Jadeus]]. Homme d'expérience et de loyauté, il incarne la figure du confident indéfectible — celui qui sert sans jamais faillir, qui conseille sans jamais juger. Dans la dynamique narrative, il joue le rôle de témoin privilégié : à travers lui, le lecteur peut percevoir l'humanité de [[characters/jadeus|Jadeus]] derrière la façade de l'Eidon du Progrès.
+## @one-line-description
 
-| Attribut | Valeur |
-|----------|--------|
-| **Nom complet** | Cerdon |
-| **Titre** | Conseiller principal du [[locations/mortem-onell|Royaume Mort]] |
-| **Âge** | ~70 ans |
-| **Statut** | Vivant |
-| **Niveau d'écriture** | 4 (entièrement généré par l'IA) |
-| **Archétype** | Le majordome loyal (type Alfred Pennyworth) |
+> "Les actes pèsent plus que les discours."
 
----
+# @physical-description
 
-## Apparence
+## @general
 
-### Physionomie générale
-Cerdon est un homme d'environ **70 ans**, à la carrure encore imposante qui trahit un passé militaire : épaules larges, posture rigoureusement droite malgré l'âge. Il mesure environ 1m82 et maintient une prestance naturelle, celle d'un homme habitué au commandement et à la rigueur.
+Cerdon est un homme d'environ **70 ans**, à la carrure encore imposante qui trahit un passé militaire. Ses épaules larges et sa posture rigoureusement droite, malgré l'âge, témoignent d'une vie entière d'entraînement et de discipline. Il mesure environ 1m82 et maintient une prestance naturelle, celle d'un homme habitué au commandement et à la rigueur.
 
-### Visage et traits
-Son visage est marqué par les décennies de service, avec des traits anguleux et aristocratiques. Le temps y a tracé des **rides profondes et expressives** — particulièrement autour des yeux et au front — qui lui donnent une apparence sévère au repos, mais qui se muent en lignes de sagesse lorsqu'il se concentre.
-
-**Yeux :** Gris acier, perçants et attentifs, toujours en train d'observer, d'analyser. Le regard est celui d'un stratège, d'un homme qui voit ce que les autres ne remarquent pas.
-
-**Lunettes :** Rondes à monture dorée fine, discrètes mais élégantes, qui ajoutent une touche intellectuelle à son apparence.
-
-**Cheveux :** Gris argenté, soigneusement coiffés en arrière, mi-longs et disciplinés.
-
-**Barbe :** Courte et grisonnante, encadrant une mâchoire carrée et une bouche fine, toujours sous contrôle.
-
-### Tenue vestimentaire
-Cerdon incarne l'élégance fonctionnelle. Il porte un **costume trois-pièces parfaitement ajusté** dans les tons bleu nuit et violets profonds :
-- Une **chemise violet sombre** au col rigide
-- Un **gilet bleu marine** boutonné avec précision
-- Un **pantalon assorti** à la coupe impeccable, légèrement retroussé aux chevilles
-- Des **gants de cuir noir** qu'il porte en permanence — un détail pratique autant que symbolique de sa discrétion
-
-Par-dessus, il arbore un **long manteau noir** à la coupe militaire, descendant jusqu'aux genoux :
-- Un imposant **col de fourrure noire** aux épaules, qui lui confère une silhouette imposante
-- Des **broderies dorées discrètes** sur les épaulettes et le long des coutures, seules concessions décoratives
-- Une **doublure rouge bordeaux** visible à l'intérieur, ajoutant une touche de couleur cachée
-- Des **boutons et fermoirs dorés** fonctionnels
-
-Il porte des **bottes de cuir noir**, pratiques et sobres, adaptées aux longues journées de marche dans les couloirs du palais.
-
-### Attitude et gestuelle
 Cerdon se déplace avec une **économie de mouvement calculée**. Chaque geste est mesuré, chaque pas assuré. Il a l'habitude de garder une main gantée repliée contre son torse dans une posture de réflexion, tandis que l'autre reste libre pour manipuler documents ou armes si nécessaire. Son port de tête est toujours droit, son regard toujours éveillé.
 
-Aucun ornement superflu, aucun bijou — Cerdon est un homme d'efficacité, pas d'apparat. Mais son élégance naturelle et la qualité de ses vêtements trahissent son rang et l'importance de sa fonction.
+## @face
 
----
+Son visage est marqué par les décennies de service, avec des traits anguleux et aristocratiques. Le temps y a tracé des **rides profondes et expressives**, particulièrement autour des yeux et au front, qui lui donnent une apparence sévère au repos, mais qui se muent en lignes de sagesse lorsqu'il se concentre.
 
-## Psychologie et caractère
+Ses yeux sont d'un **gris acier**, perçants et attentifs, toujours en train d'observer et d'analyser. Le regard est celui d'un stratège, d'un homme qui voit ce que les autres ne remarquent pas. Il porte des **lunettes rondes à monture dorée fine**, discrètes mais élégantes, qui ajoutent une touche intellectuelle à son apparence et qu'il ajuste machinalement quand il analyse une situation.
 
-### Loyauté absolue
-Cerdon sert [[characters/jadeus|Jadeus]] depuis des décennies. Cette loyauté n'est pas aveugle — il connaît les zones d'ombre de celle qu'il sert, y compris "dans les grandes lignes" ce qu'elle a fait il y a sept siècles. Pourtant, il reste. Cette fidélité repose sur une conviction : [[characters/jadeus|Jadeus]] n'est pas le monstre qu'elle croit être, et elle mérite quelqu'un qui le lui rappelle par sa présence même.
+Ses cheveux gris argenté sont soigneusement coiffés en arrière, mi-longs et disciplinés. Une **barbe courte et grisonnante** encadre sa mâchoire carrée et sa bouche fine, toujours sous contrôle.
 
-### L'homme qui montre plutôt qu'il ne parle
-Cerdon est économe en paroles. Il préfère les gestes, les silences éloquents, les regards qui en disent long. Quand il parle, c'est avec précision — jamais un mot de trop. Cette retenue n'est pas de la froideur : c'est la marque d'un homme qui a appris que les actes pèsent plus que les discours.
+## @clothes
 
-### Le stratège
-Derrière la loyauté se cache un esprit tactique redoutable. Cerdon est le cerveau militaire et politique que [[characters/jadeus|Jadeus]] consulte avant toute décision majeure. Il voit les coups d'avance, anticipe les conséquences, tempère les impulsions de sa maîtresse quand nécessaire.
+Cerdon incarne l'élégance fonctionnelle. Il porte un **costume trois-pièces parfaitement ajusté** dans les tons bleu nuit et violets profonds, composé d'une chemise violet sombre au col rigide, d'un gilet bleu marine boutonné avec précision et d'un pantalon assorti à la coupe impeccable, légèrement retroussé aux chevilles. Il porte en permanence des **gants de cuir noir**, détail à la fois pratique et symbolique de sa discrétion.
 
-### La compassion discrète
-Sous l'apparence de l'homme de guerre se cache une sensibilité qu'il ne montre que rarement. Face aux victimes du massacre de [[characters/jadeus|Jadeus]], il pose sa main sur un crâne — un geste de respect inattendu. Il comprend le poids du fardeau que porte [[characters/jadeus|Jadeus]], et ce fardeau l'émeut sans qu'il ne le dise jamais.
+Par-dessus, il arbore un **long manteau noir** à la coupe militaire, descendant jusqu'aux genoux. Un imposant col de fourrure noire aux épaules lui confère une silhouette imposante. Des broderies dorées discrètes ornent les épaulettes et le long des coutures, seules concessions décoratives. Une doublure rouge bordeaux est visible à l'intérieur, ajoutant une touche de couleur cachée. Des boutons et fermoirs dorés complètent l'ensemble.
 
----
+Il chausse des **bottes de cuir noir**, pratiques et sobres, adaptées aux longues journées de marche dans les couloirs du palais.
 
-## Histoire
+## @distinguishing-features
 
-### Origines
-Les détails de la jeunesse de Cerdon restent à développer. On sait qu'il a un passé militaire et qu'il a gravi les échelons jusqu'à devenir le conseiller le plus proche de [[characters/jadeus|Jadeus]].
+Cerdon ne porte aucun ornement superflu, aucun bijou. Il est un homme d'efficacité, pas d'apparat. Mais son élégance naturelle et la qualité de ses vêtements trahissent son rang et l'importance de sa fonction.
 
-### Entrée au service de Jadeus
-Les circonstances exactes de leur rencontre et de la naissance de cette relation de confiance sont à déterminer. Ce qui est certain : [[characters/jadeus|Jadeus]] lui accorde une confiance qu'elle n'offre à personne d'autre.
+# @personality
 
-### Position actuelle
-Cerdon est la personne la plus proche de [[characters/jadeus|Jadeus]] dans le [[locations/mortem-onell|Royaume Mort]]. Il a accès à des informations que personne d'autre ne possède. Il est également la **première personne à entrer dans le sanctuaire avec [[characters/jadeus|Jadeus]]** — un privilège qui témoigne de l'évolution de leur relation et de la volonté de [[characters/jadeus|Jadeus]] de ne plus porter seule le poids de son passé.
+## @core-traits
 
----
+Cerdon est un homme économe en paroles, préférant les gestes, les silences éloquents et les regards qui en disent long. Quand il parle, c'est avec précision, jamais un mot de trop. Cette retenue n'est pas de la froideur mais la marque d'un homme qui a appris que les actes pèsent plus que les discours.
 
-## Relations
+Derrière cette réserve se cache un **esprit tactique redoutable**. Cerdon est le cerveau militaire et politique que [[jadeus]] consulte avant toute décision majeure. Il voit les coups d'avance, anticipe les conséquences, tempère les impulsions de sa maîtresse quand nécessaire.
 
-### [[characters/jadeus|Jadeus]]
-Relation de confiance absolue. Cerdon est le conseiller, le confident, le témoin silencieux. Il voit en elle l'humanité qu'elle refuse de s'accorder. [[characters/jadeus|Jadeus]], de son côté, lui fait une confiance qu'elle n'accorde à personne — au point de lui révéler son plus grand secret.
+## @strengths
 
----
+- **Stratège exceptionnel** : Expert en tactique, capable d'anticiper les mouvements adverses et de conseiller sur les décisions complexes.
+- **Discrétion absolue** : Sait garder les secrets les plus lourds sans jamais les trahir.
+- **Lecture intuitive des situations** : Perçoit les non-dits, les tensions et les émotions dissimulées.
+- **Endurance mentale** : Capable de porter le poids de vérités terribles sans s'effondrer.
 
-## Capacités et attributs
+## @flaws
 
-### Compétences
-- **Stratégie militaire et politique :** Expert en tactique, capable d'anticiper les mouvements adverses et de conseiller sur les décisions complexes.
-- **Discrétion :** Sait garder les secrets les plus lourds sans jamais les trahir.
-- **Lecture des situations :** Perçoit les non-dits, les tensions, les émotions dissimulées.
-- **Endurance mentale :** Capable de porter le poids de vérités terribles sans s'effondrer.
+Cerdon possède un **dévouement excessif** envers [[jadeus]]. Son attachement pour elle pourrait le rendre vulnérable à des manipulations ciblant sa maîtresse. De plus, il est **humain, mortel, vieillissant**. Sa loyauté ne le protège pas du temps qui passe.
 
-### Limites
-- **Humain, mortel, vieillissant** — sa loyauté ne le protège pas du temps.
-- **Dévouement excessif** — son attachement pour [[characters/jadeus|Jadeus]] pourrait le rendre vulnérable à des manipulations ciblant sa maîtresse.
+## @fears-desires
 
----
+Cerdon porte une conviction profonde : [[jadeus]] n'est pas le monstre qu'elle croit être, et elle mérite quelqu'un qui le lui rappelle par sa présence même. Cette conviction le pousse à rester auprès d'elle malgré la connaissance des zones d'ombre de son passé.
 
-## Scènes clés
+Sous l'apparence de l'homme de guerre se cache une **sensibilité qu'il ne montre que rarement**. Face aux victimes du massacre de [[jadeus]], il pose sa main sur un crâne, un geste de respect inattendu. Il comprend le poids du fardeau que porte [[jadeus]], et ce fardeau l'émeut sans qu'il ne le dise jamais.
 
-### [[plot/scenes/sanctuaire-revelation|La Révélation du Sanctuaire]]
-Première entrée dans le sanctuaire de [[characters/jadeus|Jadeus]], où elle lui révèle l'ampleur du massacre. Cerdon découvre la montagne de squelettes — y compris les enfants — et comprend enfin l'ampleur du fardeau que porte sa maîtresse.
+## @behavior-social
 
-### [[plot/scenes/conseil-du-matin|Conseil du Matin]]
-Cerdon assiste à un conseil administratif ordinaire, observant [[characters/jadeus|Jadeus]] dans son rôle de dirigeante. Une scène qui montre leur complicité silencieuse et l'efficacité de leur collaboration.
+Cerdon adopte une attitude de témoin silencieux et de conseiller discret. Il observe plus qu'il ne parle, analyse plus qu'il ne réagit. Son comportement est marqué par une économie absolue de mouvement, jamais d'agitation inutile. Son vocabulaire est précis, parfois teinté de terminologie militaire, et son respect envers [[jadeus]] est profond mais jamais servile.
 
----
+# @abilities
 
-## Notes pour l'écriture
+## @combat
 
-### Points de cohérence
-- **L'âge de Cerdon (~70 ans)** implique qu'il ne connaît [[characters/jadeus|Jadeus]] que depuis quelques décennies au maximum — il n'était pas présent lors du massacre ni lors des siècles de reconstruction.
-- **Sa connaissance du passé de [[characters/jadeus|Jadeus]] est partielle** ("dans les grandes lignes") — il savait qu'elle avait commis des actes terribles, mais l'ampleur exacte (la montagne de squelettes, les enfants) lui est révélée dans la scène du sanctuaire.
+@wip
+Les détails de ses compétences martiales actuelles restent à développer, mais son passé militaire et sa carrure imposante suggèrent une formation au combat. À 70 ans, il privilégie probablement la stratégie à l'affrontement direct.
+@/wip
 
-### Ton et registre
+## @social-intellectual
+
+Cerdon excelle dans la **stratégie militaire et politique**. Il est capable d'anticiper les mouvements adverses, de conseiller sur les décisions complexes et de percevoir les dynamiques de pouvoir avec une acuité remarquable. Sa discrétion et sa capacité à lire les situations en font un atout inestimable pour [[jadeus]].
+
+# @background
+
+## Origines
+
+@wip
+Les détails de la jeunesse de Cerdon restent à développer. On sait qu'il a un **passé militaire** et qu'il a gravi les échelons jusqu'à devenir le conseiller le plus proche de [[jadeus]]. Sa carrure et sa posture témoignent d'années de formation militaire rigoureuse.
+@/wip
+
+## Entrée au service de Jadeus
+
+@wip
+Les circonstances exactes de leur rencontre et de la naissance de cette relation de confiance sont à déterminer. Ce qui est certain, c'est que [[jadeus]] lui accorde une confiance qu'elle n'offre à personne d'autre. Cerdon la sert depuis des décennies, ayant probablement rejoint son service quelques décennies avant l'époque actuelle.
+@/wip
+
+## Position actuelle
+
+Cerdon est la personne la plus proche de [[jadeus]] dans le [[mortem-onell|Royaume Mort]]. Il a accès à des informations que personne d'autre ne possède. Il connaît les zones d'ombre de celle qu'il sert, y compris "dans les grandes lignes" ce qu'elle a fait il y a sept siècles.
+
+Il est également la **première personne à entrer dans le sanctuaire avec [[jadeus]]**, un privilège qui témoigne de l'évolution de leur relation et de la volonté de [[jadeus]] de ne plus porter seule le poids de son passé. Cette révélation marque un tournant : Cerdon découvre la montagne de squelettes, y compris les enfants, et comprend enfin l'ampleur exacte du fardeau que porte sa maîtresse, au-delà de ce qu'il savait déjà.
+
+# @relationships
+
+- [[jadeus]] : Relation de **confiance absolue**. Cerdon est le conseiller, le confident, le témoin silencieux. Il voit en elle l'humanité qu'elle refuse de s'accorder. [[jadeus]], de son côté, lui fait une confiance qu'elle n'accorde à personne, au point de lui révéler son plus grand secret.
+
+# @goals
+
+Cerdon cherche à servir [[jadeus]] avec fidélité et à lui rappeler, par sa présence et ses actes, qu'elle n'est pas le monstre qu'elle croit être. Son objectif est de l'accompagner dans son fardeau, de tempérer ses impulsions quand nécessaire et de porter avec elle le poids de vérités que personne d'autre ne peut connaître.
+
+# Notes pour l'écriture
+
+## Points de cohérence
+
+- **L'âge de Cerdon (environ 70 ans)** implique qu'il ne connaît [[jadeus]] que depuis quelques décennies au maximum. Il n'était pas présent lors du massacre ni lors des siècles de reconstruction.
+- **Sa connaissance du passé de [[jadeus]] est partielle** ("dans les grandes lignes"). Il savait qu'elle avait commis des actes terribles, mais l'ampleur exacte (la montagne de squelettes, les enfants) lui est révélée dans la scène du sanctuaire.
+
+## Ton et registre
+
 - Parler peu, mais avec poids
 - Gestes significatifs, silences éloquents
 - Vocabulaire précis, militaire parfois
 - Respect profond mais jamais servile
 
-### Tics et manies
+## Tics et manies
+
 - Garde une main gantée repliée contre son torse en posture de réflexion
 - Ajuste ses lunettes quand il analyse une situation
-- Économie absolue de mouvement — jamais d'agitation inutile
+- Économie absolue de mouvement, jamais d'agitation inutile
+
+## Scènes clés
+
+### La Révélation du Sanctuaire
+
+Première entrée dans le sanctuaire de [[jadeus]], où elle lui révèle l'ampleur du massacre. Cerdon découvre la montagne de squelettes, y compris les enfants, et comprend enfin l'ampleur du fardeau que porte sa maîtresse.
+
+### Conseil du Matin
+
+Cerdon assiste à un conseil administratif ordinaire, observant [[jadeus]] dans son rôle de dirigeante. Une scène qui montre leur complicité silencieuse et l'efficacité de leur collaboration.
