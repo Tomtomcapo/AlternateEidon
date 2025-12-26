@@ -72,9 +72,6 @@ Le narrateur est incarné : il sent ses muscles, son cœur, sa gorge, ses doigts
 
 ## 5. Narration introspective
 
-### Point de vue interne dominant
-La narration à la première personne est privilégiée. Le lecteur accède directement aux pensées, aux doutes, aux questions du narrateur.
-
 ### Le monologue intérieur structuré
 Les réflexions du narrateur ne sont pas chaotiques mais organisées : questions rhétoriques, hypothèses, conclusions. La pensée se déploie de façon argumentative, presque logique, même dans l'émotion.
 
@@ -85,30 +82,15 @@ Le narrateur se pose constamment des questions, parfois en rafales. Ces interrog
 
 ## 6. Temporalité et transitions
 
-### Datation précise
-Les repères temporels sont souvent explicites : dates, heures, durées. Cette précision confère une objectivité apparente au récit, comme un journal de bord ou un rapport.
-
 ### Transitions fluides
 Le passage de l'action à la réflexion, du présent au souvenir, du dialogue à la description, s'effectue sans rupture brutale. Une phrase de transition, souvent sensorielle, assure la continuité.
-
-### Le présent de narration
-Le présent est fréquemment utilisé pour les passages introspectifs ou les moments de tension, créant une immédiateté qui rapproche le lecteur de l'expérience vécue.
 
 ---
 
 ## 7. Dialogues
 
-### Brièveté et fonction
-Les répliques sont courtes, rarement plus de deux ou trois phrases. Elles servent à :
-- Faire avancer l'intrigue
-- Révéler un trait de caractère
-- Créer un contrepoint au monologue intérieur
-
 ### Intégration narrative
 Les dialogues sont enchâssés dans des paragraphes descriptifs qui précisent le contexte : gestes, regards, tons de voix, réactions physiques des interlocuteurs.
-
-### Naturel maîtrisé
-Le dialogue sonne juste sans être familier. Les personnages s'expriment dans un registre cohérent avec leur caractérisation, mais le texte évite le relâchement ou l'oralité excessive.
 
 ---
 

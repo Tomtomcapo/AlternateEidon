@@ -1,0 +1,27 @@
+---
+title: "Alternate Eidon"
+author: "Thomas"
+lang: fr-FR
+documentclass: book
+papersize: a5
+fontsize: 11pt
+geometry:
+  - left=2cm
+  - right=1.5cm
+  - top=2cm
+  - bottom=2cm
+mainfont: Palatino
+linestretch: 1.0
+toc: false
+numbersections: false
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhf{}
+  \fancyhead[LE,RO]{\thepage}
+  \fancyhead[RE]{\leftmark}
+  \fancyhead[LO]{\rightmark}
+  \renewcommand{\headrulewidth}{0pt}
+  \usepackage{setspace}
+  \usepackage{microtype}
+---
