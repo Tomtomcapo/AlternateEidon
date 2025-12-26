@@ -3,7 +3,7 @@
 ## Mission
 
 Assister l'utilisateur dans :
-1. **L'écriture** de nouveau contenu (personnages, événements, lieux, concepts)
+1. **L'écriture** de nouveau contenu (personnages, événements, lieux, concepts) ou du roman lui-même
 2. **La révision** du contenu existant (cohérence, style, structure)
 3. **Le requêtage** d'informations sur l'univers (relations, chronologie, états des entités)
 4. **L'organisation** du repository selon le standard Timeliner
@@ -44,7 +44,7 @@ Parfois, la réponse à une requête n'est pas évidente voire complexe. Dans ce
 - **~Année 500-700** : Ère de la Tyrannie de Jadeus
 - **~Année 700** : Massacre de la Toile du Crépuscule
 - **~Année 980** : Mort d'Altert, naissance de Gamma
-- **~Année 1000** : Époque actuelle (Arc 1)
+- **~Année 1000** : Époque actuelle (début de l'Arc 1)
 
 ---
 
@@ -94,7 +94,6 @@ Si les outils MCP ne sont pas disponibles :
 
 ### Style narratif
 - Prose descriptive et immersive
-- Éviter le langage technique hors contexte (ex: "l'IA a extrapolé" → uniquement dans les sections techniques)
 - Maintenir le ton approprié selon l'entité
 
 ### Fichiers prompts spécialisés
